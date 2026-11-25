@@ -1,0 +1,2 @@
+# livinggo-guncelleme
+livinggo-guncelleme
