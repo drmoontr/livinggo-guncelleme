@@ -570,7 +570,7 @@
    "name": "Canal J",
    "tvg_id": "CanalJ.fr",
    "logo_key": "canalj",
-   "logo": false,
+   "logo": true,
    "aliases": []
   },
   {
@@ -1366,7 +1366,7 @@
    "name": "Europe2 Pop TV",
    "tvg_id": "Europe2PopTV.fr",
    "logo_key": "europe2pop",
-   "logo": true,
+   "logo": false,
    "aliases": [
     "cstarhitsfrance"
    ]
@@ -3335,7 +3335,7 @@
    "name": "Studiocanal",
    "tvg_id": "Studiocanal.fr",
    "logo_key": "studiocanal",
-   "logo": true,
+   "logo": false,
    "aliases": []
   },
   {
@@ -3825,7 +3825,7 @@
    "name": "TV5 Monde",
    "tvg_id": "TV5Monde.fr",
    "logo_key": "tv5monde",
-   "logo": false,
+   "logo": true,
    "aliases": [
     "tv5"
    ]
@@ -4053,7 +4053,7 @@
    "name": "ViaOccitanie Montpellier",
    "tvg_id": "ViaOccitanieMontpellier.fr",
    "logo_key": "viaoccitaniemontpellier",
-   "logo": true,
+   "logo": false,
    "aliases": []
   },
   {

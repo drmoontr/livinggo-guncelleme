@@ -2567,7 +2567,7 @@
    "name": "Kanal Turk",
    "tvg_id": "KanalTurk.tr",
    "logo_key": "kanalturk",
-   "logo": false,
+   "logo": true,
    "aliases": []
   },
   {
@@ -3814,7 +3814,7 @@
    "name": "Spacetoon Turkey",
    "tvg_id": "SpacetoonTurkey.tr",
    "logo_key": "spacetoonturkey",
-   "logo": false,
+   "logo": true,
    "aliases": [
     "spacetoonturkiye",
     "stoon",

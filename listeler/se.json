@@ -698,7 +698,7 @@
    "name": "Kunskapskanalen",
    "tvg_id": "Kunskapskanalen.se",
    "logo_key": "kunskapskanalen",
-   "logo": true,
+   "logo": false,
    "aliases": [
     "svtk"
    ]

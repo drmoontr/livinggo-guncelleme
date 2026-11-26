@@ -17,7 +17,7 @@
    "name": "AB3",
    "tvg_id": "AB3.be",
    "logo_key": "ab3",
-   "logo": false,
+   "logo": true,
    "aliases": []
   },
   {
@@ -278,7 +278,7 @@
    "name": "HGTV",
    "tvg_id": "HGTV.be",
    "logo_key": "hg",
-   "logo": true,
+   "logo": false,
    "aliases": []
   },
   {

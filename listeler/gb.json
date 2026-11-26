@@ -30,7 +30,7 @@
    "name": "5Action",
    "tvg_id": "5Action.uk",
    "logo_key": "5action",
-   "logo": true,
+   "logo": false,
    "aliases": [
     "paramountnetwork"
    ]
@@ -410,7 +410,7 @@
    "name": "BBC One",
    "tvg_id": "BBCOne.uk",
    "logo_key": "bbcone",
-   "logo": false,
+   "logo": true,
    "aliases": [
     "bbc1",
     "bbctelevision",
@@ -633,7 +633,7 @@
    "name": "BBC UHD 1",
    "tvg_id": "BBCUHD1.uk",
    "logo_key": "bbc1",
-   "logo": false,
+   "logo": true,
    "aliases": [
     "bbcuhd1"
    ]
@@ -743,7 +743,7 @@
    "name": "Bluey",
    "tvg_id": "Bluey.uk",
    "logo_key": "bluey",
-   "logo": true,
+   "logo": false,
    "aliases": []
   },
   {
@@ -922,14 +922,14 @@
    "name": "CBS Reality Africa",
    "tvg_id": "CBSRealityAfrica.uk",
    "logo_key": "cbsrealityafrica",
-   "logo": false,
+   "logo": true,
    "aliases": []
   },
   {
    "name": "CBS Reality EMEA",
    "tvg_id": "CBSRealityEMEA.uk",
    "logo_key": "cbsrealityemea",
-   "logo": false,
+   "logo": true,
    "aliases": []
   },
   {
@@ -1118,7 +1118,7 @@
    "name": "Clubland TV",
    "tvg_id": "ClublandTV.uk",
    "logo_key": "clubland",
-   "logo": false,
+   "logo": true,
    "aliases": []
   },
   {
@@ -2865,7 +2865,7 @@
    "name": "PBS America",
    "tvg_id": "PBSAmerica.uk",
    "logo_key": "pbsamerica",
-   "logo": true,
+   "logo": false,
    "aliases": []
   },
   {

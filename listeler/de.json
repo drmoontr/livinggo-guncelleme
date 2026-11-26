@@ -610,7 +610,7 @@
    "name": "Curiosity Channel",
    "tvg_id": "CuriosityChannel.de",
    "logo_key": "curiositychannel",
-   "logo": true,
+   "logo": false,
    "aliases": [
     "curiositychannelpoweredbyspiegel",
     "spiegeltvwissen",
@@ -921,7 +921,7 @@
    "name": "FC Bayern.TV",
    "tvg_id": "FCBayernTV.de",
    "logo_key": "fcbayern",
-   "logo": false,
+   "logo": true,
    "aliases": []
   },
   {
@@ -1173,7 +1173,7 @@
    "name": "HGTV",
    "tvg_id": "HGTV.de",
    "logo_key": "hg",
-   "logo": true,
+   "logo": false,
    "aliases": [
     "homegarden"
    ]
@@ -1537,7 +1537,7 @@
    "name": "MC TV",
    "tvg_id": "MCTV.de",
    "logo_key": "mc",
-   "logo": false,
+   "logo": true,
    "aliases": [
     "mceu"
    ]
@@ -1815,7 +1815,7 @@
    "name": "N24 Doku",
    "tvg_id": "N24Doku.de",
    "logo_key": "n24doku",
-   "logo": true,
+   "logo": false,
    "aliases": []
   },
   {
@@ -2258,7 +2258,7 @@
    "name": "One",
    "tvg_id": "One.de",
    "logo_key": "one",
-   "logo": false,
+   "logo": true,
    "aliases": [
     "einsfestival"
    ]
@@ -2428,7 +2428,7 @@
    "name": "Pluto TV ANIME GO!",
    "tvg_id": "PlutoTVANIMEGO.de",
    "logo_key": "plutotvanimego",
-   "logo": false,
+   "logo": true,
    "aliases": []
   },
   {
@@ -3345,7 +3345,7 @@
    "name": "rbb Fernsehen",
    "tvg_id": "rbbFernsehen.de",
    "logo_key": "rbbfernsehen",
-   "logo": false,
+   "logo": true,
    "aliases": []
   },
   {

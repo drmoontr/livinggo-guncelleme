@@ -581,7 +581,7 @@
    "name": "HGTV",
    "tvg_id": "HGTV.nl",
    "logo_key": "hg",
-   "logo": true,
+   "logo": false,
    "aliases": [
     "homegardentelevision"
    ]
@@ -1229,7 +1229,7 @@
    "name": "Paramount Network",
    "tvg_id": "ParamountNetwork.nl",
    "logo_key": "paramountnetwork",
-   "logo": true,
+   "logo": false,
    "aliases": []
   },
   {

@@ -315,7 +315,7 @@
    "name": "TV 2 Direkte",
    "tvg_id": "TV2Direkte.no",
    "logo_key": "tv2direkte",
-   "logo": true,
+   "logo": false,
    "aliases": []
   },
   {
