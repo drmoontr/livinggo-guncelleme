@@ -1,0 +1,11 @@
+{
+ "versionCode": 164,
+ "versionName": "1.0.164",
+ "file": "LivingGo-Universal-1.0.164.apk",
+ "parts": [
+  "LivingGo-Universal-1.0.164.apk.part1",
+  "LivingGo-Universal-1.0.164.apk.part2"
+ ],
+ "size": 131790496,
+ "sha256": "fbb6f9c212af20c5d434f4d7b4ae0381f2fce9adf9fba2a5590a132dd898acef"
+}
