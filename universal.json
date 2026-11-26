@@ -1,0 +1,17 @@
+{
+ "variant": "universal",
+ "package": "com.livinggo.pro.debug",
+ "versionCode": 186,
+ "versionName": "1.0.186",
+ "file": "LivingGo-universal-1.0.186.apk",
+ "size": 133796065,
+ "sha256": "bd7525d39d6c6e4b5e7702648e8267bc2e572e91ba1e72873a3f91de3d328854",
+ "notes": {
+  "tr": "• Her APK artık sadece kendi güncellemesini alır; güncelleme siz onaylayınca arka planda iner\n• Kanal/kategori düzenleme: OK'a 3 sn basın — taşı, sil, gizle, favori, listeme kopyala (20 kanala kadar)\n• Ana menüde Liste Güncelle butonu (yüzdeli yükleme)\n• Saat/tarih/hava her bölüm için ayrı açılıp kapanır, piksel hassas konum\n• Bağlantı ve üyelik bitiş uyarıları\n• Kumanda daha akıcı: OK tek basışta çalışır\n• Radyo: 30 kategori telifsiz 4K fotoğraf ve sessiz videolar\n• Giriş ekranında cihaz MAC adresi",
+  "en": "• Each APK now gets only its own update; it downloads in the background after you confirm\n• Channel/category editing: hold OK 3 s — move, delete, hide, favourites, copy to my list (up to 20)\n• Update list button on the home screen (with percentage)\n• Clock/date/weather on/off per section, pixel-exact position\n• Connection and membership expiry notices\n• Smoother remote: OK works on the first press\n• Radio: 30 topics of copyright-free 4K photos and silent videos\n• Device MAC address on the login screen"
+ },
+ "parts": [
+  "LivingGo-universal-1.0.186.apk.part1",
+  "LivingGo-universal-1.0.186.apk.part2"
+ ]
+}
