@@ -1,13 +1,13 @@
 {
  "variant": "arm64",
  "package": "com.livinggo.pro.member.debug",
- "versionCode": 198,
- "versionName": "1.0.198",
- "file": "LivingGo-arm64-1.0.198.apk",
- "size": 60360371,
- "sha256": "ad1375fdd2d3a6a77be3d221e17aef40d00a213f7d8d473b28191b459198c2c1",
+ "versionCode": 204,
+ "versionName": "1.0.204",
+ "file": "LivingGo-arm64-1.0.204.apk",
+ "size": 60458986,
+ "sha256": "69317040b0b89e8bf6c74119d972e65b9467890d817146b00f3ae709be5a0f2a",
  "notes": {
-  "tr": "• Kanal listesi: OK basılı tut → Taşı, Favori, Yeniden adlandır, Gizle, Sil (Enigma2 tek kanal taşıma)\n• Info Bar: yeni varsayılan görünüm, butonlar ortada, buton çubuğu uzunluk ayarı\n• Mini önizleme sesli oynar\n• Sol menü 3D renkli yazılar (Ayarlar → Ana menü)\n• Ayarlar arka planı sesli %35\n• Gizlilik: izleme geçmişini temizle",
-  "en": "• Channel list: hold OK → Move, Favourite, Rename, Hide, Delete (Enigma2 single-channel move)\n• Info Bar: new default look, centred buttons, button row length setting\n• Mini preview plays with sound\n• Side menu 3D colourful labels (Settings → Main menu)\n• Settings backdrop with sound at 35 %\n• Privacy: clear watch history"
+  "tr": "• Yeni sürüm uyarısı ana ekranda pencere olarak (yüzdeli indirme, sürüm bilgisi, ŞİMDİ GÜNCELLE)\n• Arka plandaki canlı yayın ve mini önizleme donmaz\n• Menü yazısı: 10 renk, 3D / 2D\n• Kategori, kanal, radyo ve afiş isimleri renklendirme\n• TRT 4K ve Türk kanallarında EPG düzeltmesi",
+  "en": "• New version notice as a window on the home screen (download with %, version info, UPDATE NOW)\n• Background live picture and mini preview no longer freeze\n• Menu text: 10 colours, 3D / 2D\n• Colours for category, channel, radio and poster names\n• Guide fix for TRT 4K and Turkish channels"
  }
 }
