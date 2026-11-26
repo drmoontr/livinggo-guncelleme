@@ -1,0 +1,2158 @@
+{
+ "country": "Sweden",
+ "code": "se",
+ "epg": {
+  "open_epg": [
+   "https://www.open-epg.com/files/sweden.xml",
+   "https://www.open-epg.com/files/sweden1.xml",
+   "https://www.open-epg.com/files/sweden2.xml",
+   "https://www.open-epg.com/files/sweden3.xml",
+   "https://www.open-epg.com/files/sweden4.xml",
+   "https://www.open-epg.com/files/sweden5.xml",
+   "https://www.open-epg.com/files/sweden6.xml"
+  ],
+  "iptv_epg": [
+   "https://iptv-epg.org/files/epg-se.xml"
+  ]
+ },
+ "channels": [
+  {
+   "name": "2900 Happiness",
+   "tvg_id": "2900Happiness.se",
+   "logo_key": "2900happiness",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "7th Heaven",
+   "tvg_id": "7thHeaven.se",
+   "logo_key": "7thheaven",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Aftonbladet TV",
+   "tvg_id": "AftonbladetTV.se",
+   "logo_key": "aftonbladet",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Are You The One?",
+   "tvg_id": "AreYouTheOne.se",
+   "logo_key": "areyoutheone",
+   "logo": true,
+   "aliases": [
+    "mtvareyoutheone"
+   ]
+  },
+  {
+   "name": "Aryen TV",
+   "tvg_id": "AryenTV.se",
+   "logo_key": "aryen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ATG",
+   "tvg_id": "ATG.se",
+   "logo_key": "atg",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ATG Live",
+   "tvg_id": "ATGLive.se",
+   "logo_key": "atglive",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Auction Hunters",
+   "tvg_id": "AuctionHunters.se",
+   "logo_key": "auctionhunters",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Avatar",
+   "tvg_id": "Avatar.se",
+   "logo_key": "avatar",
+   "logo": true,
+   "aliases": [
+    "nickelodeonavatar",
+    "avatar+"
+   ]
+  },
+  {
+   "name": "Awkward",
+   "tvg_id": "Awkward.se",
+   "logo_key": "awkward",
+   "logo": true,
+   "aliases": [
+    "mtvawkward"
+   ]
+  },
+  {
+   "name": "Axess TV",
+   "tvg_id": "AxessTV.se",
+   "logo_key": "axess",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Aznews TV",
+   "tvg_id": "AznewsTV.se",
+   "logo_key": "aznews",
+   "logo": true,
+   "aliases": [
+    "azerbaijannews"
+   ]
+  },
+  {
+   "name": "Beavis and Butt-Head",
+   "tvg_id": "BeavisandButtHead.se",
+   "logo_key": "beavisandbutthead",
+   "logo": true,
+   "aliases": [
+    "mtvbeavisandbutthead"
+   ]
+  },
+  {
+   "name": "Becker",
+   "tvg_id": "Becker.se",
+   "logo_key": "becker",
+   "logo": true,
+   "aliases": [
+    "cbsbecker"
+   ]
+  },
+  {
+   "name": "Best of MTV",
+   "tvg_id": "BestofMTV.se",
+   "logo_key": "bestofm",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Best of Paradise Hotel: Finalveckan",
+   "tvg_id": "BestofParadiseHotelFinalveckan.se",
+   "logo_key": "bestofparadisehotelfinalveckan",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Best of Paradise Hotel: Kyssar & karlek",
+   "tvg_id": "BestofParadiseHotelKyssarkarlek.se",
+   "logo_key": "bestofparadisehotelkyssarkarlek",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Best of Paradise Hotel: Pandoras Ask",
+   "tvg_id": "BestofParadiseHotelPandorasAsk.se",
+   "logo_key": "bestofparadisehotelpandorasask",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Best of Paradise Hotel: Skolveckan",
+   "tvg_id": "BestofParadiseHotelSkolveckan.se",
+   "logo_key": "bestofparadisehotelskolveckan",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BET",
+   "tvg_id": "BET.se",
+   "logo_key": "bet",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Boligjakten",
+   "tvg_id": "Boligjakten.se",
+   "logo_key": "boligjakten",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Boligkjop i blinde",
+   "tvg_id": "Boligkjopiblinde.se",
+   "logo_key": "boligkjopiblinde",
+   "logo": true,
+   "aliases": [
+    "boligkjpiblinde"
+   ]
+  },
+  {
+   "name": "Boligkob i blinde",
+   "tvg_id": "Boligkobiblinde.se",
+   "logo_key": "boligkobiblinde",
+   "logo": true,
+   "aliases": [
+    "boligkbiblinde"
+   ]
+  },
+  {
+   "name": "Breinholts",
+   "tvg_id": "Breinholts.se",
+   "logo_key": "breinholts",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Brhan TV",
+   "tvg_id": "BrhanTV.se",
+   "logo_key": "brhan",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Britain's Next Top Model",
+   "tvg_id": "BritainsNextTopModel.se",
+   "logo_key": "britainsnexttopmodel",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Broad City",
+   "tvg_id": "BroadCity.se",
+   "logo_key": "broadcity",
+   "logo": true,
+   "aliases": [
+    "comedycentralbroadcity"
+   ]
+  },
+  {
+   "name": "Brondby TV",
+   "tvg_id": "BrondbyTV.se",
+   "logo_key": "brondby",
+   "logo": true,
+   "aliases": [
+    "brndby"
+   ]
+  },
+  {
+   "name": "Bull",
+   "tvg_id": "Bull.se",
+   "logo_key": "bull",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Buying Blind Denmark",
+   "tvg_id": "BuyingBlindDenmark.se",
+   "logo_key": "buyingblinddenmark",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Camp Kulinaris",
+   "tvg_id": "CampKulinaris.se",
+   "logo_key": "campkulinaris",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Caroline in the City",
+   "tvg_id": "CarolineintheCity.se",
+   "logo_key": "carolineinthecity",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Catfish: OMG!",
+   "tvg_id": "CatfishOMG.se",
+   "logo_key": "catfishomg",
+   "logo": true,
+   "aliases": [
+    "mtvcatfishomg"
+   ]
+  },
+  {
+   "name": "Chappelle's Show",
+   "tvg_id": "ChappellesShow.se",
+   "logo_key": "chappellesshow",
+   "logo": true,
+   "aliases": [
+    "comedycentralchappellesshow"
+   ]
+  },
+  {
+   "name": "Charterfeber",
+   "tvg_id": "Charterfeber.se",
+   "logo_key": "charterfeber",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Comedy Central",
+   "tvg_id": "ComedyCentral.se",
+   "logo_key": "comedycentral",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Comedy Central Roast",
+   "tvg_id": "ComedyCentralRoast.se",
+   "logo_key": "comedycentralroast",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Crazy Ex-Girlfriend",
+   "tvg_id": "CrazyExGirlfriend.se",
+   "logo_key": "crazyexgirlfriend",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Dalavision",
+   "tvg_id": "Dalavision.se",
+   "logo_key": "dalavision",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Dallas Cowboys Cheerleaders",
+   "tvg_id": "DallasCowboysCheerleaders.se",
+   "logo_key": "dallascowboyscheerleaders",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Dating Naked UK",
+   "tvg_id": "DatingNakedUK.se",
+   "logo_key": "datingnakeduk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "De unge modre",
+   "tvg_id": "Deungemodre.se",
+   "logo_key": "deungemodre",
+   "logo": true,
+   "aliases": [
+    "deungemdre"
+   ]
+  },
+  {
+   "name": "Den gule sofa med Allan Sindberg",
+   "tvg_id": "DengulesofamedAllanSindberg.se",
+   "logo_key": "dengulesofamedallansindberg",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Det sene show med Christian Fuhlendorff",
+   "tvg_id": "DetseneshowmedChristianFuhlendorff.se",
+   "logo_key": "detseneshowmedchristianfuhlendorff",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Di TV",
+   "tvg_id": "DiTV.se",
+   "logo_key": "di",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Discovery Channel",
+   "tvg_id": "DiscoveryChannel.se",
+   "logo_key": "discoverychannel",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Discovery+ Extra 1",
+   "tvg_id": "DiscoveryPlusExtra1.se",
+   "logo_key": "discovery+extra1",
+   "logo": true,
+   "aliases": [
+    "discoveryplusextra1"
+   ]
+  },
+  {
+   "name": "Discovery+ Extra 2",
+   "tvg_id": "DiscoveryPlusExtra2.se",
+   "logo_key": "discovery+extra2",
+   "logo": true,
+   "aliases": [
+    "discoveryplusextra2"
+   ]
+  },
+  {
+   "name": "Discovery+ Extra 3",
+   "tvg_id": "DiscoveryPlusExtra3.se",
+   "logo_key": "discovery+extra3",
+   "logo": true,
+   "aliases": [
+    "discoveryplusextra3"
+   ]
+  },
+  {
+   "name": "Discovery+ Extra 4",
+   "tvg_id": "DiscoveryPlusExtra4.se",
+   "logo_key": "discovery+extra4",
+   "logo": true,
+   "aliases": [
+    "discoveryplusextra4"
+   ]
+  },
+  {
+   "name": "Discovery+ Extra 5",
+   "tvg_id": "DiscoveryPlusExtra5.se",
+   "logo_key": "discovery+extra5",
+   "logo": true,
+   "aliases": [
+    "discoveryplusextra5"
+   ]
+  },
+  {
+   "name": "Discovery+ Extra 6",
+   "tvg_id": "DiscoveryPlusExtra6.se",
+   "logo_key": "discovery+extra6",
+   "logo": true,
+   "aliases": [
+    "discoveryplusextra6"
+   ]
+  },
+  {
+   "name": "Discovery+ Extra 7",
+   "tvg_id": "DiscoveryPlusExtra7.se",
+   "logo_key": "discovery+extra7",
+   "logo": true,
+   "aliases": [
+    "discoveryplusextra7"
+   ]
+  },
+  {
+   "name": "Discovery+ Extra 8",
+   "tvg_id": "DiscoveryPlusExtra8.se",
+   "logo_key": "discovery+extra8",
+   "logo": true,
+   "aliases": [
+    "discoveryplusextra8"
+   ]
+  },
+  {
+   "name": "Efterlyst",
+   "tvg_id": "Efterlyst.se",
+   "logo_key": "efterlyst",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "eSportsTV",
+   "tvg_id": "eSportsTV.se",
+   "logo_key": "esports",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Eventyrlig Oppussing",
+   "tvg_id": "EventyrligOppussing.se",
+   "logo_key": "eventyrligoppussing",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Everybody Hates Chris",
+   "tvg_id": "EverybodyHatesChris.se",
+   "logo_key": "everybodyhateschris",
+   "logo": true,
+   "aliases": [
+    "cbseverybodyhateschris"
+   ]
+  },
+  {
+   "name": "Expressen TV",
+   "tvg_id": "ExpressenTV.se",
+   "logo_key": "expressen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Familien fra Bryggen",
+   "tvg_id": "FamilienfraBryggen.se",
+   "logo_key": "familienfrabryggen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "FBoy Island",
+   "tvg_id": "FBoyIsland.se",
+   "logo_key": "fboyisland",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "FCK Lovinderne",
+   "tvg_id": "FCKLovinderne.se",
+   "logo_key": "fcklovinderne",
+   "logo": true,
+   "aliases": [
+    "fcklvinderne"
+   ]
+  },
+  {
+   "name": "For laekker til love",
+   "tvg_id": "Forlaekkertillove.se",
+   "logo_key": "forlaekkertillove",
+   "logo": true,
+   "aliases": [
+    "forlkkertillove"
+   ]
+  },
+  {
+   "name": "Forsidefruer",
+   "tvg_id": "Forsidefruer.se",
+   "logo_key": "forsidefruer",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Frasier: Nilesin parhaat",
+   "tvg_id": "FrasierNilesinparhaat.se",
+   "logo_key": "frasiernilesinparhaat",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Frasier: tahtivieraat",
+   "tvg_id": "Frasiertahtivieraat.se",
+   "logo_key": "frasiertahtivieraat",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Freaks and Geeks",
+   "tvg_id": "FreaksandGeeks.se",
+   "logo_key": "freaksandgeeks",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Frusna Vagar",
+   "tvg_id": "FrusnaVagar.se",
+   "logo_key": "frusnavagar",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Geordie Shore",
+   "tvg_id": "GeordieShore.se",
+   "logo_key": "geordieshore",
+   "logo": true,
+   "aliases": [
+    "mtvgeordieshore"
+   ]
+  },
+  {
+   "name": "Glimt TV",
+   "tvg_id": "GlimtTV.se",
+   "logo_key": "glimt",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Godare",
+   "tvg_id": "Godare.se",
+   "logo_key": "godare",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Gustav & Linse pa udebane",
+   "tvg_id": "GustavLinsepaudebane.se",
+   "logo_key": "gustavlinsepaudebane",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "History",
+   "tvg_id": "History.se",
+   "logo_key": "history",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Hogspanning",
+   "tvg_id": "Hogspanning.se",
+   "logo_key": "hogspanning",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "House of Lies",
+   "tvg_id": "HouseofLies.se",
+   "logo_key": "houseoflies",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Investigation Discovery",
+   "tvg_id": "InvestigationDiscovery.se",
+   "logo_key": "investigationdiscovery",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Jersey Shore Family Vacation",
+   "tvg_id": "JerseyShoreFamilyVacation.se",
+   "logo_key": "jerseyshorefamilyvacation",
+   "logo": true,
+   "aliases": [
+    "mtvjerseyshorefamilyvacation"
+   ]
+  },
+  {
+   "name": "Jonkopings Lokal-TV",
+   "tvg_id": "JonkopingsLokalTV.se",
+   "logo_key": "jonkopingslokal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Judge Judy",
+   "tvg_id": "JudgeJudy.se",
+   "logo_key": "judgejudy",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kanal 10",
+   "tvg_id": "Kanal10.se",
+   "logo_key": "kanal10",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kanal 10 Asia",
+   "tvg_id": "Kanal10Asia.se",
+   "logo_key": "kanal10asia",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kanal 11",
+   "tvg_id": "Kanal11.se",
+   "logo_key": "kanal11",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Kanal 5",
+   "tvg_id": "Kanal5.se",
+   "logo_key": "kanal5",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Kanal 9",
+   "tvg_id": "Kanal9.se",
+   "logo_key": "kanal9",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Key & Peele",
+   "tvg_id": "KeyPeele.se",
+   "logo_key": "keypeele",
+   "logo": true,
+   "aliases": [
+    "comedycentralkeypeele"
+   ]
+  },
+  {
+   "name": "Klovn",
+   "tvg_id": "Klovn.se",
+   "logo_key": "klovn",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Koch'en pa toppen",
+   "tvg_id": "Kochenpatoppen.se",
+   "logo_key": "kochenpatoppen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Komala TV",
+   "tvg_id": "KomalaTV.se",
+   "logo_key": "komala",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kunnian miehet",
+   "tvg_id": "Kunnianmiehet.se",
+   "logo_key": "kunnianmiehet",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kunskapskanalen",
+   "tvg_id": "Kunskapskanalen.se",
+   "logo_key": "kunskapskanalen",
+   "logo": true,
+   "aliases": [
+    "svtk"
+   ]
+  },
+  {
+   "name": "Langt fra Bryggen",
+   "tvg_id": "LangtfraBryggen.se",
+   "logo_key": "langtfrabryggen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Lemmenlaiva",
+   "tvg_id": "Lemmenlaiva.se",
+   "logo_key": "lemmenlaiva",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "LifeStyleTV",
+   "tvg_id": "LifeStyleTV.se",
+   "logo_key": "lifestyle",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Lokal-TV Uddevalla",
+   "tvg_id": "LokalTVUddevalla.se",
+   "logo_key": "lokaltvuddevalla",
+   "logo": true,
+   "aliases": [
+    "fyrbodal"
+   ]
+  },
+  {
+   "name": "Luksusfaelden",
+   "tvg_id": "Luksusfaelden.se",
+   "logo_key": "luksusfaelden",
+   "logo": true,
+   "aliases": [
+    "luksusflden"
+   ]
+  },
+  {
+   "name": "Luksusfellen",
+   "tvg_id": "Luksusfellen.se",
+   "logo_key": "luksusfellen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Luksusfellen Sverige",
+   "tvg_id": "LuksusfellenSverige.se",
+   "logo_key": "luksusfellensverige",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Lyxfallan",
+   "tvg_id": "Lyxfallan.se",
+   "logo_key": "lyxfallan",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Lyxfallan Danmark",
+   "tvg_id": "LyxfallanDanmark.se",
+   "logo_key": "lyxfallandanmark",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Lyxfallan Norge",
+   "tvg_id": "LyxfallanNorge.se",
+   "logo_key": "lyxfallannorge",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Man with a Plan",
+   "tvg_id": "ManwithaPlan.se",
+   "logo_key": "manwithaplan",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MasterChef Danmarks storste madtalenter",
+   "tvg_id": "MasterChefDanmarksstorstemadtalenter.se",
+   "logo_key": "masterchefdanmarksstorstemadtalenter",
+   "logo": true,
+   "aliases": [
+    "masterchefdanmarksstrstemadtalenter"
+   ]
+  },
+  {
+   "name": "McLeods dotre & Grantchester",
+   "tvg_id": "McLeodsdotreGrantchester.se",
+   "logo_key": "mcleodsdotregrantchester",
+   "logo": true,
+   "aliases": [
+    "mcleodsdtregrantchester"
+   ]
+  },
+  {
+   "name": "Med kniven for struben",
+   "tvg_id": "Medknivenforstruben.se",
+   "logo_key": "medknivenforstruben",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Medium",
+   "tvg_id": "Medium.se",
+   "logo_key": "medium",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Merry Christmas from Viafree",
+   "tvg_id": "MerryChristmasfromViafree.se",
+   "logo_key": "merrychristmasfromviafree",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Miracle Channel",
+   "tvg_id": "MiracleChannel.se",
+   "logo_key": "miraclechannel",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Mit plastikmareridt",
+   "tvg_id": "Mitplastikmareridt.se",
+   "logo_key": "mitplastikmareridt",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MTV Awkward",
+   "tvg_id": "MTVAwkward.se",
+   "logo_key": "mtvawkward",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MTV Ex On The Beach",
+   "tvg_id": "MTVExOnTheBeach.se",
+   "logo_key": "mtvexonthebeach",
+   "logo": true,
+   "aliases": [
+    "exonthebeach"
+   ]
+  },
+  {
+   "name": "MTV Geordie Shore",
+   "tvg_id": "MTVGeordieShore.se",
+   "logo_key": "mtvgeordieshore",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MTV Siesta Key",
+   "tvg_id": "MTVSiestaKey.se",
+   "logo_key": "mtvsiestakey",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MTV The Hills",
+   "tvg_id": "MTVTheHills.se",
+   "logo_key": "mtvthehills",
+   "logo": true,
+   "aliases": [
+    "thehills"
+   ]
+  },
+  {
+   "name": "Musik i Syd Channel",
+   "tvg_id": "MusikiSydChannel.se",
+   "logo_key": "musikisydchannel",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Nain meilla",
+   "tvg_id": "Nainmeilla.se",
+   "logo_key": "nainmeilla",
+   "logo": true,
+   "aliases": [
+    "nickelodeonnainmeilla"
+   ]
+  },
+  {
+   "name": "Nakija",
+   "tvg_id": "Nakija.se",
+   "logo_key": "nakija",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "National Geographic",
+   "tvg_id": "NationalGeographic.se",
+   "logo_key": "nationalgeographic",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "National Geographic Wild",
+   "tvg_id": "NationalGeographicWild.se",
+   "logo_key": "nationalgeographicwild",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "NCIS: Det bedste med Gibbs",
+   "tvg_id": "NCISDetbedstemedGibbs.se",
+   "logo_key": "detbedstemedgibbs",
+   "logo": true,
+   "aliases": [
+    "ncisdetbedstemedgibbs",
+    "cbsncisdetbedstemedgibbs"
+   ]
+  },
+  {
+   "name": "NCIS: Det bedste med Tony & Ziva",
+   "tvg_id": "NCISDetbedstemedTonyZiva.se",
+   "logo_key": "detbedstemedtonyziva",
+   "logo": true,
+   "aliases": [
+    "ncisdetbedstemedtonyziva",
+    "cbsncisdetbedstemedtonyziva"
+   ]
+  },
+  {
+   "name": "NCIS: Gibbsin parhaat",
+   "tvg_id": "NCISGibbsinparhaat.se",
+   "logo_key": "gibbsinparhaat",
+   "logo": true,
+   "aliases": [
+    "ncisgibbsinparhaat",
+    "cbsncisgibbsinparhaat"
+   ]
+  },
+  {
+   "name": "NCIS: Tonyn ja Zivan parhaat",
+   "tvg_id": "NCISTonynjaZivanparhaat.se",
+   "logo_key": "tonynjazivanparhaat",
+   "logo": true,
+   "aliases": [
+    "ncistonynjazivanparhaat",
+    "cbsncistonynjazivanparhaat"
+   ]
+  },
+  {
+   "name": "Nickelodeon",
+   "tvg_id": "Nickelodeon.se",
+   "logo_key": "nickelodeon",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "NonStop Kung Fu",
+   "tvg_id": "NonStopKungFu.se",
+   "logo_key": "nonstopkungfu",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Nordisk krim fra Viaplay",
+   "tvg_id": "NordiskkrimfraViaplay.se",
+   "logo_key": "nordiskkrimfraviaplay",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Oppna Kanalen Goteborg",
+   "tvg_id": "OppnaKanalenGoteborg.se",
+   "logo_key": "oppnakanalengoteborg",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Oppna Kanalen Hoglandet",
+   "tvg_id": "OppnaKanalenHoglandet.se",
+   "logo_key": "oppnakanalenhoglandet",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Oppna Kanalen Kronoberg",
+   "tvg_id": "OppnaKanalenKronoberg.se",
+   "logo_key": "oppnakanalenkronoberg",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Oppna Kanalen Narke",
+   "tvg_id": "OppnaKanalenNarke.se",
+   "logo_key": "oppnakanalennarke",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Oppna Kanalen Skovde",
+   "tvg_id": "OppnaKanalenSkovde.se",
+   "logo_key": "oppnakanalenskovde",
+   "logo": true,
+   "aliases": [
+    "oppnakanlenskovde"
+   ]
+  },
+  {
+   "name": "Oppna Kanalen Stockholm",
+   "tvg_id": "OppnaKanalenStockholm.se",
+   "logo_key": "oppnakanalenstockholm",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Paavo Pesusieni",
+   "tvg_id": "PaavoPesusieni.se",
+   "logo_key": "paavopesusieni",
+   "logo": true,
+   "aliases": [
+    "nickelodeonpaavopesusieni"
+   ]
+  },
+  {
+   "name": "Paradise",
+   "tvg_id": "Paradise.se",
+   "logo_key": "paradise",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Paradise Hotel",
+   "tvg_id": "ParadiseHotel.se",
+   "logo_key": "paradisehotel",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Paradise Hotel: Under lagnerne",
+   "tvg_id": "ParadiseHotelUnderlagnerne.se",
+   "logo_key": "paradisehotelunderlagnerne",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Paramount+ Movies",
+   "tvg_id": "ParamountPlusMovies.se",
+   "logo_key": "paramount+movies",
+   "logo": true,
+   "aliases": [
+    "paramountplusmovies"
+   ]
+  },
+  {
+   "name": "Paramount+ Series",
+   "tvg_id": "ParamountPlusSeries.se",
+   "logo_key": "paramount+series",
+   "logo": true,
+   "aliases": [
+    "paramountplusseries"
+   ]
+  },
+  {
+   "name": "Perhe on paras",
+   "tvg_id": "Perheonparas.se",
+   "logo_key": "perheonparas",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Alien Invasion",
+   "tvg_id": "PlutoTVAlienInvasion.se",
+   "logo_key": "plutotvalieninvasion",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Britit",
+   "tvg_id": "PlutoTVBritit.se",
+   "logo_key": "plutotvbritit",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Brittisk Crime & Drama",
+   "tvg_id": "PlutoTVBrittiskCrimeDrama.se",
+   "logo_key": "plutotvbrittiskcrimedrama",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Bud & Terence",
+   "tvg_id": "PlutoTVBudTerence.se",
+   "logo_key": "plutotvbudterence",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Buskis",
+   "tvg_id": "PlutoTVBuskis.se",
+   "logo_key": "plutotvbuskis",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Danske klassikere",
+   "tvg_id": "PlutoTVDanskeklassikere.se",
+   "logo_key": "plutotvdanskeklassikere",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Dokkarit",
+   "tvg_id": "PlutoTVDokkarit.se",
+   "logo_key": "plutotvdokkarit",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Dokumentar",
+   "tvg_id": "PlutoTVDokumentar.se",
+   "logo_key": "plutotvdokumentar",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Film",
+   "tvg_id": "PlutoTVFilm.se",
+   "logo_key": "plutotvfilm",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Fishing",
+   "tvg_id": "PlutoTVFishing.se",
+   "logo_key": "plutotvfishing",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Handbold Highlights",
+   "tvg_id": "PlutoTVHandboldHighlights.se",
+   "logo_key": "plutotvhandboldhighlights",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Handbold Live",
+   "tvg_id": "PlutoTVHandboldLive.se",
+   "logo_key": "plutotvhandboldlive",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Handboll Highlights",
+   "tvg_id": "PlutoTVHandbollHighlights.se",
+   "logo_key": "plutotvhandbollhighlights",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Handboll Live",
+   "tvg_id": "PlutoTVHandbollLive.se",
+   "logo_key": "plutotvhandbolllive",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Harlequin",
+   "tvg_id": "PlutoTVHarlequin.se",
+   "logo_key": "plutotvharlequin",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV John Wayne",
+   "tvg_id": "PlutoTVJohnWayne.se",
+   "logo_key": "plutotvjohnwayne",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Juniorikerho",
+   "tvg_id": "PlutoTVJuniorikerho.se",
+   "logo_key": "plutotvjuniorikerho",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Juniorklubben",
+   "tvg_id": "PlutoTVJuniorklubben.se",
+   "logo_key": "plutotvjuniorklubben",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Kauhu",
+   "tvg_id": "PlutoTVKauhu.se",
+   "logo_key": "plutotvkauhu",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Klassiske tegnefilm",
+   "tvg_id": "PlutoTVKlassisketegnefilm.se",
+   "logo_key": "plutotvklassisketegnefilm",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Klassiske tegnefilmer",
+   "tvg_id": "PlutoTVKlassisketegnefilmer.se",
+   "logo_key": "plutotvklassisketegnefilmer",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Komedi",
+   "tvg_id": "PlutoTVKomedi.se",
+   "logo_key": "plutotvkomedi",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Komedia",
+   "tvg_id": "PlutoTVKomedia.se",
+   "logo_key": "plutotvkomedia",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Komedie",
+   "tvg_id": "PlutoTVKomedie.se",
+   "logo_key": "plutotvkomedie",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Kultfilm",
+   "tvg_id": "PlutoTVKultfilm.se",
+   "logo_key": "plutotvkultfilm",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Kultfilmer",
+   "tvg_id": "PlutoTVKultfilmer.se",
+   "logo_key": "plutotvkultfilmer",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Kulttileffat",
+   "tvg_id": "PlutoTVKulttileffat.se",
+   "logo_key": "plutotvkulttileffat",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Leffat",
+   "tvg_id": "PlutoTVLeffat.se",
+   "logo_key": "plutotvleffat",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Maailmansodat",
+   "tvg_id": "PlutoTVMaailmansodat.se",
+   "logo_key": "plutotvmaailmansodat",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Moottorit",
+   "tvg_id": "PlutoTVMoottorit.se",
+   "logo_key": "plutotvmoottorit",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Motor",
+   "tvg_id": "PlutoTVMotor.se",
+   "logo_key": "plutotvmotor",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Overnaturlig",
+   "tvg_id": "PlutoTVOvernaturlig.se",
+   "logo_key": "plutotvovernaturlig",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Palkitut",
+   "tvg_id": "PlutoTVPalkitut.se",
+   "logo_key": "plutotvpalkitut",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Paranormaali",
+   "tvg_id": "PlutoTVParanormaali.se",
+   "logo_key": "plutotvparanormaali",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Romantiikka",
+   "tvg_id": "PlutoTVRomantiikka.se",
+   "logo_key": "plutotvromantiikka",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Romantik",
+   "tvg_id": "PlutoTVRomantik.se",
+   "logo_key": "plutotvromantik",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Romantikk",
+   "tvg_id": "PlutoTVRomantikk.se",
+   "logo_key": "plutotvromantikk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Snooker 900",
+   "tvg_id": "PlutoTVSnooker900.se",
+   "logo_key": "plutotvsnooker900",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Space",
+   "tvg_id": "PlutoTVSpace.se",
+   "logo_key": "plutotvspace",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Sport",
+   "tvg_id": "PlutoTVSport.se",
+   "logo_key": "plutotvsport",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Star Trek",
+   "tvg_id": "PlutoTVStarTrek.se",
+   "logo_key": "plutotvstartrek",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Tecknade klassiker",
+   "tvg_id": "PlutoTVTecknadeklassiker.se",
+   "logo_key": "plutotvtecknadeklassiker",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Tecknat",
+   "tvg_id": "PlutoTVTecknat.se",
+   "logo_key": "plutotvtecknat",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Tegnefilm",
+   "tvg_id": "PlutoTVTegnefilm.se",
+   "logo_key": "plutotvtegnefilm",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Toiminta",
+   "tvg_id": "PlutoTVToiminta.se",
+   "logo_key": "plutotvtoiminta",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Toimintasankarit",
+   "tvg_id": "PlutoTVToimintasankarit.se",
+   "logo_key": "plutotvtoimintasankarit",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Ungdomsserier",
+   "tvg_id": "PlutoTVUngdomsserier.se",
+   "logo_key": "plutotvungdomsserier",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Varldskrigen",
+   "tvg_id": "PlutoTVVarldskrigen.se",
+   "logo_key": "plutotvvarldskrigen",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Verdenskrigene",
+   "tvg_id": "PlutoTVVerdenskrigene.se",
+   "logo_key": "plutotvverdenskrigene",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Vintage",
+   "tvg_id": "PlutoTVVintage.se",
+   "logo_key": "plutotvvintage",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pluto TV Wild West",
+   "tvg_id": "PlutoTVWildWest.se",
+   "logo_key": "plutotvwildwest",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "PodRadio pa Pluto TV",
+   "tvg_id": "PodRadiopaPlutoTV.se",
+   "logo_key": "podradiopapluto",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "r8Dio TV",
+   "tvg_id": "r8DioTV.se",
+   "logo_key": "r8dio",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Reno 911",
+   "tvg_id": "Reno911.se",
+   "logo_key": "reno911",
+   "logo": true,
+   "aliases": [
+    "comedycentralreno911"
+   ]
+  },
+  {
+   "name": "Ridiculousness: Nya avsnitt",
+   "tvg_id": "RidiculousnessNyaavsnitt.se",
+   "logo_key": "ridiculousnessnyaavsnitt",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Ridiculousness: Nye afsnit",
+   "tvg_id": "RidiculousnessNyeafsnit.se",
+   "logo_key": "ridiculousnessnyeafsnit",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Ridiculousness: Nye episoder",
+   "tvg_id": "RidiculousnessNyeepisoder.se",
+   "logo_key": "ridiculousnessnyeepisoder",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Robinson Ekspeditionen",
+   "tvg_id": "RobinsonEkspeditionen.se",
+   "logo_key": "robinsonekspeditionen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV AlbSe",
+   "tvg_id": "RTVAlbSe.se",
+   "logo_key": "rtvalbse",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sabrina the Teenage Witch",
+   "tvg_id": "SabrinatheTeenageWitch.se",
+   "logo_key": "sabrinatheteenagewitch",
+   "logo": true,
+   "aliases": [
+    "sabrinateininoita"
+   ]
+  },
+  {
+   "name": "Scorpion",
+   "tvg_id": "Scorpion.se",
+   "logo_key": "scorpion",
+   "logo": true,
+   "aliases": [
+    "cbsscorpion"
+   ]
+  },
+  {
+   "name": "SF-kanalen",
+   "tvg_id": "SFkanalen.se",
+   "logo_key": "sfkanalen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sjuan",
+   "tvg_id": "Sjuan.se",
+   "logo_key": "sjuan",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Skjonnhetsfellen Danmark",
+   "tvg_id": "SkjonnhetsfellenDanmark.se",
+   "logo_key": "skjonnhetsfellendanmark",
+   "logo": true,
+   "aliases": [
+    "skjnnhetsfellendanmark"
+   ]
+  },
+  {
+   "name": "Skonhetsfallan Danmark",
+   "tvg_id": "SkonhetsfallanDanmark.se",
+   "logo_key": "skonhetsfallandanmark",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Skonne ombygninger",
+   "tvg_id": "Skonneombygninger.se",
+   "logo_key": "skonneombygninger",
+   "logo": true,
+   "aliases": [
+    "sknneombygninger"
+   ]
+  },
+  {
+   "name": "Sky Showtime 1",
+   "tvg_id": "SkyShowtime1.se",
+   "logo_key": "skyshowtime1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sky Showtime 2",
+   "tvg_id": "SkyShowtime2.se",
+   "logo_key": "skyshowtime2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "South Park Armageddon",
+   "tvg_id": "SouthParkArmageddon.se",
+   "logo_key": "southparkarmageddon",
+   "logo": true,
+   "aliases": [
+    "comedycentralsouthparkarmageddon"
+   ]
+  },
+  {
+   "name": "South Park Rockin' Out",
+   "tvg_id": "SouthParkRockinOut.se",
+   "logo_key": "southparkrockinout",
+   "logo": true,
+   "aliases": [
+    "comedycentralsouthparkrockinout"
+   ]
+  },
+  {
+   "name": "South Park: Butters Collection",
+   "tvg_id": "SouthParkButtersCollection.se",
+   "logo_key": "southparkbutterscollection",
+   "logo": true,
+   "aliases": [
+    "comedycentralsouthparkbutterscollection"
+   ]
+  },
+  {
+   "name": "South Park: Into the Stars",
+   "tvg_id": "SouthParkIntotheStars.se",
+   "logo_key": "southparkintothestars",
+   "logo": true,
+   "aliases": [
+    "comedycentralsouthparkintothestars"
+   ]
+  },
+  {
+   "name": "SportExpressen TV",
+   "tvg_id": "SportExpressenTV.se",
+   "logo_key": "sportexpressen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Star Trek Movies",
+   "tvg_id": "StarTrekMovies.se",
+   "logo_key": "startrekmovies",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Star Trek: The Original Series",
+   "tvg_id": "StarTrekTheOriginalSeries.se",
+   "logo_key": "startrektheoriginalseries",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Stugfixarna Norge",
+   "tvg_id": "StugfixarnaNorge.se",
+   "logo_key": "stugfixarnanorge",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sundskanalen",
+   "tvg_id": "Sundskanalen.se",
+   "logo_key": "sundskanalen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Suroyo TV",
+   "tvg_id": "SuroyoTV.se",
+   "logo_key": "suroyo",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Suryoyo Sat",
+   "tvg_id": "SuryoyoSat.se",
+   "logo_key": "suryoyosat",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "SvampBob Fyrkant",
+   "tvg_id": "SvampBobFyrkant.se",
+   "logo_key": "svampbobfyrkant",
+   "logo": true,
+   "aliases": [
+    "nickelodeonsvampbobfyrkant"
+   ]
+  },
+  {
+   "name": "SvampeBob Firkant",
+   "tvg_id": "SvampeBobFirkant.se",
+   "logo_key": "svampebobfirkant",
+   "logo": true,
+   "aliases": [
+    "nickelodeonsvampebobfirkant"
+   ]
+  },
+  {
+   "name": "Svenska Hollywoodfruar",
+   "tvg_id": "SvenskaHollywoodfruar.se",
+   "logo_key": "svenskahollywoodfruar",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Svenska Truckers",
+   "tvg_id": "SvenskaTruckers.se",
+   "logo_key": "svenskatruckers",
+   "logo": true,
+   "aliases": [
+    "svensketruckers"
+   ]
+  },
+  {
+   "name": "SverigeKanalen",
+   "tvg_id": "SverigeKanalen.se",
+   "logo_key": "sverigekanalen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "SVT Barn",
+   "tvg_id": "SVTBarn.se",
+   "logo_key": "svtbarn",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "SVT Barn/SVT24",
+   "tvg_id": "SVTBarnSVT24.se",
+   "logo_key": "svtbarnsvt24",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "SVT1",
+   "tvg_id": "SVT1.se",
+   "logo_key": "svt1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "SVT2",
+   "tvg_id": "SVT2.se",
+   "logo_key": "svt2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "SVT24",
+   "tvg_id": "SVT24.se",
+   "logo_key": "svt24",
+   "logo": true,
+   "aliases": [
+    "24"
+   ]
+  },
+  {
+   "name": "The Daily Show",
+   "tvg_id": "TheDailyShow.se",
+   "logo_key": "thedailyshow",
+   "logo": true,
+   "aliases": [
+    "comedycentralthedailyshow"
+   ]
+  },
+  {
+   "name": "The L Word",
+   "tvg_id": "TheLWord.se",
+   "logo_key": "thelword",
+   "logo": true,
+   "aliases": [
+    "showtimethelword"
+   ]
+  },
+  {
+   "name": "The Millers",
+   "tvg_id": "TheMillers.se",
+   "logo_key": "themillers",
+   "logo": true,
+   "aliases": [
+    "cbsthemillers"
+   ]
+  },
+  {
+   "name": "The Twilight Zone",
+   "tvg_id": "TheTwilightZone.se",
+   "logo_key": "thetwilightzone",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Til julefrokost hos r8Dio",
+   "tvg_id": "Tiljulefrokosthosr8Dio.se",
+   "logo_key": "tiljulefrokosthosr8dio",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Til Middag Hos",
+   "tvg_id": "TilMiddagHos.se",
+   "logo_key": "tilmiddaghos",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TLC",
+   "tvg_id": "TLC.se",
+   "logo_key": "tlc",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "True crime fran Viaplay",
+   "tvg_id": "TruecrimefranViaplay.se",
+   "logo_key": "truecrimefranviaplay",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Malmo",
+   "tvg_id": "TVMalmo.se",
+   "logo_key": "tvmalmo",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Malung-Salen",
+   "tvg_id": "TVMalungSalen.se",
+   "logo_key": "tvmalungsalen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Vision Sverige",
+   "tvg_id": "TVVisionSverige.se",
+   "logo_key": "tvvisionsverige",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV10",
+   "tvg_id": "TV10.se",
+   "logo_key": "tv10",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV12",
+   "tvg_id": "TV12.se",
+   "logo_key": "tv12",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV2Stad",
+   "tvg_id": "TV2Stad.se",
+   "logo_key": "tv2stad",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV3",
+   "tvg_id": "TV3.se",
+   "logo_key": "tv3",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV4",
+   "tvg_id": "TV4.se",
+   "logo_key": "tv4",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TV4 Fakta",
+   "tvg_id": "TV4Fakta.se",
+   "logo_key": "tv4fakta",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TV4 Film",
+   "tvg_id": "TV4Film.se",
+   "logo_key": "tv4film",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TV4 Fotboll",
+   "tvg_id": "TV4Fotboll.se",
+   "logo_key": "tv4fotboll",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV4 Guld",
+   "tvg_id": "TV4Guld.se",
+   "logo_key": "tv4guld",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TV4 Hits",
+   "tvg_id": "TV4Hits.se",
+   "logo_key": "tv4hits",
+   "logo": true,
+   "aliases": [
+    "hits"
+   ]
+  },
+  {
+   "name": "TV4 Hockey",
+   "tvg_id": "TV4Hockey.se",
+   "logo_key": "tv4hockey",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV4 Motor",
+   "tvg_id": "TV4Motor.se",
+   "logo_key": "tv4motor",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV4 Sport Live 1",
+   "tvg_id": "TV4SportLive1.se",
+   "logo_key": "tv4sportlive1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV4 Sport Live 2",
+   "tvg_id": "TV4SportLive2.se",
+   "logo_key": "tv4sportlive2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV4 Sport Live 3",
+   "tvg_id": "TV4SportLive3.se",
+   "logo_key": "tv4sportlive3",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV4 Sport Live 4",
+   "tvg_id": "TV4SportLive4.se",
+   "logo_key": "tv4sportlive4",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV4 Sportkanalen",
+   "tvg_id": "TV4Sportkanalen.se",
+   "logo_key": "tv4sportkanalen",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TV4 Stars",
+   "tvg_id": "TV4Stars.se",
+   "logo_key": "tv4stars",
+   "logo": true,
+   "aliases": [
+    "stars"
+   ]
+  },
+  {
+   "name": "TV4 Tennis",
+   "tvg_id": "TV4Tennis.se",
+   "logo_key": "tv4tennis",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV6",
+   "tvg_id": "TV6.se",
+   "logo_key": "tv6",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV8",
+   "tvg_id": "TV8.se",
+   "logo_key": "tv8",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Tvins",
+   "tvg_id": "Tvins.se",
+   "logo_key": "tvins",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Unga Mammor",
+   "tvg_id": "UngaMammor.se",
+   "logo_key": "ungamammor",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "V Classics",
+   "tvg_id": "VClassics.se",
+   "logo_key": "vclassics",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "V Crime",
+   "tvg_id": "VCrime.se",
+   "logo_key": "vcrime",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "V Film Action",
+   "tvg_id": "VFilmAction.se",
+   "logo_key": "vfilmaction",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "V Film Family",
+   "tvg_id": "VFilmFamily.se",
+   "logo_key": "vfilmfamily",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "V Film Hits",
+   "tvg_id": "VFilmHits.se",
+   "logo_key": "vfilmhits",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "V Film Premiere",
+   "tvg_id": "VFilmPremiere.se",
+   "logo_key": "vfilmpremiere",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "V Series",
+   "tvg_id": "VSeries.se",
+   "logo_key": "vseries",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "V Sport 1",
+   "tvg_id": "VSport1.se",
+   "logo_key": "vsport1",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "V Sport Extra",
+   "tvg_id": "VSportExtra.se",
+   "logo_key": "vsportextra",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "V Sport Football",
+   "tvg_id": "VSportFootball.se",
+   "logo_key": "vsportfootball",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "V Sport Golf",
+   "tvg_id": "VSportGolf.se",
+   "logo_key": "vsportgolf",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "V Sport Live 1",
+   "tvg_id": "VSportLive1.se",
+   "logo_key": "vsportlive1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "V Sport Live 2",
+   "tvg_id": "VSportLive2.se",
+   "logo_key": "vsportlive2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "V Sport Live 3",
+   "tvg_id": "VSportLive3.se",
+   "logo_key": "vsportlive3",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "V Sport Live 4",
+   "tvg_id": "VSportLive4.se",
+   "logo_key": "vsportlive4",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "V Sport Live 5",
+   "tvg_id": "VSportLive5.se",
+   "logo_key": "vsportlive5",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "V Sport Motor",
+   "tvg_id": "VSportMotor.se",
+   "logo_key": "vsportmotor",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "V Sport Premium",
+   "tvg_id": "VSportPremium.se",
+   "logo_key": "vsportpremium",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "V Sport Ultra HD",
+   "tvg_id": "VSportUltraHD.se",
+   "logo_key": "vsportultra",
+   "logo": true,
+   "aliases": [
+    "vsportultrahd"
+   ]
+  },
+  {
+   "name": "V Sport Vinter",
+   "tvg_id": "VSportVinter.se",
+   "logo_key": "vsportvinter",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Vastmanlands TV",
+   "tvg_id": "VastmanlandsTV.se",
+   "logo_key": "vastmanlands",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Viafree Movies",
+   "tvg_id": "ViafreeMovies.se",
+   "logo_key": "viafreemovies",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Viasat Explore",
+   "tvg_id": "ViasatExplore.se",
+   "logo_key": "viasatexplore",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Viasat History",
+   "tvg_id": "ViasatHistory.se",
+   "logo_key": "viasathistory",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Viasat Nature",
+   "tvg_id": "ViasatNature.se",
+   "logo_key": "viasatnature",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Wildfire",
+   "tvg_id": "Wildfire.se",
+   "logo_key": "wildfire",
+   "logo": true,
+   "aliases": []
+  }
+ ]
+}

@@ -1,0 +1,1035 @@
+{
+ "country": "Belgium",
+ "code": "be",
+ "epg": {
+  "open_epg": [
+   "https://www.open-epg.com/files/belgium.xml",
+   "https://www.open-epg.com/files/belgium1.xml",
+   "https://www.open-epg.com/files/belgium2.xml",
+   "https://www.open-epg.com/files/belgium3.xml"
+  ],
+  "iptv_epg": [
+   "https://iptv-epg.org/files/epg-be.xml"
+  ]
+ },
+ "channels": [
+  {
+   "name": "AB3",
+   "tvg_id": "AB3.be",
+   "logo_key": "ab3",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ABXplore",
+   "tvg_id": "ABXplore.be",
+   "logo_key": "abxplore",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ACTV",
+   "tvg_id": "ACTV.be",
+   "logo_key": "ac",
+   "logo": true,
+   "aliases": [
+    "antennecentretelevision"
+   ]
+  },
+  {
+   "name": "Aktif TV",
+   "tvg_id": "AktifTV.be",
+   "logo_key": "aktif",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ATV",
+   "tvg_id": "ATV.be",
+   "logo_key": "atv",
+   "logo": false,
+   "aliases": [
+    "antwerpsetelevisie"
+   ]
+  },
+  {
+   "name": "AVS",
+   "tvg_id": "AVS.be",
+   "logo_key": "avs",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BAM-TV",
+   "tvg_id": "BAMTV.be",
+   "logo_key": "bam",
+   "logo": true,
+   "aliases": [
+    "belafrikamedia"
+   ]
+  },
+  {
+   "name": "Be 1",
+   "tvg_id": "Be1.be",
+   "logo_key": "be1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Be 1+1hr",
+   "tvg_id": "Be1Plus1hr.be",
+   "logo_key": "be1+1hr",
+   "logo": true,
+   "aliases": [
+    "be1plus1hr"
+   ]
+  },
+  {
+   "name": "Be Cine",
+   "tvg_id": "BeCine.be",
+   "logo_key": "becine",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Be Series",
+   "tvg_id": "BeSeries.be",
+   "logo_key": "beseries",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Bel RTL",
+   "tvg_id": "BelRTL.be",
+   "logo_key": "belrtl",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Belgian Federal Parliament",
+   "tvg_id": "BelgianFederalParliament.be",
+   "logo_key": "belgianfederalparliament",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Bouke",
+   "tvg_id": "Bouke.be",
+   "logo_key": "bouke",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BRF TV",
+   "tvg_id": "BRFTV.be",
+   "logo_key": "brf",
+   "logo": true,
+   "aliases": [
+    "brffernsehen"
+   ]
+  },
+  {
+   "name": "Bruzz",
+   "tvg_id": "Bruzz.be",
+   "logo_key": "bruzz",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BX1",
+   "tvg_id": "BX1.be",
+   "logo_key": "bx1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Canal Atlas",
+   "tvg_id": "CanalAtlas.be",
+   "logo_key": "canalatlas",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Canal Z",
+   "tvg_id": "CanalZ.be",
+   "logo_key": "canalz",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Canal Zoom",
+   "tvg_id": "CanalZoom.be",
+   "logo_key": "canalzoom",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Chamber of Representatives",
+   "tvg_id": "ChamberofRepresentatives.be",
+   "logo_key": "chamberofrepresentatives",
+   "logo": true,
+   "aliases": [
+    "dekamerlachambre"
+   ]
+  },
+  {
+   "name": "CINAF TV",
+   "tvg_id": "CINAFTV.be",
+   "logo_key": "cinaf",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Cine+ Classic",
+   "tvg_id": "CinePlusClassic.be",
+   "logo_key": "cine+classic",
+   "logo": true,
+   "aliases": [
+    "cineplusclassic",
+    "cine+classicbelgique"
+   ]
+  },
+  {
+   "name": "Cine+ Frisson",
+   "tvg_id": "CinePlusFrisson.be",
+   "logo_key": "cine+frisson",
+   "logo": true,
+   "aliases": [
+    "cineplusfrisson",
+    "cine+frissonbelgique"
+   ]
+  },
+  {
+   "name": "Cine+ Premier",
+   "tvg_id": "CinePlusPremier.be",
+   "logo_key": "cine+premier",
+   "logo": true,
+   "aliases": [
+    "cinepluspremier",
+    "cine+premierbelgique"
+   ]
+  },
+  {
+   "name": "City Music TV",
+   "tvg_id": "CityMusicTV.be",
+   "logo_key": "citymusic",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Discovery Channel",
+   "tvg_id": "DiscoveryChannel.be",
+   "logo_key": "discoverychannel",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Disney Channel",
+   "tvg_id": "DisneyChannel.be",
+   "logo_key": "disneychannel",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Dobbit TV",
+   "tvg_id": "DobbitTV.be",
+   "logo_key": "dobbit",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "EbS",
+   "tvg_id": "EbS.be",
+   "logo_key": "ebs",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "EbS+",
+   "tvg_id": "EbSPlus.be",
+   "logo_key": "ebs+",
+   "logo": true,
+   "aliases": [
+    "ebsplus"
+   ]
+  },
+  {
+   "name": "Eclips TV",
+   "tvg_id": "EclipsTV.be",
+   "logo_key": "eclips",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Focus TV",
+   "tvg_id": "FocusTV.be",
+   "logo_key": "focus",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Fun Vision",
+   "tvg_id": "FunVision.be",
+   "logo_key": "funvision",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "HGTV",
+   "tvg_id": "HGTV.be",
+   "logo_key": "hg",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "HLN Live",
+   "tvg_id": "HLNLive.be",
+   "logo_key": "hlnlive",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "JapanimTV",
+   "tvg_id": "JapanimTV.be",
+   "logo_key": "japanim",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Joe FM",
+   "tvg_id": "JoeFM.be",
+   "logo_key": "joefm",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kanaal Z",
+   "tvg_id": "KanaalZ.be",
+   "logo_key": "kanaalz",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Ketnet",
+   "tvg_id": "Ketnet.be",
+   "logo_key": "ketnet",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Ketnet Junior",
+   "tvg_id": "KetnetJunior.be",
+   "logo_key": "ketnetjunior",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Klara",
+   "tvg_id": "Klara.be",
+   "logo_key": "klara",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "La Trois",
+   "tvg_id": "LaTrois.be",
+   "logo_key": "latrois",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "La Une",
+   "tvg_id": "LaUne.be",
+   "logo_key": "laune",
+   "logo": true,
+   "aliases": [
+    "rtbfla1"
+   ]
+  },
+  {
+   "name": "LN24",
+   "tvg_id": "LN24.be",
+   "logo_key": "ln24",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Maghreb TV",
+   "tvg_id": "MaghrebTV.be",
+   "logo_key": "maghreb",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Matele",
+   "tvg_id": "Matele.be",
+   "logo_key": "matele",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Ment TV",
+   "tvg_id": "MentTV.be",
+   "logo_key": "ment",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MNM",
+   "tvg_id": "MNM.be",
+   "logo_key": "mnm",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Nickelodeon Flanders",
+   "tvg_id": "NickelodeonFlanders.be",
+   "logo_key": "nickelodeonflanders",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Nickelodeon Wallonia",
+   "tvg_id": "NickelodeonWallonia.be",
+   "logo_key": "nickelodeonwallonia",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Njam!",
+   "tvg_id": "Njam.be",
+   "logo_key": "njam",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Notele",
+   "tvg_id": "Notele.be",
+   "logo_key": "notele",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pickx Live",
+   "tvg_id": "PickxLive.be",
+   "logo_key": "pickxlive",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pickx+",
+   "tvg_id": "PickxPlus.be",
+   "logo_key": "pickx+",
+   "logo": true,
+   "aliases": [
+    "pickxplus"
+   ]
+  },
+  {
+   "name": "Pickx+ Sports 1",
+   "tvg_id": "PickxPlusSports1.be",
+   "logo_key": "pickx+sports1",
+   "logo": true,
+   "aliases": [
+    "pickxplussports1"
+   ]
+  },
+  {
+   "name": "Pickx+ Sports 10",
+   "tvg_id": "PickxPlusSports10.be",
+   "logo_key": "pickx+sports10",
+   "logo": true,
+   "aliases": [
+    "pickxplussports10"
+   ]
+  },
+  {
+   "name": "Pickx+ Sports 2",
+   "tvg_id": "PickxPlusSports2.be",
+   "logo_key": "pickx+sports2",
+   "logo": true,
+   "aliases": [
+    "pickxplussports2"
+   ]
+  },
+  {
+   "name": "Pickx+ Sports 3",
+   "tvg_id": "PickxPlusSports3.be",
+   "logo_key": "pickx+sports3",
+   "logo": true,
+   "aliases": [
+    "pickxplussports3"
+   ]
+  },
+  {
+   "name": "Pickx+ Sports 4",
+   "tvg_id": "PickxPlusSports4.be",
+   "logo_key": "pickx+sports4",
+   "logo": true,
+   "aliases": [
+    "pickxplussports4"
+   ]
+  },
+  {
+   "name": "Pickx+ Sports 5",
+   "tvg_id": "PickxPlusSports5.be",
+   "logo_key": "pickx+sports5",
+   "logo": true,
+   "aliases": [
+    "pickxplussports5"
+   ]
+  },
+  {
+   "name": "Pickx+ Sports 6",
+   "tvg_id": "PickxPlusSports6.be",
+   "logo_key": "pickx+sports6",
+   "logo": true,
+   "aliases": [
+    "pickxplussports6"
+   ]
+  },
+  {
+   "name": "Pickx+ Sports 7",
+   "tvg_id": "PickxPlusSports7.be",
+   "logo_key": "pickx+sports7",
+   "logo": true,
+   "aliases": [
+    "pickxplussports7"
+   ]
+  },
+  {
+   "name": "Pickx+ Sports 8",
+   "tvg_id": "PickxPlusSports8.be",
+   "logo_key": "pickx+sports8",
+   "logo": true,
+   "aliases": [
+    "pickxplussports8"
+   ]
+  },
+  {
+   "name": "Pickx+ Sports 9",
+   "tvg_id": "PickxPlusSports9.be",
+   "logo_key": "pickx+sports9",
+   "logo": true,
+   "aliases": [
+    "pickxplussports9"
+   ]
+  },
+  {
+   "name": "Plattelands TV",
+   "tvg_id": "PlattelandsTV.be",
+   "logo_key": "plattelands",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Play 24/7",
+   "tvg_id": "Play247.be",
+   "logo_key": "play247",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Play Crime",
+   "tvg_id": "PlayCrime.be",
+   "logo_key": "playcrime",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Play Fictie",
+   "tvg_id": "PlayFictie.be",
+   "logo_key": "playfictie",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Play More Black",
+   "tvg_id": "PlayMoreBlack.be",
+   "logo_key": "playmoreblack",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Play More Cinema",
+   "tvg_id": "PlayMoreCinema.be",
+   "logo_key": "playmorecinema",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Play More Crime",
+   "tvg_id": "PlayMoreCrime.be",
+   "logo_key": "playmorecrime",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Play More Kicks",
+   "tvg_id": "PlayMoreKicks.be",
+   "logo_key": "playmorekicks",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Play Sports 1",
+   "tvg_id": "PlaySports1.be",
+   "logo_key": "playsports1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Play Sports 2",
+   "tvg_id": "PlaySports2.be",
+   "logo_key": "playsports2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Play Sports 3",
+   "tvg_id": "PlaySports3.be",
+   "logo_key": "playsports3",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Play Sports 4",
+   "tvg_id": "PlaySports4.be",
+   "logo_key": "playsports4",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Play Sports 5 Premier League",
+   "tvg_id": "PlaySports5PremierLeague.be",
+   "logo_key": "playsports5premierleague",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Play Sports Golf",
+   "tvg_id": "PlaySportsGolf.be",
+   "logo_key": "playsportsgolf",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Play Sports Open",
+   "tvg_id": "PlaySportsOpen.be",
+   "logo_key": "playsportsopen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Play4",
+   "tvg_id": "Play4.be",
+   "logo_key": "play4",
+   "logo": false,
+   "aliases": [
+    "vier"
+   ]
+  },
+  {
+   "name": "Play5",
+   "tvg_id": "Play5.be",
+   "logo_key": "play5",
+   "logo": false,
+   "aliases": [
+    "vijf"
+   ]
+  },
+  {
+   "name": "Play6",
+   "tvg_id": "Play6.be",
+   "logo_key": "play6",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Play7",
+   "tvg_id": "Play7.be",
+   "logo_key": "play7",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Promius Pickx InfoChannel",
+   "tvg_id": "PromiusPickxInfoChannel.be",
+   "logo_key": "promiuspickxinfochannel",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Proximus 11",
+   "tvg_id": "Proximus11.be",
+   "logo_key": "proximus11",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Q-Music",
+   "tvg_id": "QMusic.be",
+   "logo_key": "qmusic",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Q-music Vlaanderen",
+   "tvg_id": "QmusicVlaanderen.be",
+   "logo_key": "qmusicvlaanderen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "QU4TRE Liege Media",
+   "tvg_id": "QU4TRELiegeMedia.be",
+   "logo_key": "qu4treliegemedia",
+   "logo": true,
+   "aliases": [
+    "quatre",
+    "rtcteleliege",
+    "rtcliege"
+   ]
+  },
+  {
+   "name": "Radio 1",
+   "tvg_id": "Radio1.be",
+   "logo_key": "radio1",
+   "logo": true,
+   "aliases": [
+    "vrtradio1"
+   ]
+  },
+  {
+   "name": "Radio 2",
+   "tvg_id": "Radio2.be",
+   "logo_key": "radio2",
+   "logo": true,
+   "aliases": [
+    "vrtradio2"
+   ]
+  },
+  {
+   "name": "Radio Contact",
+   "tvg_id": "RadioContact.be",
+   "logo_key": "radiocontact",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Radio Extremix TV",
+   "tvg_id": "RadioExtremixTV.be",
+   "logo_key": "radioextremix",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Radio PROS",
+   "tvg_id": "RadioPROS.be",
+   "logo_key": "radiopros",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Ring TV",
+   "tvg_id": "RingTV.be",
+   "logo_key": "ring",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ROB TV",
+   "tvg_id": "ROBTV.be",
+   "logo_key": "rob",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTL Club",
+   "tvg_id": "RTLClub.be",
+   "logo_key": "rtlclub",
+   "logo": true,
+   "aliases": [
+    "clubrtl"
+   ]
+  },
+  {
+   "name": "RTL District",
+   "tvg_id": "RTLDistrict.be",
+   "logo_key": "rtldistrict",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTL Plug",
+   "tvg_id": "RTLPlug.be",
+   "logo_key": "rtlplug",
+   "logo": true,
+   "aliases": [
+    "plugrtl"
+   ]
+  },
+  {
+   "name": "RTL-TVI",
+   "tvg_id": "RTLTVI.be",
+   "logo_key": "rtltvi",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV Kempen",
+   "tvg_id": "RTVKempen.be",
+   "logo_key": "rtvkempen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV Mech",
+   "tvg_id": "RTVMech.be",
+   "logo_key": "rtvmech",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sport 10",
+   "tvg_id": "Sport10.be",
+   "logo_key": "sport10",
+   "logo": true,
+   "aliases": [
+    "exqisport"
+   ]
+  },
+  {
+   "name": "Sporza",
+   "tvg_id": "Sporza.be",
+   "logo_key": "sporza",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sterk TV",
+   "tvg_id": "SterkTV.be",
+   "logo_key": "sterk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "StuBru",
+   "tvg_id": "StuBru.be",
+   "logo_key": "stubru",
+   "logo": true,
+   "aliases": [
+    "studiobrussel"
+   ]
+  },
+  {
+   "name": "Studio 100 Hits",
+   "tvg_id": "Studio100Hits.be",
+   "logo_key": "studio100hits",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Studio 100 TV",
+   "tvg_id": "Studio100TV.be",
+   "logo_key": "studio100",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Tele MB",
+   "tvg_id": "TeleMB.be",
+   "logo_key": "telemb",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Telesambre",
+   "tvg_id": "Telesambre.be",
+   "logo_key": "telesambre",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Tipik",
+   "tvg_id": "Tipik.be",
+   "logo_key": "tipik",
+   "logo": true,
+   "aliases": [
+    "ladeux",
+    "rtbfla2"
+   ]
+  },
+  {
+   "name": "TipikVision",
+   "tvg_id": "TipikVision.be",
+   "logo_key": "tipikvision",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Limburg",
+   "tvg_id": "TVLimburg.be",
+   "logo_key": "tvlimburg",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Lux",
+   "tvg_id": "TVLux.be",
+   "logo_key": "tvlux",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Oost",
+   "tvg_id": "TVOost.be",
+   "logo_key": "tvoost",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Vlaanderen",
+   "tvg_id": "TVVlaanderen.be",
+   "logo_key": "tvvlaanderen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TVcom",
+   "tvg_id": "TVcom.be",
+   "logo_key": "tvcom",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TVM",
+   "tvg_id": "TVM.be",
+   "logo_key": "tvm",
+   "logo": true,
+   "aliases": [
+    "tvmontignies"
+   ]
+  },
+  {
+   "name": "Vedia",
+   "tvg_id": "Vedia.be",
+   "logo_key": "vedia",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Vlaams Parlement TV",
+   "tvg_id": "VlaamsParlementTV.be",
+   "logo_key": "vlaamsparlement",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "VOOsport World 1",
+   "tvg_id": "VOOsportWorld1.be",
+   "logo_key": "voosportworld1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "VOOsport World 2",
+   "tvg_id": "VOOsportWorld2.be",
+   "logo_key": "voosportworld2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "VOOsport World 3",
+   "tvg_id": "VOOsportWorld3.be",
+   "logo_key": "voosportworld3",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "VOOsport World 4",
+   "tvg_id": "VOOsportWorld4.be",
+   "logo_key": "voosportworld4",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "VRT 1",
+   "tvg_id": "VRT1.be",
+   "logo_key": "vrt1",
+   "logo": true,
+   "aliases": [
+    "een",
+    "tv1",
+    "brttv1",
+    "brt",
+    "nir"
+   ]
+  },
+  {
+   "name": "VRT Canvas",
+   "tvg_id": "VRTCanvas.be",
+   "logo_key": "vrtcanvas",
+   "logo": true,
+   "aliases": [
+    "canvas",
+    "brtntv2",
+    "tvtwee",
+    "brttv2"
+   ]
+  },
+  {
+   "name": "VTM",
+   "tvg_id": "VTM.be",
+   "logo_key": "vtm",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "VTM 2",
+   "tvg_id": "VTM2.be",
+   "logo_key": "vtm2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "VTM 3",
+   "tvg_id": "VTM3.be",
+   "logo_key": "vtm3",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "VTM 4",
+   "tvg_id": "VTM4.be",
+   "logo_key": "vtm4",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "VTM Gold",
+   "tvg_id": "VTMGold.be",
+   "logo_key": "vtmgold",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "VTM Life",
+   "tvg_id": "VTMLife.be",
+   "logo_key": "vtmlife",
+   "logo": true,
+   "aliases": [
+    "vtmxmas",
+    "vtmnonstop90s",
+    "vtmnonstopdokters"
+   ]
+  },
+  {
+   "name": "WTV",
+   "tvg_id": "WTV.be",
+   "logo_key": "wtv",
+   "logo": true,
+   "aliases": []
+  }
+ ]
+}

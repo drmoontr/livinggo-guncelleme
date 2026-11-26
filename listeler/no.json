@@ -1,0 +1,577 @@
+{
+ "country": "Norway",
+ "code": "no",
+ "epg": {
+  "open_epg": [
+   "https://www.open-epg.com/files/norway.xml",
+   "https://www.open-epg.com/files/norway1.xml",
+   "https://www.open-epg.com/files/norway2.xml",
+   "https://www.open-epg.com/files/norway3.xml",
+   "https://www.open-epg.com/files/norway4.xml"
+  ],
+  "iptv_epg": [
+   "https://iptv-epg.org/files/epg-no.xml"
+  ]
+ },
+ "channels": [
+  {
+   "name": "Auto Motor og Sport TV",
+   "tvg_id": "AutoMotorogSportTV.no",
+   "logo_key": "automotorogsport",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Bedehuskanalen",
+   "tvg_id": "Bedehuskanalen.no",
+   "logo_key": "bedehuskanalen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Bergen Student-TV",
+   "tvg_id": "BergenStudentTV.no",
+   "logo_key": "bergenstudent",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Canal Motor",
+   "tvg_id": "CanalMotor.no",
+   "logo_key": "canalmotor",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Discovery Channel",
+   "tvg_id": "DiscoveryChannel.no",
+   "logo_key": "discoverychannel",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Eurosport",
+   "tvg_id": "Eurosport.no",
+   "logo_key": "eurosport",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "EWTN Norway",
+   "tvg_id": "EWTNNorway.no",
+   "logo_key": "ewtnnorway",
+   "logo": true,
+   "aliases": [
+    "ewtnnorge"
+   ]
+  },
+  {
+   "name": "Fatstone TV",
+   "tvg_id": "FatstoneTV.no",
+   "logo_key": "fatstone",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "FEM",
+   "tvg_id": "FEM.no",
+   "logo_key": "fem",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Finansavisen TV",
+   "tvg_id": "FinansavisenTV.no",
+   "logo_key": "finansavisen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Frikanalen",
+   "tvg_id": "Frikanalen.no",
+   "logo_key": "frikanalen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Heim TV",
+   "tvg_id": "HeimTV.no",
+   "logo_key": "heim",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Hope Channel Norway",
+   "tvg_id": "HopeChannelNorway.no",
+   "logo_key": "hopechannelnorway",
+   "logo": true,
+   "aliases": [
+    "hopechannelnorge"
+   ]
+  },
+  {
+   "name": "Kanal 10 Norway",
+   "tvg_id": "Kanal10Norway.no",
+   "logo_key": "kanal10norway",
+   "logo": true,
+   "aliases": [
+    "kanal10norge"
+   ]
+  },
+  {
+   "name": "Matkanalen",
+   "tvg_id": "Matkanalen.no",
+   "logo_key": "matkanalen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "National Geographic",
+   "tvg_id": "NationalGeographic.no",
+   "logo_key": "nationalgeographic",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "National Geographic Wild",
+   "tvg_id": "NationalGeographicWild.no",
+   "logo_key": "nationalgeographicwild",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Naturkanal1",
+   "tvg_id": "Naturkanal1.no",
+   "logo_key": "naturkanal1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Nickelodeon",
+   "tvg_id": "Nickelodeon.no",
+   "logo_key": "nickelodeon",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "NRK Super",
+   "tvg_id": "NRKSuper.no",
+   "logo_key": "nrksuper",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "NRK Super/NRK3",
+   "tvg_id": "NRKSuperNRK3.no",
+   "logo_key": "nrksupernrk3",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "NRK Tegnsprak",
+   "tvg_id": "NRKTegnsprak.no",
+   "logo_key": "nrktegnsprak",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "NRK1",
+   "tvg_id": "NRK1.no",
+   "logo_key": "nrk1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "NRK2",
+   "tvg_id": "NRK2.no",
+   "logo_key": "nrk2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "NRK3",
+   "tvg_id": "NRK3.no",
+   "logo_key": "nrk3",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Profetisk TV",
+   "tvg_id": "ProfetiskTV.no",
+   "logo_key": "profetisk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Rikstoto Direkte",
+   "tvg_id": "RikstotoDirekte.no",
+   "logo_key": "rikstotodirekte",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Shakaal TV",
+   "tvg_id": "ShakaalTV.no",
+   "logo_key": "shakaal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Stortinget HS1",
+   "tvg_id": "StortingetHS1.no",
+   "logo_key": "stortingeths1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Stortinget HS2",
+   "tvg_id": "StortingetHS2.no",
+   "logo_key": "stortingeths2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Stortinget N-202",
+   "tvg_id": "StortingetN202.no",
+   "logo_key": "stortingetn202",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Stortinget Nett-TV",
+   "tvg_id": "StortingetNettTV.no",
+   "logo_key": "stortingetnett",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Stortinget Stortingssalen",
+   "tvg_id": "StortingetStortingssalen.no",
+   "logo_key": "stortingetstortingssalen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sunnmore LIVE",
+   "tvg_id": "SunnmoreLIVE.no",
+   "logo_key": "sunnmorelive",
+   "logo": true,
+   "aliases": [
+    "sunnmrelive"
+   ]
+  },
+  {
+   "name": "Telenor Sports 11",
+   "tvg_id": "TelenorSports11.no",
+   "logo_key": "telenorsports11",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Telenor Sports 12",
+   "tvg_id": "TelenorSports12.no",
+   "logo_key": "telenorsports12",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Telenor Sports 13",
+   "tvg_id": "TelenorSports13.no",
+   "logo_key": "telenorsports13",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Telenor Sports 14",
+   "tvg_id": "TelenorSports14.no",
+   "logo_key": "telenorsports14",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Telenor Sports 15",
+   "tvg_id": "TelenorSports15.no",
+   "logo_key": "telenorsports15",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TLC",
+   "tvg_id": "TLC.no",
+   "logo_key": "tlc",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Tronder-TV",
+   "tvg_id": "TronderTV.no",
+   "logo_key": "tronder",
+   "logo": true,
+   "aliases": [
+    "trnder"
+   ]
+  },
+  {
+   "name": "TV 2 Direkte",
+   "tvg_id": "TV2Direkte.no",
+   "logo_key": "tv2direkte",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV 2 Livsstil",
+   "tvg_id": "TV2Livsstil.no",
+   "logo_key": "tv2livsstil",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV 2 Nyhetskanalen",
+   "tvg_id": "TV2Nyhetskanalen.no",
+   "logo_key": "tv2nyhetskanalen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV 2 Sport 1",
+   "tvg_id": "TV2Sport1.no",
+   "logo_key": "tv2sport1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV 2 Sport 2",
+   "tvg_id": "TV2Sport2.no",
+   "logo_key": "tv2sport2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV 2 Sport Premium",
+   "tvg_id": "TV2SportPremium.no",
+   "logo_key": "tv2sportpremium",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV 2 Sport Premium 2",
+   "tvg_id": "TV2SportPremium2.no",
+   "logo_key": "tv2sportpremium2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV 2 Zebra",
+   "tvg_id": "TV2Zebra.no",
+   "logo_key": "tv2zebra",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Agder",
+   "tvg_id": "TVAgder.no",
+   "logo_key": "tvagder",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Haugaland",
+   "tvg_id": "TVHaugaland.no",
+   "logo_key": "tvhaugaland",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Nord",
+   "tvg_id": "TVNord.no",
+   "logo_key": "tvnord",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Ostfold",
+   "tvg_id": "TVOstfold.no",
+   "logo_key": "tvostfold",
+   "logo": true,
+   "aliases": [
+    "tvstfold"
+   ]
+  },
+  {
+   "name": "TV Vest Rogaland",
+   "tvg_id": "TVVestRogaland.no",
+   "logo_key": "tvvestrogaland",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Vest Vestland",
+   "tvg_id": "TVVestVestland.no",
+   "logo_key": "tvvestvestland",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Vision Heaven",
+   "tvg_id": "TVVisionHeaven.no",
+   "logo_key": "tvvisionheaven",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Visjon Norway",
+   "tvg_id": "TVVisjonNorway.no",
+   "logo_key": "tvvisjonnorway",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV1 Ost",
+   "tvg_id": "TV1Ost.no",
+   "logo_key": "tv1ost",
+   "logo": true,
+   "aliases": [
+    "tv1st"
+   ]
+  },
+  {
+   "name": "TV2 Nyhetsstrommen",
+   "tvg_id": "TV2Nyhetsstrommen.no",
+   "logo_key": "tv2nyhetsstrommen",
+   "logo": true,
+   "aliases": [
+    "tv2nyhetsstrmmen"
+   ]
+  },
+  {
+   "name": "TV3",
+   "tvg_id": "TV3.no",
+   "logo_key": "tv3",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV3+",
+   "tvg_id": "TV3Plus.no",
+   "logo_key": "tv3+",
+   "logo": true,
+   "aliases": [
+    "tv3plus"
+   ]
+  },
+  {
+   "name": "TV6",
+   "tvg_id": "TV6.no",
+   "logo_key": "tv6",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TVL",
+   "tvg_id": "TVL.no",
+   "logo_key": "tvl",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TVModum",
+   "tvg_id": "TVModum.no",
+   "logo_key": "tvmodum",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TVNorge",
+   "tvg_id": "TVNorge.no",
+   "logo_key": "tvnorge",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "V Sport +",
+   "tvg_id": "VSportPlus.no",
+   "logo_key": "vsport+",
+   "logo": false,
+   "aliases": [
+    "vsportplus"
+   ]
+  },
+  {
+   "name": "V Sport 1",
+   "tvg_id": "VSport1.no",
+   "logo_key": "vsport1",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "V Sport 2",
+   "tvg_id": "VSport2.no",
+   "logo_key": "vsport2",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "V Sport 3",
+   "tvg_id": "VSport3.no",
+   "logo_key": "vsport3",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "V Sport Premier League",
+   "tvg_id": "VSportPremierLeague.no",
+   "logo_key": "vsportpremierleague",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "V Sport Premier League 1",
+   "tvg_id": "VSportPremierLeague1.no",
+   "logo_key": "vsportpremierleague1",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "V Sport Premier League 2",
+   "tvg_id": "VSportPremierLeague2.no",
+   "logo_key": "vsportpremierleague2",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "V Sport Premier League 3",
+   "tvg_id": "VSportPremierLeague3.no",
+   "logo_key": "vsportpremierleague3",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "V Sport Premier League 4",
+   "tvg_id": "VSportPremierLeague4.no",
+   "logo_key": "vsportpremierleague4",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "VG TV",
+   "tvg_id": "VGTV.no",
+   "logo_key": "vg",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "VOX",
+   "tvg_id": "VOX.no",
+   "logo_key": "vox",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "VSTLND TV",
+   "tvg_id": "VSTLNDTV.no",
+   "logo_key": "vstlnd",
+   "logo": true,
+   "aliases": []
+  }
+ ]
+}

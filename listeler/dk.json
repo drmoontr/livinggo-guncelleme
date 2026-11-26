@@ -1,0 +1,596 @@
+{
+ "country": "Denmark",
+ "code": "dk",
+ "epg": {
+  "open_epg": [
+   "https://www.open-epg.com/files/denmark.xml",
+   "https://www.open-epg.com/files/denmark1.xml",
+   "https://www.open-epg.com/files/denmark2.xml",
+   "https://www.open-epg.com/files/denmark3.xml",
+   "https://www.open-epg.com/files/denmark4.xml",
+   "https://www.open-epg.com/files/denmark5.xml",
+   "https://www.open-epg.com/files/denmark6.xml",
+   "https://www.open-epg.com/files/denmark7.xml",
+   "https://www.open-epg.com/files/denmark8.xml",
+   "https://www.open-epg.com/files/denmark9.xml",
+   "https://www.open-epg.com/files/denmark10.xml"
+  ],
+  "iptv_epg": [
+   "https://iptv-epg.org/files/epg-dk.xml"
+  ]
+ },
+ "channels": [
+  {
+   "name": "0-TV",
+   "tvg_id": "0TV.dk",
+   "logo_key": "0tv",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "6'eren",
+   "tvg_id": "6eren.dk",
+   "logo_key": "6eren",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ANTV",
+   "tvg_id": "ANTV.dk",
+   "logo_key": "an",
+   "logo": true,
+   "aliases": [
+    "anerkendende"
+   ]
+  },
+  {
+   "name": "Canal 9",
+   "tvg_id": "Canal9.dk",
+   "logo_key": "canal9",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Canal6000",
+   "tvg_id": "Canal6000.dk",
+   "logo_key": "canal6000",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Christiania TV",
+   "tvg_id": "ChristianiaTV.dk",
+   "logo_key": "christiania",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "DanmarkC TV",
+   "tvg_id": "DanmarkCTV.dk",
+   "logo_key": "danmarkc",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Deaf TV",
+   "tvg_id": "DeafTV.dk",
+   "logo_key": "deaf",
+   "logo": true,
+   "aliases": [
+    "tegnsprogskanalen"
+   ]
+  },
+  {
+   "name": "Discovery Channel",
+   "tvg_id": "DiscoveryChannel.dk",
+   "logo_key": "discoverychannel",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Dit lokal tv",
+   "tvg_id": "Ditlokaltv.dk",
+   "logo_key": "ditlokal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "dk4",
+   "tvg_id": "dk4.dk",
+   "logo_key": "dk4",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "DR Ramasjang",
+   "tvg_id": "DRRamasjang.dk",
+   "logo_key": "drramasjang",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "DR1",
+   "tvg_id": "DR1.dk",
+   "logo_key": "dr1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "DR2",
+   "tvg_id": "DR2.dk",
+   "logo_key": "dr2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "DRTV",
+   "tvg_id": "DRTV.dk",
+   "logo_key": "dr",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Frederiksberg Lokal TV",
+   "tvg_id": "FrederiksbergLokalTV.dk",
+   "logo_key": "frederiksberglokal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Fynbo TV",
+   "tvg_id": "FynboTV.dk",
+   "logo_key": "fynbo",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "HAS TV",
+   "tvg_id": "HASTV.dk",
+   "logo_key": "has",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Hope Channel Danmark",
+   "tvg_id": "HopeChannelDanmark.dk",
+   "logo_key": "hopechanneldanmark",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "KANAL 1",
+   "tvg_id": "KANAL1.dk",
+   "logo_key": "kanal1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kanal 4",
+   "tvg_id": "Kanal4.dk",
+   "logo_key": "kanal4",
+   "logo": false,
+   "aliases": [
+    "channel4"
+   ]
+  },
+  {
+   "name": "Kanal 5",
+   "tvg_id": "Kanal5.dk",
+   "logo_key": "kanal5",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Kanal Hovedstaden",
+   "tvg_id": "KanalHovedstaden.dk",
+   "logo_key": "kanalhovedstaden",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kanalvest",
+   "tvg_id": "Kanalvest.dk",
+   "logo_key": "kanalvest",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "KIP TV",
+   "tvg_id": "KIPTV.dk",
+   "logo_key": "kip",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "KKRtv",
+   "tvg_id": "KKRtv.dk",
+   "logo_key": "kkr",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "KobenhavnLIV",
+   "tvg_id": "KobenhavnLIV.dk",
+   "logo_key": "kobenhavnliv",
+   "logo": true,
+   "aliases": [
+    "kbenhavnliv"
+   ]
+  },
+  {
+   "name": "Koge.tv",
+   "tvg_id": "Kogetv.dk",
+   "logo_key": "koge",
+   "logo": true,
+   "aliases": [
+    "kge"
+   ]
+  },
+  {
+   "name": "KulturKanalen",
+   "tvg_id": "KulturKanalen.dk",
+   "logo_key": "kulturkanalen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Middelfart Lokal TV",
+   "tvg_id": "MiddelfartLokalTV.dk",
+   "logo_key": "middelfartlokal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "National Geographic",
+   "tvg_id": "NationalGeographic.dk",
+   "logo_key": "nationalgeographic",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "National Geographic Wild",
+   "tvg_id": "NationalGeographicWild.dk",
+   "logo_key": "nationalgeographicwild",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Nickelodeon",
+   "tvg_id": "Nickelodeon.dk",
+   "logo_key": "nickelodeon",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Provins TV",
+   "tvg_id": "ProvinsTV.dk",
+   "logo_key": "provins",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Roskilde TV",
+   "tvg_id": "RoskildeTV.dk",
+   "logo_key": "roskilde",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sport Live",
+   "tvg_id": "SportLive.dk",
+   "logo_key": "sportlive",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sydfyn TV",
+   "tvg_id": "SydfynTV.dk",
+   "logo_key": "sydfyn",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TLC",
+   "tvg_id": "TLC.dk",
+   "logo_key": "tlc",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV 2",
+   "tvg_id": "TV2.dk",
+   "logo_key": "tv2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV 2 Charlie",
+   "tvg_id": "TV2Charlie.dk",
+   "logo_key": "tv2charlie",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV 2 Fri",
+   "tvg_id": "TV2Fri.dk",
+   "logo_key": "tv2fri",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TV 2 Fyn",
+   "tvg_id": "TV2Fyn.dk",
+   "logo_key": "tv2fyn",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV 2 Kosmopol",
+   "tvg_id": "TV2Kosmopol.dk",
+   "logo_key": "tv2kosmopol",
+   "logo": true,
+   "aliases": [
+    "tv2lorry"
+   ]
+  },
+  {
+   "name": "TV 2 News",
+   "tvg_id": "TV2News.dk",
+   "logo_key": "tv2news",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV 2 Sport",
+   "tvg_id": "TV2Sport.dk",
+   "logo_key": "tv2sport",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV 2 Sport X",
+   "tvg_id": "TV2SportX.dk",
+   "logo_key": "tv2sportx",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV 2 Zulu",
+   "tvg_id": "TV2Zulu.dk",
+   "logo_key": "tv2zulu",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TV 2/Bornholm",
+   "tvg_id": "TV2Bornholm.dk",
+   "logo_key": "tv2bornholm",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Fano",
+   "tvg_id": "TVFano.dk",
+   "logo_key": "tvfano",
+   "logo": true,
+   "aliases": [
+    "tvfan"
+   ]
+  },
+  {
+   "name": "TV Fionia",
+   "tvg_id": "TVFionia.dk",
+   "logo_key": "tvfionia",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV from the Danish Parliament",
+   "tvg_id": "TVfromtheDanishParliament.dk",
+   "logo_key": "tvfromthedanishparliament",
+   "logo": true,
+   "aliases": [
+    "tvfrafolketinget"
+   ]
+  },
+  {
+   "name": "TV Glad",
+   "tvg_id": "TVGlad.dk",
+   "logo_key": "tvglad",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Kant",
+   "tvg_id": "TVKant.dk",
+   "logo_key": "tvkant",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Kobenhavn",
+   "tvg_id": "TVKobenhavn.dk",
+   "logo_key": "tvkobenhavn",
+   "logo": true,
+   "aliases": [
+    "tvkbenhavn"
+   ]
+  },
+  {
+   "name": "TV Kronjylland",
+   "tvg_id": "TVKronjylland.dk",
+   "logo_key": "tvkronjylland",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Midtvest",
+   "tvg_id": "TVMidtvest.dk",
+   "logo_key": "tvmidtvest",
+   "logo": true,
+   "aliases": [
+    "tvmv"
+   ]
+  },
+  {
+   "name": "TV Nordkysten",
+   "tvg_id": "TVNordkysten.dk",
+   "logo_key": "tvnordkysten",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Storbyen",
+   "tvg_id": "TVStorbyen.dk",
+   "logo_key": "tvstorbyen",
+   "logo": true,
+   "aliases": [
+    "bispebjerglokal",
+    "bl"
+   ]
+  },
+  {
+   "name": "TV SYD",
+   "tvg_id": "TVSYD.dk",
+   "logo_key": "tvsyd",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Vestjylland",
+   "tvg_id": "TVVestjylland.dk",
+   "logo_key": "tvvestjylland",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Vestsjaelland",
+   "tvg_id": "TVVestsjaelland.dk",
+   "logo_key": "tvvestsjaelland",
+   "logo": true,
+   "aliases": [
+    "tvvestsjlland"
+   ]
+  },
+  {
+   "name": "TV2 Nord",
+   "tvg_id": "TV2Nord.dk",
+   "logo_key": "tv2nord",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV2 Ost",
+   "tvg_id": "TV2Ost.dk",
+   "logo_key": "tv2ost",
+   "logo": true,
+   "aliases": [
+    "tv2st"
+   ]
+  },
+  {
+   "name": "TV2 Ostjylland",
+   "tvg_id": "TV2Ostjylland.dk",
+   "logo_key": "tv2ostjylland",
+   "logo": true,
+   "aliases": [
+    "tv2stjylland"
+   ]
+  },
+  {
+   "name": "TV3",
+   "tvg_id": "TV3.dk",
+   "logo_key": "tv3",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV3 Max",
+   "tvg_id": "TV3Max.dk",
+   "logo_key": "tv3max",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV3 Puls",
+   "tvg_id": "TV3Puls.dk",
+   "logo_key": "tv3puls",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV3 Sport",
+   "tvg_id": "TV3Sport.dk",
+   "logo_key": "tv3sport",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV3+",
+   "tvg_id": "TV3Plus.dk",
+   "logo_key": "tv3+",
+   "logo": true,
+   "aliases": [
+    "tv3plus"
+   ]
+  },
+  {
+   "name": "TVA",
+   "tvg_id": "TVA.dk",
+   "logo_key": "tva",
+   "logo": true,
+   "aliases": [
+    "tvavisen"
+   ]
+  },
+  {
+   "name": "TVAarhus",
+   "tvg_id": "TVAarhus.dk",
+   "logo_key": "tvaarhus",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TVMarineret",
+   "tvg_id": "TVMarineret.dk",
+   "logo_key": "tvmarineret",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Uptown Classic",
+   "tvg_id": "UptownClassic.dk",
+   "logo_key": "uptownclassic",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Uptown Dansk Musik",
+   "tvg_id": "UptownDanskMusik.dk",
+   "logo_key": "uptowndanskmusik",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Uptown Music TV",
+   "tvg_id": "UptownMusicTV.dk",
+   "logo_key": "uptownmusic",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Vesterbro Lokal TV",
+   "tvg_id": "VesterbroLokalTV.dk",
+   "logo_key": "vesterbrolokal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Xee",
+   "tvg_id": "Xee.dk",
+   "logo_key": "xee",
+   "logo": true,
+   "aliases": []
+  }
+ ]
+}

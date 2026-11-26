@@ -1,0 +1,4959 @@
+{
+ "country": "Türkiye",
+ "code": "tr",
+ "epg": {
+  "open_epg": [
+   "https://www.open-epg.com/files/turkey.xml",
+   "https://www.open-epg.com/files/turkey1.xml",
+   "https://www.open-epg.com/files/turkey2.xml",
+   "https://www.open-epg.com/files/turkey3.xml",
+   "https://www.open-epg.com/files/turkey4.xml",
+   "https://www.open-epg.com/files/turkey5.xml",
+   "https://www.open-epg.com/files/turkey6.xml",
+   "https://www.open-epg.com/files/turkey7.xml",
+   "https://www.open-epg.com/files/turkey8.xml"
+  ],
+  "iptv_epg": [
+   "https://iptv-epg.org/files/epg-tr.xml"
+  ]
+ },
+ "channels": [
+  {
+   "name": "24 TV",
+   "tvg_id": "24TV.tr",
+   "logo_key": "24",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "360",
+   "tvg_id": "360.tr",
+   "logo_key": "360",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "363 TV",
+   "tvg_id": "363TV.tr",
+   "logo_key": "363",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "365 TV",
+   "tvg_id": "365TV.tr",
+   "logo_key": "365",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "4 Eylul TV",
+   "tvg_id": "4EylulTV.tr",
+   "logo_key": "4eylul",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "4U TV",
+   "tvg_id": "4UTV.tr",
+   "logo_key": "4u",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "5 OCAK TV",
+   "tvg_id": "",
+   "logo_key": "5ocak",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "A 52 TV",
+   "tvg_id": "",
+   "logo_key": "a52",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "A Haber",
+   "tvg_id": "AHaber.tr",
+   "logo_key": "ahaber",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "A News",
+   "tvg_id": "ANews.tr",
+   "logo_key": "anews",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "A Para",
+   "tvg_id": "APara.tr",
+   "logo_key": "apara",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "A Spor",
+   "tvg_id": "ASpor.tr",
+   "logo_key": "aspor",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "A Turk",
+   "tvg_id": "ATurk.tr",
+   "logo_key": "aturk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "A2TV",
+   "tvg_id": "A2TV.tr",
+   "logo_key": "a2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ABB TV",
+   "tvg_id": "",
+   "logo_key": "abb",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ABN TURKEY",
+   "tvg_id": "",
+   "logo_key": "abnturkey",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Afroturk TV",
+   "tvg_id": "AfroturkTV.tr",
+   "logo_key": "afroturk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Afyon Turk TV",
+   "tvg_id": "AfyonTurkTV.tr",
+   "logo_key": "afyonturk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Agro TV",
+   "tvg_id": "AgroTV.tr",
+   "logo_key": "agro",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "AGRO TV AZERBAYCAN",
+   "tvg_id": "",
+   "logo_key": "agrotvazerbaycan",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "AGRT",
+   "tvg_id": "",
+   "logo_key": "agrt",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Ahi TV",
+   "tvg_id": "AhiTV.tr",
+   "logo_key": "ahi",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "AILE TV",
+   "tvg_id": "",
+   "logo_key": "aile",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "AJANS EXPRESS",
+   "tvg_id": "",
+   "logo_key": "ajansexpress",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "AKADEMIK BAKIŞ",
+   "tvg_id": "",
+   "logo_key": "akademikbakis",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Akit TV",
+   "tvg_id": "AkitTV.tr",
+   "logo_key": "akit",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Aksu TV",
+   "tvg_id": "AksuTV.tr",
+   "logo_key": "aksu",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Al Qanat 9",
+   "tvg_id": "AlQanat9.tr",
+   "logo_key": "alqanat9",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Al-Rafidain TV",
+   "tvg_id": "AlRafidainTV.tr",
+   "logo_key": "alrafidain",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Al-Zahra TV Turkic",
+   "tvg_id": "AlZahraTVTurkic.tr",
+   "logo_key": "alzahratvturkic",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Alanya Posta TV",
+   "tvg_id": "AlanyaPostaTV.tr",
+   "logo_key": "alanyaposta",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ALANYA TV",
+   "tvg_id": "",
+   "logo_key": "alanya",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ALDOSA TV",
+   "tvg_id": "",
+   "logo_key": "aldosa",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Almahriah TV",
+   "tvg_id": "AlmahriahTV.tr",
+   "logo_key": "almahriah",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ALMANYA TV",
+   "tvg_id": "",
+   "logo_key": "almanya",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Altas TV",
+   "tvg_id": "AltasTV.tr",
+   "logo_key": "altas",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "AMC TV",
+   "tvg_id": "AMCTV.tr",
+   "logo_key": "amc",
+   "logo": true,
+   "aliases": [
+    "asianmusicchannel"
+   ]
+  },
+  {
+   "name": "Anadolu Agency",
+   "tvg_id": "AnadoluAgency.tr",
+   "logo_key": "anadoluagency",
+   "logo": true,
+   "aliases": [
+    "anadoluajansi"
+   ]
+  },
+  {
+   "name": "Anadolu Dernek TV",
+   "tvg_id": "AnadoluDernekTV.tr",
+   "logo_key": "anadoludernek",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ANADOLU DOST TV",
+   "tvg_id": "",
+   "logo_key": "anadoludost",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Anadolu Net TV",
+   "tvg_id": "AnadoluNetTV.tr",
+   "logo_key": "anadolunet",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ANADOLU TV",
+   "tvg_id": "",
+   "logo_key": "anadolu",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ANGARA TV (KEÇIÖREN BELEDIYESI)",
+   "tvg_id": "",
+   "logo_key": "angara",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Animal Planet",
+   "tvg_id": "AnimalPlanet.tr",
+   "logo_key": "animalplanet",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "APA TV",
+   "tvg_id": "",
+   "logo_key": "apa",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ARABESK WEB TV",
+   "tvg_id": "",
+   "logo_key": "arabeskweb",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Aras TV",
+   "tvg_id": "ArasTV.tr",
+   "logo_key": "aras",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ARB",
+   "tvg_id": "",
+   "logo_key": "arb",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ARB 24",
+   "tvg_id": "",
+   "logo_key": "arb24",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ARB GUNES",
+   "tvg_id": "",
+   "logo_key": "arbgunes",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ARIZA",
+   "tvg_id": "",
+   "logo_key": "ariza",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ARMA TV",
+   "tvg_id": "",
+   "logo_key": "arma",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ART AMASYA",
+   "tvg_id": "",
+   "logo_key": "artamasya",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "AS TV",
+   "tvg_id": "ASTV.tr",
+   "logo_key": "as",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ASF TV",
+   "tvg_id": "ASFTV.tr",
+   "logo_key": "asf",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ASR-I SAADET TV",
+   "tvg_id": "",
+   "logo_key": "asrisaadet",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ATV",
+   "tvg_id": "ATV.tr",
+   "logo_key": "atv",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ATV +8",
+   "tvg_id": "ATVPlus8.tr",
+   "logo_key": "atv+8",
+   "logo": true,
+   "aliases": [
+    "atvplus8"
+   ]
+  },
+  {
+   "name": "ATV Alanya",
+   "tvg_id": "ATVAlanya.tr",
+   "logo_key": "atvalanya",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ATV Avrupa",
+   "tvg_id": "ATVAvrupa.tr",
+   "logo_key": "atvavrupa",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Aviva",
+   "tvg_id": "",
+   "logo_key": "aviva",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "AVLU",
+   "tvg_id": "",
+   "logo_key": "avlu",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "AVM TV",
+   "tvg_id": "",
+   "logo_key": "avm",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "AYZ TV",
+   "tvg_id": "",
+   "logo_key": "ayz",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "AZ STAR TV",
+   "tvg_id": "",
+   "logo_key": "azstar",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "AZ TV",
+   "tvg_id": "",
+   "logo_key": "az",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "AZAD TV",
+   "tvg_id": "",
+   "logo_key": "azad",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "AŞK-I NEVA",
+   "tvg_id": "",
+   "logo_key": "askineva",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "AŞR-I ŞERIF TV",
+   "tvg_id": "",
+   "logo_key": "asriserif",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "BAKU TV",
+   "tvg_id": "",
+   "logo_key": "baku",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Bartin TV",
+   "tvg_id": "BartinTV.tr",
+   "logo_key": "bartin",
+   "logo": false,
+   "aliases": [
+    "kanal74"
+   ]
+  },
+  {
+   "name": "BARTIN TV",
+   "tvg_id": "",
+   "logo_key": "bartin",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Baska TV",
+   "tvg_id": "BaskaTV.tr",
+   "logo_key": "baska",
+   "logo": true,
+   "aliases": [
+    "baka"
+   ]
+  },
+  {
+   "name": "BEA TV",
+   "tvg_id": "BEATV.tr",
+   "logo_key": "bea",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BEHZAT Ç.",
+   "tvg_id": "",
+   "logo_key": "behzatc",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "beIN Box Office 1",
+   "tvg_id": "beINBoxOffice1.tr",
+   "logo_key": "beinboxoffice1",
+   "logo": true,
+   "aliases": [
+    "beinboxoffice1turkiye"
+   ]
+  },
+  {
+   "name": "beIN Box Office 2",
+   "tvg_id": "beINBoxOffice2.tr",
+   "logo_key": "beinboxoffice2",
+   "logo": true,
+   "aliases": [
+    "beinboxoffice2turkiye"
+   ]
+  },
+  {
+   "name": "beIN Box Office 3",
+   "tvg_id": "beINBoxOffice3.tr",
+   "logo_key": "beinboxoffice3",
+   "logo": true,
+   "aliases": [
+    "beinboxoffice3turkiye"
+   ]
+  },
+  {
+   "name": "beIN Gurme",
+   "tvg_id": "beINGurme.tr",
+   "logo_key": "beingurme",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "beIN H&E",
+   "tvg_id": "beINHE.tr",
+   "logo_key": "beinhe",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "beIN IZ",
+   "tvg_id": "beINIZ.tr",
+   "logo_key": "beiniz",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "beIN Movies Action",
+   "tvg_id": "beINMoviesAction.tr",
+   "logo_key": "beinmoviesaction",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "beIN Movies Action 2",
+   "tvg_id": "beINMoviesAction2.tr",
+   "logo_key": "beinmoviesaction2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "beIN Movies Family",
+   "tvg_id": "beINMoviesFamily.tr",
+   "logo_key": "beinmoviesfamily",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "beIN Movies Premiere",
+   "tvg_id": "beINMoviesPremiere.tr",
+   "logo_key": "beinmoviespremiere",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "beIN Movies Premiere 2",
+   "tvg_id": "beINMoviesPremiere2.tr",
+   "logo_key": "beinmoviespremiere2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "beIN Movies Stars",
+   "tvg_id": "beINMoviesStars.tr",
+   "logo_key": "beinmoviesstars",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "beIN Movies Turk",
+   "tvg_id": "beINMoviesTurk.tr",
+   "logo_key": "beinmoviesturk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "beIN Series Comedy",
+   "tvg_id": "beINSeriesComedy.tr",
+   "logo_key": "beinseriescomedy",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "beIN Series Drama",
+   "tvg_id": "beINSeriesDrama.tr",
+   "logo_key": "beinseriesdrama",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "beIN Series Sci-Fi",
+   "tvg_id": "beINSeriesSciFi.tr",
+   "logo_key": "beinseriesscifi",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "beIN Series Vice",
+   "tvg_id": "beINSeriesVice.tr",
+   "logo_key": "beinseriesvice",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BEIN SPORTS 1 HD",
+   "tvg_id": "",
+   "logo_key": "beinsports1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "beIN Sports 1 Turk",
+   "tvg_id": "beINSports1Turk.tr",
+   "logo_key": "beinsports1turk",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "BEIN SPORTS 2 HD",
+   "tvg_id": "",
+   "logo_key": "beinsports2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "beIN Sports 2 Turk",
+   "tvg_id": "beINSports2Turk.tr",
+   "logo_key": "beinsports2turk",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "BEIN SPORTS 3 HD",
+   "tvg_id": "",
+   "logo_key": "beinsports3",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "beIN Sports 3 Turk",
+   "tvg_id": "beINSports3Turk.tr",
+   "logo_key": "beinsports3turk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BEIN SPORTS 4 HD",
+   "tvg_id": "",
+   "logo_key": "beinsports4",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "beIN Sports 4 Turk",
+   "tvg_id": "beINSports4Turk.tr",
+   "logo_key": "beinsports4turk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BEIN SPORTS 5 HD",
+   "tvg_id": "",
+   "logo_key": "beinsports5",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "beIN Sports 5 Turk",
+   "tvg_id": "beINSports5Turk.tr",
+   "logo_key": "beinsports5turk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "beIN Sports Haber",
+   "tvg_id": "beINSportsHaber.tr",
+   "logo_key": "beinsportshaber",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BELEM TÜRK TV",
+   "tvg_id": "",
+   "logo_key": "belemturk",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "BELGESEL TV",
+   "tvg_id": "",
+   "logo_key": "belgesel",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Benguturk TV",
+   "tvg_id": "BenguturkTV.tr",
+   "logo_key": "benguturk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Berat TV",
+   "tvg_id": "BeratTV.tr",
+   "logo_key": "berat",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Besiktas Web TV",
+   "tvg_id": "BesiktasWebTV.tr",
+   "logo_key": "besiktasweb",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Beyaz TV",
+   "tvg_id": "BeyazTV.tr",
+   "logo_key": "beyaz",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Beykent TV",
+   "tvg_id": "BeykentTV.tr",
+   "logo_key": "beykent",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BFZ Turk",
+   "tvg_id": "BFZTurk.tr",
+   "logo_key": "bfzturk",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Bi Kanal",
+   "tvg_id": "BiKanal.tr",
+   "logo_key": "bikanal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BILSEM BIZIM TV",
+   "tvg_id": "",
+   "logo_key": "bilsembizim",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Bir TV",
+   "tvg_id": "BirTV.tr",
+   "logo_key": "bir",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BIRGÜN TV",
+   "tvg_id": "",
+   "logo_key": "birgun",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "BIRLIK HABER AJANSI",
+   "tvg_id": "",
+   "logo_key": "birlikhaberajansi",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Bitlis TV",
+   "tvg_id": "BitlisTV.tr",
+   "logo_key": "bitlis",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Bizimev TV",
+   "tvg_id": "BizimevTV.tr",
+   "logo_key": "bizimev",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Bloomberg HT",
+   "tvg_id": "BloombergHT.tr",
+   "logo_key": "bloomberght",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BluTV Play 1",
+   "tvg_id": "BluTVPlay1.tr",
+   "logo_key": "blutvplay1",
+   "logo": false,
+   "aliases": [
+    "bluplay1"
+   ]
+  },
+  {
+   "name": "BluTV Play 2",
+   "tvg_id": "BluTVPlay2.tr",
+   "logo_key": "blutvplay2",
+   "logo": false,
+   "aliases": [
+    "bluplay2"
+   ]
+  },
+  {
+   "name": "Bodrum Belediyesi Web TV",
+   "tvg_id": "BodrumBelediyesiWebTV.tr",
+   "logo_key": "bodrumbelediyesiweb",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Bodrum Kent TV",
+   "tvg_id": "",
+   "logo_key": "bodrumkent",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Bric ve Satranc TV",
+   "tvg_id": "BricveSatrancTV.tr",
+   "logo_key": "bricvesatranc",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BRT 1",
+   "tvg_id": "",
+   "logo_key": "brt1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BRT 2",
+   "tvg_id": "",
+   "logo_key": "brt2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BRTV",
+   "tvg_id": "BRTV.tr",
+   "logo_key": "br",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BRTV KARABÜK",
+   "tvg_id": "",
+   "logo_key": "brtvkarabuk",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "BUL TÜRK TV",
+   "tvg_id": "",
+   "logo_key": "bulturk",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Bursa TV",
+   "tvg_id": "BursaTV.tr",
+   "logo_key": "bursa",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BYHORSES TV",
+   "tvg_id": "",
+   "logo_key": "byhorses",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Can TV",
+   "tvg_id": "CanTV.tr",
+   "logo_key": "can",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "CANSUYU TV",
+   "tvg_id": "",
+   "logo_key": "cansuyu",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Cartoon Network",
+   "tvg_id": "CartoonNetwork.tr",
+   "logo_key": "cartoonnetwork",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Cay TV",
+   "tvg_id": "CayTV.tr",
+   "logo_key": "cay",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "CBC",
+   "tvg_id": "",
+   "logo_key": "cbc",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "CBeebies",
+   "tvg_id": "CBeebies.tr",
+   "logo_key": "cbeebies",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Cekmekoy TV",
+   "tvg_id": "CekmekoyTV.tr",
+   "logo_key": "cekmekoy",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Cem TV",
+   "tvg_id": "CemTV.tr",
+   "logo_key": "cem",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "CENNET MAHALLESI",
+   "tvg_id": "",
+   "logo_key": "cennetmahallesi",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "CEYHAN TV",
+   "tvg_id": "",
+   "logo_key": "ceyhan",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "CGTN Documentary",
+   "tvg_id": "CGTNDocumentary.tr",
+   "logo_key": "cgtndocumentary",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "CHILL TV",
+   "tvg_id": "",
+   "logo_key": "chill",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Ciftci TV",
+   "tvg_id": "CiftciTV.tr",
+   "logo_key": "ciftci",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Cine 1",
+   "tvg_id": "Cine1.tr",
+   "logo_key": "cine1",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Cine 1",
+   "tvg_id": "",
+   "logo_key": "cine1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "CINE5 TV",
+   "tvg_id": "",
+   "logo_key": "cine5",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "CLC MEDYA TV",
+   "tvg_id": "",
+   "logo_key": "clcmedya",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "CNBC-e",
+   "tvg_id": "CNBCe.tr",
+   "logo_key": "cnbce",
+   "logo": true,
+   "aliases": [
+    "cnbcturkiye"
+   ]
+  },
+  {
+   "name": "CNN Turk",
+   "tvg_id": "CNNTurk.tr",
+   "logo_key": "cnnturk",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Cocuk Smart",
+   "tvg_id": "CocukSmart.tr",
+   "logo_key": "cocuksmart",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Cosmo EN",
+   "tvg_id": "CosmoEN.tr",
+   "logo_key": "cosmoen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "CRI Turk Belgesel",
+   "tvg_id": "CRITurkBelgesel.tr",
+   "logo_key": "criturkbelgesel",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "CUMBURLOP TV",
+   "tvg_id": "",
+   "logo_key": "cumburlop",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Daawah TV",
+   "tvg_id": "DaawahTV.tr",
+   "logo_key": "daawah",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "DAMAR WEB TV",
+   "tvg_id": "",
+   "logo_key": "damarweb",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Deha TV",
+   "tvg_id": "DehaTV.tr",
+   "logo_key": "deha",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "DEMIRCI TV",
+   "tvg_id": "",
+   "logo_key": "demirci",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "DEMO TV",
+   "tvg_id": "",
+   "logo_key": "demo",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Deniz Postasi TV",
+   "tvg_id": "DenizPostasiTV.tr",
+   "logo_key": "denizpostasi",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "DERIN TV KARABÜK",
+   "tvg_id": "",
+   "logo_key": "derintvkarabuk",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Dersim62 TV",
+   "tvg_id": "Dersim62TV.tr",
+   "logo_key": "dersim62",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "DEVELI ÇAĞRI TV",
+   "tvg_id": "",
+   "logo_key": "develicagri",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "DHA",
+   "tvg_id": "DHA.tr",
+   "logo_key": "dha",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "DHA CANLI 1",
+   "tvg_id": "",
+   "logo_key": "dhacanli1",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "DHA CANLI 2",
+   "tvg_id": "",
+   "logo_key": "dhacanli2",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Digiturk 4K",
+   "tvg_id": "Digiturk4K.tr",
+   "logo_key": "digiturk",
+   "logo": false,
+   "aliases": [
+    "digiturk4k"
+   ]
+  },
+  {
+   "name": "DILA HANIM",
+   "tvg_id": "",
+   "logo_key": "dilahanim",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Dim TV",
+   "tvg_id": "DimTV.tr",
+   "logo_key": "dim",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Discovery Channel",
+   "tvg_id": "DiscoveryChannel.tr",
+   "logo_key": "discoverychannel",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Disney Jr.",
+   "tvg_id": "DisneyJr.tr",
+   "logo_key": "disneyjr",
+   "logo": false,
+   "aliases": [
+    "playhousedisney"
+   ]
+  },
+  {
+   "name": "Diyanet TV",
+   "tvg_id": "DiyanetTV.tr",
+   "logo_key": "diyanet",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "DIYANET ÇOCUK",
+   "tvg_id": "",
+   "logo_key": "diyanetcocuk",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Diyar TV",
+   "tvg_id": "DiyarTV.tr",
+   "logo_key": "diyar",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "DIZI FILM TV",
+   "tvg_id": "",
+   "logo_key": "dizifilm",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "DiziSmart Max",
+   "tvg_id": "DiziSmartMax.tr",
+   "logo_key": "dizismartmax",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "DMAX",
+   "tvg_id": "DMAX.tr",
+   "logo_key": "dmax",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Dost TV",
+   "tvg_id": "DostTV.tr",
+   "logo_key": "dost",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "DOST WEB TV",
+   "tvg_id": "",
+   "logo_key": "dostweb",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Dream Turk",
+   "tvg_id": "DreamTurk.tr",
+   "logo_key": "dreamturk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "DRT Denizli",
+   "tvg_id": "DRTDenizli.tr",
+   "logo_key": "drtdenizli",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "DRT TV",
+   "tvg_id": "DRTTV.tr",
+   "logo_key": "drt",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "DÜNYA TV",
+   "tvg_id": "",
+   "logo_key": "dunya",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "DÜZCE TV",
+   "tvg_id": "",
+   "logo_key": "duzce",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "DÜZGÜN TV",
+   "tvg_id": "",
+   "logo_key": "duzgun",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Edessa TV",
+   "tvg_id": "EdessaTV.tr",
+   "logo_key": "edessa",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Edirne TV",
+   "tvg_id": "",
+   "logo_key": "edirne",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "EFES DOST TV",
+   "tvg_id": "",
+   "logo_key": "efesdost",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "EGE LIVE TV",
+   "tvg_id": "",
+   "logo_key": "egelive",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Ege Turk TV",
+   "tvg_id": "EgeTurkTV.tr",
+   "logo_key": "egeturk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Egem TV Usak",
+   "tvg_id": "EgemTVUsak.tr",
+   "logo_key": "egemtvusak",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Ekin Turk",
+   "tvg_id": "EkinTurk.tr",
+   "logo_key": "ekinturk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "EKOL TV",
+   "tvg_id": "",
+   "logo_key": "ekol",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Ekoturk",
+   "tvg_id": "Ekoturk.tr",
+   "logo_key": "ekoturk",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Elmas TV",
+   "tvg_id": "ElmasTV.tr",
+   "logo_key": "elmas",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Elsharq TV",
+   "tvg_id": "ElsharqTV.tr",
+   "logo_key": "elsharq",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "EMAX",
+   "tvg_id": "EMAX.tr",
+   "logo_key": "emax",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "EMRET KOMUTANIM",
+   "tvg_id": "",
+   "logo_key": "emretkomutanim",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ER TV MALATYA",
+   "tvg_id": "",
+   "logo_key": "ertvmalatya",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ERCIYES TV",
+   "tvg_id": "",
+   "logo_key": "erciyes",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ERCIŞ TV",
+   "tvg_id": "",
+   "logo_key": "ercis",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ERT ERBAA",
+   "tvg_id": "",
+   "logo_key": "erterbaa",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Ert Sah TV",
+   "tvg_id": "ErtSahTV.tr",
+   "logo_key": "ertsah",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ERTV",
+   "tvg_id": "ERTV.tr",
+   "logo_key": "er",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Erzurum Web TV",
+   "tvg_id": "ErzurumWebTV.tr",
+   "logo_key": "erzurumweb",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ES TV",
+   "tvg_id": "ESTV.tr",
+   "logo_key": "es",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ESENLER ŞEHIR EKRANI",
+   "tvg_id": "",
+   "logo_key": "esenlersehirekrani",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ETV",
+   "tvg_id": "ETV.tr",
+   "logo_key": "etv",
+   "logo": true,
+   "aliases": [
+    "edirnetelevizyonu"
+   ]
+  },
+  {
+   "name": "ETV Kayseri",
+   "tvg_id": "ETVKayseri.tr",
+   "logo_key": "etvkayseri",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ETV Manisa",
+   "tvg_id": "ETVManisa.tr",
+   "logo_key": "etvmanisa",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "EURO 34 TV",
+   "tvg_id": "",
+   "logo_key": "euro34",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Euro 90 Channel",
+   "tvg_id": "Euro90Channel.tr",
+   "logo_key": "euro90channel",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Euro D",
+   "tvg_id": "EuroD.tr",
+   "logo_key": "eurod",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "EuroStar",
+   "tvg_id": "EuroStar.tr",
+   "logo_key": "eurostar",
+   "logo": true,
+   "aliases": [
+    "staravruparadyovetelevizyon"
+   ]
+  },
+  {
+   "name": "Eva TV",
+   "tvg_id": "EvaTV.tr",
+   "logo_key": "eva",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "EVA TV",
+   "tvg_id": "",
+   "logo_key": "eva",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "EXPO VIZYON",
+   "tvg_id": "",
+   "logo_key": "expovizyon",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Ezo TV",
+   "tvg_id": "",
+   "logo_key": "ezo",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "FARK TÜRK TV",
+   "tvg_id": "",
+   "logo_key": "farkturk",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "FAZILET HANIM VE KIZLARI",
+   "tvg_id": "",
+   "logo_key": "fazilethanimvekizlari",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "FB TV",
+   "tvg_id": "FBTV.tr",
+   "logo_key": "fb",
+   "logo": true,
+   "aliases": [
+    "fenerbahce"
+   ]
+  },
+  {
+   "name": "Finans Turk TV",
+   "tvg_id": "FinansTurkTV.tr",
+   "logo_key": "finansturk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "FIT YAŞA TV",
+   "tvg_id": "",
+   "logo_key": "fityasa",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Flash Haber TV",
+   "tvg_id": "FlashHaberTV.tr",
+   "logo_key": "flashhaber",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Flash TV",
+   "tvg_id": "FlashTV.tr",
+   "logo_key": "flash",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "FM TV",
+   "tvg_id": "FMTV.tr",
+   "logo_key": "fm",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "FORA MÜZIK",
+   "tvg_id": "",
+   "logo_key": "foramuzik",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Fortuna TV",
+   "tvg_id": "FortunaTV.tr",
+   "logo_key": "fortuna",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "FRT FETHIYE",
+   "tvg_id": "",
+   "logo_key": "frtfethiye",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "FURKIŞ TV",
+   "tvg_id": "",
+   "logo_key": "furkis",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "FX",
+   "tvg_id": "FX.tr",
+   "logo_key": "fx",
+   "logo": false,
+   "aliases": [
+    "fxturkiye"
+   ]
+  },
+  {
+   "name": "Gaziantep Olay TV",
+   "tvg_id": "GaziantepOlayTV.tr",
+   "logo_key": "gaziantepolay",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GEM 24B",
+   "tvg_id": "GEM24B.tr",
+   "logo_key": "gem24b",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GEM Academy",
+   "tvg_id": "GEMAcademy.tr",
+   "logo_key": "gemacademy",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GEM Arabia",
+   "tvg_id": "GEMArabia.tr",
+   "logo_key": "gemarabia",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GEM AZ",
+   "tvg_id": "GEMAZ.tr",
+   "logo_key": "gemaz",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GEM Bollywood",
+   "tvg_id": "GEMBollywood.tr",
+   "logo_key": "gembollywood",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GEM Classic",
+   "tvg_id": "GEMClassic.tr",
+   "logo_key": "gemclassic",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GEM Comedy",
+   "tvg_id": "GEMComedy.tr",
+   "logo_key": "gemcomedy",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GEM Crypto",
+   "tvg_id": "GEMCrypto.tr",
+   "logo_key": "gemcrypto",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GEM Drama",
+   "tvg_id": "GEMDrama.tr",
+   "logo_key": "gemdrama",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GEM Drama +",
+   "tvg_id": "GEMDramaPlus.tr",
+   "logo_key": "gemdrama+",
+   "logo": true,
+   "aliases": [
+    "gemdramaplus"
+   ]
+  },
+  {
+   "name": "GEM Entertainment",
+   "tvg_id": "GEMEntertainment.tr",
+   "logo_key": "gementertainment",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GEM Film",
+   "tvg_id": "GEMFilm.tr",
+   "logo_key": "gemfilm",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GEM Fit",
+   "tvg_id": "GEMFit.tr",
+   "logo_key": "gemfit",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GEM Food",
+   "tvg_id": "GEMFood.tr",
+   "logo_key": "gemfood",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GEM Junior",
+   "tvg_id": "GEMJunior.tr",
+   "logo_key": "gemjunior",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GEM Kids",
+   "tvg_id": "GEMKids.tr",
+   "logo_key": "gemkids",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GEM Latino",
+   "tvg_id": "GEMLatino.tr",
+   "logo_key": "gemlatino",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GEM Life",
+   "tvg_id": "GEMLife.tr",
+   "logo_key": "gemlife",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GEM Mifa",
+   "tvg_id": "GEMMifa.tr",
+   "logo_key": "gemmifa",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GEM Mifa +",
+   "tvg_id": "GEMMifaPlus.tr",
+   "logo_key": "gemmifa+",
+   "logo": true,
+   "aliases": [
+    "gemmifaplus"
+   ]
+  },
+  {
+   "name": "GEM Modern Economy",
+   "tvg_id": "GEMModernEconomy.tr",
+   "logo_key": "gemmoderneconomy",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GEM Nature",
+   "tvg_id": "GEMNature.tr",
+   "logo_key": "gemnature",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GEM Onyx",
+   "tvg_id": "GEMOnyx.tr",
+   "logo_key": "gemonyx",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GEM Pixel",
+   "tvg_id": "GEMPixel.tr",
+   "logo_key": "gempixel",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "GEM Property",
+   "tvg_id": "GEMProperty.tr",
+   "logo_key": "gemproperty",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GEM River",
+   "tvg_id": "GEMRiver.tr",
+   "logo_key": "gemriver",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GEM River +",
+   "tvg_id": "GEMRiverPlus.tr",
+   "logo_key": "gemriver+",
+   "logo": true,
+   "aliases": [
+    "gemriverplus"
+   ]
+  },
+  {
+   "name": "GEM Rubix",
+   "tvg_id": "GEMRubix.tr",
+   "logo_key": "gemrubix",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GEM Rubix +",
+   "tvg_id": "GEMRubixPlus.tr",
+   "logo_key": "gemrubix+",
+   "logo": true,
+   "aliases": [
+    "gemrubixplus"
+   ]
+  },
+  {
+   "name": "GEM Series",
+   "tvg_id": "GEMSeries.tr",
+   "logo_key": "gemseries",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GEM Series +",
+   "tvg_id": "GEMSeriesPlus.tr",
+   "logo_key": "gemseries+",
+   "logo": true,
+   "aliases": [
+    "gemseriesplus"
+   ]
+  },
+  {
+   "name": "GEM Sport",
+   "tvg_id": "GEMSport.tr",
+   "logo_key": "gemsport",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GEM Travel",
+   "tvg_id": "GEMTravel.tr",
+   "logo_key": "gemtravel",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GEM TV",
+   "tvg_id": "GEMTV.tr",
+   "logo_key": "gem",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GEM TV +",
+   "tvg_id": "GEMTVPlus.tr",
+   "logo_key": "gemtv+",
+   "logo": true,
+   "aliases": [
+    "gemtvplus"
+   ]
+  },
+  {
+   "name": "GENÇ KRAL TV",
+   "tvg_id": "",
+   "logo_key": "genckral",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Genç SMS TV",
+   "tvg_id": "",
+   "logo_key": "gencsms",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Go2Travel",
+   "tvg_id": "Go2Travel.tr",
+   "logo_key": "go2travel",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Gonca TV",
+   "tvg_id": "GoncaTV.tr",
+   "logo_key": "gonca",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Gozde TV",
+   "tvg_id": "GozdeTV.tr",
+   "logo_key": "gozde",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Grand Cinema",
+   "tvg_id": "GrandCinema.tr",
+   "logo_key": "grandcinema",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "GRT",
+   "tvg_id": "GRT.tr",
+   "logo_key": "grt",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GRT Gaziantep",
+   "tvg_id": "",
+   "logo_key": "grtgaziantep",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "GS TV",
+   "tvg_id": "",
+   "logo_key": "gs",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "GTV GÜNEYDOĞU",
+   "tvg_id": "",
+   "logo_key": "gtvguneydogu",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Guney TV Tarsus",
+   "tvg_id": "GuneyTVTarsus.tr",
+   "logo_key": "guneytvtarsus",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Guneydogu TV",
+   "tvg_id": "GuneydoguTV.tr",
+   "logo_key": "guneydogu",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GURBET 24 TV",
+   "tvg_id": "",
+   "logo_key": "gurbet24",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "GURME TV",
+   "tvg_id": "",
+   "logo_key": "gurme",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "GZT",
+   "tvg_id": "GZT.tr",
+   "logo_key": "gzt",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "GÖKKUŞAĞI TV",
+   "tvg_id": "",
+   "logo_key": "gokkusagi",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "GÖPSEN TV",
+   "tvg_id": "",
+   "logo_key": "gopsen",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "GÖRELE TV",
+   "tvg_id": "",
+   "logo_key": "gorele",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "GÖÇ ZAMANI",
+   "tvg_id": "",
+   "logo_key": "goczamani",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "GÜLDÜR GÜLDÜR",
+   "tvg_id": "",
+   "logo_key": "guldurguldur",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "GÜNEY TV",
+   "tvg_id": "",
+   "logo_key": "guney",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Güneş TV",
+   "tvg_id": "",
+   "logo_key": "gunes",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Haber Global",
+   "tvg_id": "HaberGlobal.tr",
+   "logo_key": "haberglobal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Haber61 TV",
+   "tvg_id": "Haber61TV.tr",
+   "logo_key": "haber61",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Haberturk TV",
+   "tvg_id": "HaberturkTV.tr",
+   "logo_key": "haberturk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Habitat",
+   "tvg_id": "Habitat.tr",
+   "logo_key": "habitat",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "HADI TV TÜRKÇE",
+   "tvg_id": "",
+   "logo_key": "haditvturkce",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Halab Today TV",
+   "tvg_id": "HalabTodayTV.tr",
+   "logo_key": "halabtoday",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Halk TV",
+   "tvg_id": "HalkTV.tr",
+   "logo_key": "halk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "HANIM KÖYLÜ",
+   "tvg_id": "",
+   "logo_key": "hanimkoylu",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "HAYAT BAZEN TATLIDIR",
+   "tvg_id": "",
+   "logo_key": "hayatbazentatlidir",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Helwa TV",
+   "tvg_id": "HelwaTV.tr",
+   "logo_key": "helwa",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "HP TV",
+   "tvg_id": "",
+   "logo_key": "hp",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "HRT Akdeniz TV",
+   "tvg_id": "HRTAkdenizTV.tr",
+   "logo_key": "hrtakdeniz",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "HTSpor TV",
+   "tvg_id": "HTSporTV.tr",
+   "logo_key": "htspor",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Hunat TV",
+   "tvg_id": "HunatTV.tr",
+   "logo_key": "hunat",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "HZ YUSUF",
+   "tvg_id": "",
+   "logo_key": "hzyusuf",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "HÜR TÜRK TV",
+   "tvg_id": "",
+   "logo_key": "hurturk",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "IBB TV",
+   "tvg_id": "IBBTV.tr",
+   "logo_key": "ibb",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Icel TV",
+   "tvg_id": "IcelTV.tr",
+   "logo_key": "icel",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ICTIMAI TV",
+   "tvg_id": "",
+   "logo_key": "ictimai",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Ilke TV",
+   "tvg_id": "IlkeTV.tr",
+   "logo_key": "ilke",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "İLAHILER TV",
+   "tvg_id": "",
+   "logo_key": "ilahiler",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "İLK TV",
+   "tvg_id": "",
+   "logo_key": "ilk",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "İLKGÜN TV",
+   "tvg_id": "",
+   "logo_key": "ilkgun",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "İLMIHAL TV",
+   "tvg_id": "",
+   "logo_key": "ilmihal",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "İNTISAD TV",
+   "tvg_id": "",
+   "logo_key": "intisad",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "İSVIÇRE TV",
+   "tvg_id": "",
+   "logo_key": "isvicre",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "İZMIR TIME 35",
+   "tvg_id": "",
+   "logo_key": "izmirtime35",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "İZMIR TÜRK TV",
+   "tvg_id": "",
+   "logo_key": "izmirturk",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "JUST VOGUE TV",
+   "tvg_id": "",
+   "logo_key": "justvogue",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Kablo Info",
+   "tvg_id": "KabloInfo.tr",
+   "logo_key": "kabloinfo",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kadirga TV",
+   "tvg_id": "KadirgaTV.tr",
+   "logo_key": "kadirga",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "KALBIMIN SULTANI",
+   "tvg_id": "",
+   "logo_key": "kalbiminsultani",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Kanal 1",
+   "tvg_id": "Kanal1.tr",
+   "logo_key": "kanal1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kanal 12",
+   "tvg_id": "Kanal12.tr",
+   "logo_key": "kanal12",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kanal 15",
+   "tvg_id": "Kanal15.tr",
+   "logo_key": "kanal15",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kanal 19",
+   "tvg_id": "Kanal19.tr",
+   "logo_key": "kanal19",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "KANAL 19",
+   "tvg_id": "",
+   "logo_key": "kanal19",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Kanal 23",
+   "tvg_id": "Kanal23.tr",
+   "logo_key": "kanal23",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kanal 26",
+   "tvg_id": "Kanal26.tr",
+   "logo_key": "kanal26",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "KANAL 28",
+   "tvg_id": "",
+   "logo_key": "kanal28",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Kanal 3",
+   "tvg_id": "Kanal3.tr",
+   "logo_key": "kanal3",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kanal 32",
+   "tvg_id": "Kanal32.tr",
+   "logo_key": "kanal32",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Kanal 32",
+   "tvg_id": "",
+   "logo_key": "kanal32",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kanal 33",
+   "tvg_id": "Kanal33.tr",
+   "logo_key": "kanal33",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kanal 34",
+   "tvg_id": "Kanal34.tr",
+   "logo_key": "kanal34",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kanal 38",
+   "tvg_id": "Kanal38.tr",
+   "logo_key": "kanal38",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kanal 42",
+   "tvg_id": "Kanal42.tr",
+   "logo_key": "kanal42",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kanal 5",
+   "tvg_id": "Kanal5.tr",
+   "logo_key": "kanal5",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "KANAL 53",
+   "tvg_id": "",
+   "logo_key": "kanal53",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Kanal 56",
+   "tvg_id": "Kanal56.tr",
+   "logo_key": "kanal56",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "KANAL 56",
+   "tvg_id": "",
+   "logo_key": "kanal56",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Kanal 58",
+   "tvg_id": "Kanal58.tr",
+   "logo_key": "kanal58",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "KANAL 60",
+   "tvg_id": "",
+   "logo_key": "kanal60",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Kanal 68",
+   "tvg_id": "Kanal68.tr",
+   "logo_key": "kanal68",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kanal 7",
+   "tvg_id": "Kanal7.tr",
+   "logo_key": "kanal7",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kanal 7 Avrupa",
+   "tvg_id": "Kanal7Avrupa.tr",
+   "logo_key": "kanal7avrupa",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "KANAL ADA",
+   "tvg_id": "",
+   "logo_key": "kanalada",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Kanal Avrupa",
+   "tvg_id": "KanalAvrupa.tr",
+   "logo_key": "kanalavrupa",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kanal B",
+   "tvg_id": "KanalB.tr",
+   "logo_key": "kanalb",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kanal D",
+   "tvg_id": "KanalD.tr",
+   "logo_key": "kanald",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kanal D Drama",
+   "tvg_id": "KanalDDrama.tr",
+   "logo_key": "kanalddrama",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "KANAL EGE",
+   "tvg_id": "",
+   "logo_key": "kanalege",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Kanal Firat",
+   "tvg_id": "KanalFirat.tr",
+   "logo_key": "kanalfirat",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "KANAL G",
+   "tvg_id": "",
+   "logo_key": "kanalg",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Kanal Hayat",
+   "tvg_id": "",
+   "logo_key": "kanalhayat",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "KANAL LIKYA",
+   "tvg_id": "",
+   "logo_key": "kanallikya",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Kanal S",
+   "tvg_id": "KanalS.tr",
+   "logo_key": "kanals",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kanal Sim",
+   "tvg_id": "",
+   "logo_key": "kanalsim",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Kanal Turk",
+   "tvg_id": "KanalTurk.tr",
+   "logo_key": "kanalturk",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Kanal Urfa",
+   "tvg_id": "KanalUrfa.tr",
+   "logo_key": "kanalurfa",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kanal V",
+   "tvg_id": "KanalV.tr",
+   "logo_key": "kanalv",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kanal Z",
+   "tvg_id": "KanalZ.tr",
+   "logo_key": "kanalz",
+   "logo": true,
+   "aliases": [
+    "kanal67"
+   ]
+  },
+  {
+   "name": "KARADENIZ AKUSTIK",
+   "tvg_id": "",
+   "logo_key": "karadenizakustik",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "KARAPINAR MEDYA",
+   "tvg_id": "",
+   "logo_key": "karapinarmedya",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Kardelen TV",
+   "tvg_id": "KardelenTV.tr",
+   "logo_key": "kardelen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kardeş TV",
+   "tvg_id": "",
+   "logo_key": "kardes",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "KASTAMONU TV",
+   "tvg_id": "",
+   "logo_key": "kastamonu",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Kay TV",
+   "tvg_id": "KayTV.tr",
+   "logo_key": "kay",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kent Turk",
+   "tvg_id": "KentTurk.tr",
+   "logo_key": "kentturk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "KEPEZ TV",
+   "tvg_id": "",
+   "logo_key": "kepez",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "KIBRIS ADA TV",
+   "tvg_id": "",
+   "logo_key": "kibrisada",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "KIBRIS GENÇ TV",
+   "tvg_id": "",
+   "logo_key": "kibrisgenc",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "KIBRIS KANAL T",
+   "tvg_id": "",
+   "logo_key": "kibriskanalt",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "KIBRIS TV",
+   "tvg_id": "",
+   "logo_key": "kibris",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "KIRALIK AŞK",
+   "tvg_id": "",
+   "logo_key": "kiralikask",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "KIZILCIK ŞERBETI",
+   "tvg_id": "",
+   "logo_key": "kizilcikserbeti",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "KOBIM TV",
+   "tvg_id": "",
+   "logo_key": "kobim",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Kocaeli TV",
+   "tvg_id": "KocaeliTV.tr",
+   "logo_key": "kocaeli",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kon TV",
+   "tvg_id": "KonTV.tr",
+   "logo_key": "kon",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "KONUŞAN TOM VE ARKADAŞLARI",
+   "tvg_id": "",
+   "logo_key": "konusantomvearkadaslari",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Konya Olay TV",
+   "tvg_id": "KonyaOlayTV.tr",
+   "logo_key": "konyaolay",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "KONYA TV",
+   "tvg_id": "",
+   "logo_key": "konya",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "KONYA UN TV",
+   "tvg_id": "",
+   "logo_key": "konyaun",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Koy TV",
+   "tvg_id": "KoyTV.tr",
+   "logo_key": "koy",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Koza TV",
+   "tvg_id": "KozaTV.tr",
+   "logo_key": "koza",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kral Pop TV",
+   "tvg_id": "KralPopTV.tr",
+   "logo_key": "kralpop",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kral TV",
+   "tvg_id": "KralTV.tr",
+   "logo_key": "kral",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "KRT",
+   "tvg_id": "KRT.tr",
+   "logo_key": "krt",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kudus TV",
+   "tvg_id": "KudusTV.tr",
+   "logo_key": "kudus",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "KUKULI",
+   "tvg_id": "",
+   "logo_key": "kukuli",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "KUKULI ŞARKILAR",
+   "tvg_id": "",
+   "logo_key": "kukulisarkilar",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "KURAN-I KERIM DERSLERI",
+   "tvg_id": "",
+   "logo_key": "kuranikerimdersleri",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "KURT SEYIT VE ŞURA",
+   "tvg_id": "",
+   "logo_key": "kurtseyitvesura",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "KUZEY KIBRIS TV",
+   "tvg_id": "",
+   "logo_key": "kuzeykibris",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "KUZEY TV",
+   "tvg_id": "",
+   "logo_key": "kuzey",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "KUZEY YILDIZI: İLK AŞK",
+   "tvg_id": "",
+   "logo_key": "kuzeyyildiziilkask",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "KÖROĞLU TV",
+   "tvg_id": "",
+   "logo_key": "koroglu",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "KÜLTÜR SANAT TV",
+   "tvg_id": "",
+   "logo_key": "kultursanat",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Lalegul TV",
+   "tvg_id": "LalegulTV.tr",
+   "logo_key": "lalegul",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "LEBIH TV",
+   "tvg_id": "",
+   "logo_key": "lebih",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Lider Haber",
+   "tvg_id": "LiderHaber.tr",
+   "logo_key": "liderhaber",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Life TV",
+   "tvg_id": "LifeTV.tr",
+   "logo_key": "life",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "LIFE TV KAYSERI",
+   "tvg_id": "",
+   "logo_key": "lifetvkayseri",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Line TV",
+   "tvg_id": "LineTV.tr",
+   "logo_key": "line",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "LINE TV BURSA",
+   "tvg_id": "",
+   "logo_key": "linetvbursa",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "LIVE TV",
+   "tvg_id": "",
+   "logo_key": "live",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "LOFI",
+   "tvg_id": "",
+   "logo_key": "lofi",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "LUGAT TV",
+   "tvg_id": "",
+   "logo_key": "lugat",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Luys TV",
+   "tvg_id": "LuysTV.tr",
+   "logo_key": "luys",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Malatya Vuslat TV",
+   "tvg_id": "MalatyaVuslatTV.tr",
+   "logo_key": "malatyavuslat",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Manisa TV",
+   "tvg_id": "ManisaTV.tr",
+   "logo_key": "manisa",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Mar TV",
+   "tvg_id": "MarTV.tr",
+   "logo_key": "mar",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MARMARA TV",
+   "tvg_id": "",
+   "logo_key": "marmara",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "MaviKaradeniz TV",
+   "tvg_id": "MaviKaradenizTV.tr",
+   "logo_key": "mavikaradeniz",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MCJ TV SHOP",
+   "tvg_id": "",
+   "logo_key": "mcjtvshop",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Med Muzik",
+   "tvg_id": "MedMuzik.tr",
+   "logo_key": "medmuzik",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MEDENIYYET TV",
+   "tvg_id": "",
+   "logo_key": "medeniyyet",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Medya Haber",
+   "tvg_id": "MedyaHaber.tr",
+   "logo_key": "medyahaber",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MedyaEvim TV",
+   "tvg_id": "MedyaEvimTV.tr",
+   "logo_key": "medyaevim",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "MEGA TV İSKENDERUN",
+   "tvg_id": "",
+   "logo_key": "megatviskenderun",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Mekameleen TV",
+   "tvg_id": "MekameleenTV.tr",
+   "logo_key": "mekameleen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Meltem TV",
+   "tvg_id": "MeltemTV.tr",
+   "logo_key": "meltem",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Mercan TV",
+   "tvg_id": "MercanTV.tr",
+   "logo_key": "mercan",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MERKEZ TV MUĞLA",
+   "tvg_id": "",
+   "logo_key": "merkeztvmugla",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Meteoroloji TV",
+   "tvg_id": "MeteorolojiTV.tr",
+   "logo_key": "meteoroloji",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "METROPOL TV",
+   "tvg_id": "",
+   "logo_key": "metropol",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "MIHRAP TV",
+   "tvg_id": "",
+   "logo_key": "mihrap",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "MILLI PIYANGO TV",
+   "tvg_id": "",
+   "logo_key": "millipiyango",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Milyon TV",
+   "tvg_id": "MilyonTV.tr",
+   "logo_key": "milyon",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Minika Cocuk",
+   "tvg_id": "MinikaCocuk.tr",
+   "logo_key": "minikacocuk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Minika Go",
+   "tvg_id": "MinikaGo.tr",
+   "logo_key": "minikago",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Misk FM",
+   "tvg_id": "MiskFM.tr",
+   "logo_key": "miskfm",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MODA MAGAZIN TV",
+   "tvg_id": "",
+   "logo_key": "modamagazin",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "MovieSmart Classic",
+   "tvg_id": "MovieSmartClassic.tr",
+   "logo_key": "moviesmartclassic",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MovieSmart Premium",
+   "tvg_id": "MovieSmartPremium.tr",
+   "logo_key": "moviesmartpremium",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MovieSmart Premium 2",
+   "tvg_id": "MovieSmartPremium2.tr",
+   "logo_key": "moviesmartpremium2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MovieSmart Turk",
+   "tvg_id": "MovieSmartTurk.tr",
+   "logo_key": "moviesmartturk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MPL TV",
+   "tvg_id": "MPLTV.tr",
+   "logo_key": "mpl",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "MPL TV",
+   "tvg_id": "",
+   "logo_key": "mpl",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "MTurk TV",
+   "tvg_id": "MTurkTV.tr",
+   "logo_key": "mturk",
+   "logo": true,
+   "aliases": [
+    "muglaturk"
+   ]
+  },
+  {
+   "name": "MUKABELE TV",
+   "tvg_id": "",
+   "logo_key": "mukabele",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "MUTLU ÇOCUK",
+   "tvg_id": "",
+   "logo_key": "mutlucocuk",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "MUZ TV AZERBAYCAN",
+   "tvg_id": "",
+   "logo_key": "muztvazerbaycan",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "MÜZIK TV",
+   "tvg_id": "",
+   "logo_key": "muzik",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "NASA",
+   "tvg_id": "",
+   "logo_key": "nasa",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "National Geographic",
+   "tvg_id": "NationalGeographic.tr",
+   "logo_key": "nationalgeographic",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "National Geographic Wild",
+   "tvg_id": "NationalGeographicWild.tr",
+   "logo_key": "nationalgeographicwild",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Natural TV",
+   "tvg_id": "NaturalTV.tr",
+   "logo_key": "natural",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "NAXCIVAN TV",
+   "tvg_id": "",
+   "logo_key": "naxcivan",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "NE HABER 24",
+   "tvg_id": "",
+   "logo_key": "nehaber24",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "NEF TV",
+   "tvg_id": "",
+   "logo_key": "nef",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Nick Jr.",
+   "tvg_id": "NickJr.tr",
+   "logo_key": "nickjr",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Nickelodeon",
+   "tvg_id": "Nickelodeon.tr",
+   "logo_key": "nickelodeon",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Nicktoons",
+   "tvg_id": "Nicktoons.tr",
+   "logo_key": "nicktoons",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "NIL RTV",
+   "tvg_id": "",
+   "logo_key": "nilr",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Nora TV",
+   "tvg_id": "NoraTV.tr",
+   "logo_key": "nora",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "NOW",
+   "tvg_id": "NOW.tr",
+   "logo_key": "now",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "NTR TV",
+   "tvg_id": "NTRTV.tr",
+   "logo_key": "ntr",
+   "logo": true,
+   "aliases": [
+    "afroturk"
+   ]
+  },
+  {
+   "name": "NTV",
+   "tvg_id": "NTV.tr",
+   "logo_key": "ntv",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Number 1 Ask",
+   "tvg_id": "Number1Ask.tr",
+   "logo_key": "number1ask",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Number 1 Damar",
+   "tvg_id": "Number1Damar.tr",
+   "logo_key": "number1damar",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Number 1 Dance",
+   "tvg_id": "Number1Dance.tr",
+   "logo_key": "number1dance",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Number 1 Turk",
+   "tvg_id": "Number1Turk.tr",
+   "logo_key": "number1turk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Number 1 TV",
+   "tvg_id": "Number1TV.tr",
+   "logo_key": "number1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "NUMBER ONE TV",
+   "tvg_id": "",
+   "logo_key": "numberone",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "NUMBER ONE TÜRK",
+   "tvg_id": "",
+   "logo_key": "numberoneturk",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Nur TV",
+   "tvg_id": "NurTV.tr",
+   "logo_key": "nur",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "NUR TV",
+   "tvg_id": "",
+   "logo_key": "nur",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "OGÜN TV",
+   "tvg_id": "",
+   "logo_key": "ogun",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "OKKU TV",
+   "tvg_id": "",
+   "logo_key": "okku",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Olay Türk",
+   "tvg_id": "",
+   "logo_key": "olayturk",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "On 6",
+   "tvg_id": "On6.tr",
+   "logo_key": "on6",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "On Medya TV",
+   "tvg_id": "OnMedyaTV.tr",
+   "logo_key": "onmedya",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "On4 TV",
+   "tvg_id": "On4TV.tr",
+   "logo_key": "on4",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Oncu TV",
+   "tvg_id": "OncuTV.tr",
+   "logo_key": "oncu",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Ordu BB TV",
+   "tvg_id": "",
+   "logo_key": "ordubb",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ORT TV",
+   "tvg_id": "",
+   "logo_key": "ort",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "PALA TV",
+   "tvg_id": "",
+   "logo_key": "pala",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Pamukkale TV",
+   "tvg_id": "PamukkaleTV.tr",
+   "logo_key": "pamukkale",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pati TV",
+   "tvg_id": "PatiTV.tr",
+   "logo_key": "pati",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "PAZARCIK TV",
+   "tvg_id": "",
+   "logo_key": "pazarcik",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Power Dance",
+   "tvg_id": "PowerDance.tr",
+   "logo_key": "powerdance",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Power Love",
+   "tvg_id": "PowerLove.tr",
+   "logo_key": "powerlove",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Power Plus",
+   "tvg_id": "PowerPlus.tr",
+   "logo_key": "powerplus",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Power TV",
+   "tvg_id": "PowerTV.tr",
+   "logo_key": "power",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "PowerTurk Akustik",
+   "tvg_id": "PowerTurkAkustik.tr",
+   "logo_key": "powerturkakustik",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "PowerTurk En Iyiler",
+   "tvg_id": "PowerTurkEnIyiler.tr",
+   "logo_key": "powerturkeniyiler",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "PowerTurk Slow",
+   "tvg_id": "PowerTurkSlow.tr",
+   "logo_key": "powerturkslow",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "PowerTurk Taptaze",
+   "tvg_id": "PowerTurkTaptaze.tr",
+   "logo_key": "powerturktaptaze",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "PowerTurk TV",
+   "tvg_id": "PowerTurkTV.tr",
+   "logo_key": "powerturk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Qaf TV",
+   "tvg_id": "QafTV.tr",
+   "logo_key": "qaf",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "REAL TV",
+   "tvg_id": "",
+   "logo_key": "real",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Rehber TV",
+   "tvg_id": "RehberTV.tr",
+   "logo_key": "rehber",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RIZE TÜRK",
+   "tvg_id": "",
+   "logo_key": "rizeturk",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Rumeli TV",
+   "tvg_id": "RumeliTV.tr",
+   "logo_key": "rumeli",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "S Sport",
+   "tvg_id": "SSport.tr",
+   "logo_key": "ssport",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "S Sport 2",
+   "tvg_id": "SSport2.tr",
+   "logo_key": "ssport2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "SAHAR TV AZERI",
+   "tvg_id": "",
+   "logo_key": "sahartvazeri",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Salam TV",
+   "tvg_id": "SalamTV.tr",
+   "logo_key": "salam",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sariyer TV",
+   "tvg_id": "SariyerTV.tr",
+   "logo_key": "sariyer",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "SAT 7 TÜRK",
+   "tvg_id": "",
+   "logo_key": "sat7turk",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "SAĞLIKLI GÜNLER TV",
+   "tvg_id": "",
+   "logo_key": "saglikligunler",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "SDM TV",
+   "tvg_id": "",
+   "logo_key": "sdm",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "SEDA TV",
+   "tvg_id": "",
+   "logo_key": "seda",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "SEHIYYE TV",
+   "tvg_id": "",
+   "logo_key": "sehiyye",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Semerkand TV",
+   "tvg_id": "SemerkandTV.tr",
+   "logo_key": "semerkand",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "SEMERKAND WAY",
+   "tvg_id": "",
+   "logo_key": "semerkandway",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Sercem TV",
+   "tvg_id": "SercemTV.tr",
+   "logo_key": "sercem",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "SES TV",
+   "tvg_id": "",
+   "logo_key": "ses",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Show Max",
+   "tvg_id": "ShowMax.tr",
+   "logo_key": "showmax",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Show Turk",
+   "tvg_id": "ShowTurk.tr",
+   "logo_key": "showturk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Show TV",
+   "tvg_id": "ShowTV.tr",
+   "logo_key": "show",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "SIHIRLI ANNEM",
+   "tvg_id": "",
+   "logo_key": "sihirliannem",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "SILA TV",
+   "tvg_id": "",
+   "logo_key": "sila",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Sinema 1001",
+   "tvg_id": "Sinema1001.tr",
+   "logo_key": "sinema1001",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sinema 1002",
+   "tvg_id": "Sinema1002.tr",
+   "logo_key": "sinema1002",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sinema 2",
+   "tvg_id": "Sinema2.tr",
+   "logo_key": "sinema2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sinema Aile",
+   "tvg_id": "SinemaAile.tr",
+   "logo_key": "sinemaaile",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sinema Aile 2",
+   "tvg_id": "SinemaAile2.tr",
+   "logo_key": "sinemaaile2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sinema Aksiyon",
+   "tvg_id": "SinemaAksiyon.tr",
+   "logo_key": "sinemaaksiyon",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sinema Aksiyon 2",
+   "tvg_id": "SinemaAksiyon2.tr",
+   "logo_key": "sinemaaksiyon2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sinema Komedi",
+   "tvg_id": "SinemaKomedi.tr",
+   "logo_key": "sinemakomedi",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sinema Komedi 2",
+   "tvg_id": "SinemaKomedi2.tr",
+   "logo_key": "sinemakomedi2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sinema TV",
+   "tvg_id": "SinemaTV.tr",
+   "logo_key": "sinema",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "SINEMA TV 1",
+   "tvg_id": "",
+   "logo_key": "sinematv1",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "SINEMA TV 2",
+   "tvg_id": "",
+   "logo_key": "sinematv2",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Sinema Yerli",
+   "tvg_id": "SinemaYerli.tr",
+   "logo_key": "sinemayerli",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sinema Yerli 2",
+   "tvg_id": "SinemaYerli2.tr",
+   "logo_key": "sinemayerli2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sinop Yildiz TV",
+   "tvg_id": "SinopYildizTV.tr",
+   "logo_key": "sinopyildiz",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "SIYAH BEYAZ AŞK",
+   "tvg_id": "",
+   "logo_key": "siyahbeyazask",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "SKY HABER TV",
+   "tvg_id": "",
+   "logo_key": "skyhaber",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "SLOW KARADENIZ TV",
+   "tvg_id": "",
+   "logo_key": "slowkaradeniz",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "SOLAKLI TV",
+   "tvg_id": "",
+   "logo_key": "solakli",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Sozcu TV",
+   "tvg_id": "SozcuTV.tr",
+   "logo_key": "sozcu",
+   "logo": true,
+   "aliases": [
+    "szc"
+   ]
+  },
+  {
+   "name": "SPACE TV",
+   "tvg_id": "",
+   "logo_key": "space",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Spacetoon Turkey",
+   "tvg_id": "SpacetoonTurkey.tr",
+   "logo_key": "spacetoonturkey",
+   "logo": false,
+   "aliases": [
+    "spacetoonturkiye",
+    "stoon",
+    "spacetoon"
+   ]
+  },
+  {
+   "name": "Spor Smart",
+   "tvg_id": "SporSmart.tr",
+   "logo_key": "sporsmart",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Spor Smart 2",
+   "tvg_id": "SporSmart2.tr",
+   "logo_key": "sporsmart2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "SPORT SMART",
+   "tvg_id": "",
+   "logo_key": "sportsmart",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Sports TV",
+   "tvg_id": "SportsTV.tr",
+   "logo_key": "sports",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Star TV",
+   "tvg_id": "StarTV.tr",
+   "logo_key": "star",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "START TV",
+   "tvg_id": "",
+   "logo_key": "start",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "SUDURAĞI TV",
+   "tvg_id": "",
+   "logo_key": "suduragi",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Sun RTV",
+   "tvg_id": "SunRTV.tr",
+   "logo_key": "sunr",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "SUPERTURK MAX",
+   "tvg_id": "",
+   "logo_key": "superturkmax",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "SUPERTURK TV",
+   "tvg_id": "",
+   "logo_key": "superturk",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "SÜPER 7 TV",
+   "tvg_id": "",
+   "logo_key": "super7",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "SÜPER KANAL",
+   "tvg_id": "",
+   "logo_key": "superkanal",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Tabii Spor 6",
+   "tvg_id": "TabiiSpor6.tr",
+   "logo_key": "tabiispor6",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Tarih TV",
+   "tvg_id": "TarihTV.tr",
+   "logo_key": "tarih",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Tarim TV",
+   "tvg_id": "TarimTV.tr",
+   "logo_key": "tarim",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TATLI İNTIKAM",
+   "tvg_id": "",
+   "logo_key": "tatliintikam",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Tatlises TV",
+   "tvg_id": "TatlisesTV.tr",
+   "logo_key": "tatlises",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TAY TV",
+   "tvg_id": "TAYTV.tr",
+   "logo_key": "tay",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TAŞ TV",
+   "tvg_id": "",
+   "logo_key": "tas",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TBMM TV",
+   "tvg_id": "TBMMTV.tr",
+   "logo_key": "tbmm",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Tek Rumeli TV",
+   "tvg_id": "TekRumeliTV.tr",
+   "logo_key": "tekrumeli",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Tele 1",
+   "tvg_id": "Tele1.tr",
+   "logo_key": "tele1",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TELEON",
+   "tvg_id": "",
+   "logo_key": "teleon",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Tempo TV",
+   "tvg_id": "TempoTV.tr",
+   "logo_key": "tempo",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TGRT",
+   "tvg_id": "TGRT.tr",
+   "logo_key": "tgrt",
+   "logo": true,
+   "aliases": [
+    "turkiyegazeteradyotelevizyon"
+   ]
+  },
+  {
+   "name": "TGRT Belgesel",
+   "tvg_id": "TGRTBelgesel.tr",
+   "logo_key": "tgrtbelgesel",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TGRT Europe",
+   "tvg_id": "TGRTEurope.tr",
+   "logo_key": "tgrteurope",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TGRT Haber",
+   "tvg_id": "TGRTHaber.tr",
+   "logo_key": "tgrthaber",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Thaqalayn TV",
+   "tvg_id": "ThaqalaynTV.tr",
+   "logo_key": "thaqalayn",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Tivi 6",
+   "tvg_id": "Tivi6.tr",
+   "logo_key": "tivi6",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Tivibu Spor",
+   "tvg_id": "TivibuSpor.tr",
+   "logo_key": "tivibuspor",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Tivibu Spor 2",
+   "tvg_id": "TivibuSpor2.tr",
+   "logo_key": "tivibuspor2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Tivibu Spor 3",
+   "tvg_id": "TivibuSpor3.tr",
+   "logo_key": "tivibuspor3",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Tivibu Spor 4",
+   "tvg_id": "TivibuSpor4.tr",
+   "logo_key": "tivibuspor4",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TJK TV",
+   "tvg_id": "TJKTV.tr",
+   "logo_key": "tjk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TJK TV 2",
+   "tvg_id": "TJKTV2.tr",
+   "logo_key": "tjktv2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TLC",
+   "tvg_id": "TLC.tr",
+   "logo_key": "tlc",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TMB",
+   "tvg_id": "TMB.tr",
+   "logo_key": "tmb",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TMB AZERBAYCAN",
+   "tvg_id": "",
+   "logo_key": "tmbazerbaycan",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TOKAT WEB TV",
+   "tvg_id": "",
+   "logo_key": "tokatweb",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Ton TV",
+   "tvg_id": "TonTV.tr",
+   "logo_key": "ton",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TON TV ÇANAKKALE",
+   "tvg_id": "",
+   "logo_key": "tontvcanakkale",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TOPPOP TV",
+   "tvg_id": "",
+   "logo_key": "toppop",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Toprak TV",
+   "tvg_id": "ToprakTV.tr",
+   "logo_key": "toprak",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TORBA TV",
+   "tvg_id": "",
+   "logo_key": "torba",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TR 35",
+   "tvg_id": "TR35.tr",
+   "logo_key": "tr35",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TR SES TV",
+   "tvg_id": "",
+   "logo_key": "trses",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Trabzon Buyuksehir Belediyesi TV",
+   "tvg_id": "TrabzonBuyuksehirBelediyesiTV.tr",
+   "logo_key": "trabzonbuyuksehirbelediyesi",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Trakya Turk",
+   "tvg_id": "TrakyaTurk.tr",
+   "logo_key": "trakyaturk",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TRT 1",
+   "tvg_id": "TRT1.tr",
+   "logo_key": "trt1",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TRT 2",
+   "tvg_id": "TRT2.tr",
+   "logo_key": "trt2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TRT 3",
+   "tvg_id": "TRT3.tr",
+   "logo_key": "trt3",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TRT 3 SPOR",
+   "tvg_id": "",
+   "logo_key": "trt3spor",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TRT 4K",
+   "tvg_id": "TRT4K.tr",
+   "logo_key": "trt",
+   "logo": false,
+   "aliases": [
+    "trt4k"
+   ]
+  },
+  {
+   "name": "TRT Arabi",
+   "tvg_id": "TRTArabi.tr",
+   "logo_key": "trtarabi",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TRT Avaz",
+   "tvg_id": "TRTAvaz.tr",
+   "logo_key": "trtavaz",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TRT Belgesel",
+   "tvg_id": "TRTBelgesel.tr",
+   "logo_key": "trtbelgesel",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TRT Cocuk",
+   "tvg_id": "TRTCocuk.tr",
+   "logo_key": "trtcocuk",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TRT Cocuk +8",
+   "tvg_id": "TRTCocukPlus8.tr",
+   "logo_key": "trtcocuk+8",
+   "logo": false,
+   "aliases": [
+    "trtcocukplus8"
+   ]
+  },
+  {
+   "name": "TRT Diyanet Cocuk",
+   "tvg_id": "TRTDiyanetCocuk.tr",
+   "logo_key": "trtdiyanetcocuk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TRT EBA",
+   "tvg_id": "TRTEBA.tr",
+   "logo_key": "trteba",
+   "logo": false,
+   "aliases": [
+    "trtebatvortaokul",
+    "trtokul"
+   ]
+  },
+  {
+   "name": "TRT Genc",
+   "tvg_id": "TRTGenc.tr",
+   "logo_key": "trtgenc",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TRT Haber",
+   "tvg_id": "TRTHaber.tr",
+   "logo_key": "trthaber",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TRT Kurdi",
+   "tvg_id": "TRTKurdi.tr",
+   "logo_key": "trtkurdi",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TRT Muzik",
+   "tvg_id": "TRTMuzik.tr",
+   "logo_key": "trtmuzik",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TRT Spor",
+   "tvg_id": "TRTSpor.tr",
+   "logo_key": "trtspor",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TRT Spor Yildiz",
+   "tvg_id": "TRTSporYildiz.tr",
+   "logo_key": "trtsporyildiz",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TRT Turk",
+   "tvg_id": "TRTTurk.tr",
+   "logo_key": "trtturk",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TRT Turk +8",
+   "tvg_id": "TRTTurkPlus8.tr",
+   "logo_key": "trtturk+8",
+   "logo": true,
+   "aliases": [
+    "trtturkplus8"
+   ]
+  },
+  {
+   "name": "TRT World",
+   "tvg_id": "TRTWorld.tr",
+   "logo_key": "trtworld",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TURHAL SÜPER TV",
+   "tvg_id": "",
+   "logo_key": "turhalsuper",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TurkHaber TV",
+   "tvg_id": "TurkHaberTV.tr",
+   "logo_key": "turkhaber",
+   "logo": true,
+   "aliases": [
+    "thturkhaber"
+   ]
+  },
+  {
+   "name": "Turksat Saat",
+   "tvg_id": "TurksatSaat.tr",
+   "logo_key": "turksatsaat",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Turksat Tanitim",
+   "tvg_id": "TurksatTanitim.tr",
+   "logo_key": "turksattanitim",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TURSAB TV",
+   "tvg_id": "",
+   "logo_key": "tursab",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TV 1",
+   "tvg_id": "TV1.tr",
+   "logo_key": "tv1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV 100",
+   "tvg_id": "TV100.tr",
+   "logo_key": "tv100",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TV 2020",
+   "tvg_id": "",
+   "logo_key": "tv2020",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TV 25",
+   "tvg_id": "",
+   "logo_key": "tv25",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TV 264",
+   "tvg_id": "TV264.tr",
+   "logo_key": "tv264",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV 35",
+   "tvg_id": "TV35.tr",
+   "logo_key": "tv35",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV 38",
+   "tvg_id": "TV38.tr",
+   "logo_key": "tv38",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV 4",
+   "tvg_id": "TV4.tr",
+   "logo_key": "tv4",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TV 41",
+   "tvg_id": "TV41.tr",
+   "logo_key": "tv41",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV 42",
+   "tvg_id": "TV42.tr",
+   "logo_key": "tv42",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV 5",
+   "tvg_id": "TV5.tr",
+   "logo_key": "tv5",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV 52",
+   "tvg_id": "TV52.tr",
+   "logo_key": "tv52",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV 8.5",
+   "tvg_id": "TV85.tr",
+   "logo_key": "tv85",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV 90",
+   "tvg_id": "",
+   "logo_key": "tv90",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TV Den",
+   "tvg_id": "TVDen.tr",
+   "logo_key": "tvden",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Kayseri",
+   "tvg_id": "TVKayseri.tr",
+   "logo_key": "tvkayseri",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV SEN 1 ORDUSUN",
+   "tvg_id": "",
+   "logo_key": "tvsen1ordusun",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "tv2",
+   "tvg_id": "tv2.tr",
+   "logo_key": "tv2",
+   "logo": true,
+   "aliases": [
+    "teve2"
+   ]
+  },
+  {
+   "name": "TV8",
+   "tvg_id": "TV8.tr",
+   "logo_key": "tv8",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV8int",
+   "tvg_id": "TV8int.tr",
+   "logo_key": "tv8int",
+   "logo": false,
+   "aliases": [
+    "tv8international"
+   ]
+  },
+  {
+   "name": "TVA",
+   "tvg_id": "TVA.tr",
+   "logo_key": "tva",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TVNET",
+   "tvg_id": "TVNET.tr",
+   "logo_key": "tvnet",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TVO",
+   "tvg_id": "TVO.tr",
+   "logo_key": "tvo",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TYT Turk",
+   "tvg_id": "TYTTurk.tr",
+   "logo_key": "tytturk",
+   "logo": false,
+   "aliases": [
+    "tyt"
+   ]
+  },
+  {
+   "name": "TÜRKIYE KLINIKLERI",
+   "tvg_id": "",
+   "logo_key": "turkiyeklinikleri",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TÜRKMENELI TV",
+   "tvg_id": "",
+   "logo_key": "turkmeneli",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "UcanKus TV",
+   "tvg_id": "UcanKusTV.tr",
+   "logo_key": "ucankus",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Ulke TV",
+   "tvg_id": "UlkeTV.tr",
+   "logo_key": "ulke",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Ulusal Kanal",
+   "tvg_id": "UlusalKanal.tr",
+   "logo_key": "ulusalkanal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ULUSLARARASI TV",
+   "tvg_id": "",
+   "logo_key": "uluslararasi",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "UNI TV",
+   "tvg_id": "",
+   "logo_key": "uni",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Universal TV",
+   "tvg_id": "UniversalTV.tr",
+   "logo_key": "universal",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Universite TV",
+   "tvg_id": "UniversiteTV.tr",
+   "logo_key": "universite",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "URFA HABER TV",
+   "tvg_id": "",
+   "logo_key": "urfahaber",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Urfa Natik TV",
+   "tvg_id": "UrfaNatikTV.tr",
+   "logo_key": "urfanatik",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Uskudar Universitesi Televizyonu 1",
+   "tvg_id": "UskudarUniversitesiTelevizyonu1.tr",
+   "logo_key": "uskudaruniversitesitelevizyonu1",
+   "logo": true,
+   "aliases": [
+    "uutv1"
+   ]
+  },
+  {
+   "name": "USKÜDAR UNIVERSITESI TV 1",
+   "tvg_id": "",
+   "logo_key": "uskudaruniversitesitv1",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "USKÜDAR UNIVERSITESI TV 2",
+   "tvg_id": "",
+   "logo_key": "uskudaruniversitesitv2",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "UU TV 1",
+   "tvg_id": "UUTV1.tr",
+   "logo_key": "uutv1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "UU TV 2",
+   "tvg_id": "UUTV2.tr",
+   "logo_key": "uutv2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Uzay Haber",
+   "tvg_id": "UzayHaber.tr",
+   "logo_key": "uzayhaber",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "V TV",
+   "tvg_id": "VTV.tr",
+   "logo_key": "vtv",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "VAAZ TV",
+   "tvg_id": "",
+   "logo_key": "vaaz",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Van 65 TV",
+   "tvg_id": "Van65TV.tr",
+   "logo_key": "van65",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "VAN TV",
+   "tvg_id": "",
+   "logo_key": "van",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "VANGÖLÜ TV",
+   "tvg_id": "",
+   "logo_key": "vangolu",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Vatan TV",
+   "tvg_id": "VatanTV.tr",
+   "logo_key": "vatan",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Vav TV",
+   "tvg_id": "VavTV.tr",
+   "logo_key": "vav",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Viasat Explore",
+   "tvg_id": "ViasatExplore.tr",
+   "logo_key": "viasatexplore",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Viasat History",
+   "tvg_id": "ViasatHistory.tr",
+   "logo_key": "viasathistory",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "VILAYET TV",
+   "tvg_id": "",
+   "logo_key": "vilayet",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "VIP HD",
+   "tvg_id": "",
+   "logo_key": "vip",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Viyana TV",
+   "tvg_id": "",
+   "logo_key": "viyana",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Vizyon 58 TV",
+   "tvg_id": "Vizyon58TV.tr",
+   "logo_key": "vizyon58",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "VRT TV",
+   "tvg_id": "",
+   "logo_key": "vrt",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "VTV TÜRK",
+   "tvg_id": "",
+   "logo_key": "vtvturk",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Vuslat TV",
+   "tvg_id": "VuslatTV.tr",
+   "logo_key": "vuslat",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "WOMAN LIFE TV",
+   "tvg_id": "",
+   "logo_key": "womanlife",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Woman TV",
+   "tvg_id": "WomanTV.tr",
+   "logo_key": "woman",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "WORLD PLUS TV",
+   "tvg_id": "",
+   "logo_key": "worldplus",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "World Turk TV",
+   "tvg_id": "WorldTurkTV.tr",
+   "logo_key": "worldturk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Yaban TV",
+   "tvg_id": "YabanTV.tr",
+   "logo_key": "yaban",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "YANSIMA MÜZIK TV",
+   "tvg_id": "",
+   "logo_key": "yansimamuzik",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "YANSIMA SINEMA TV",
+   "tvg_id": "",
+   "logo_key": "yansimasinema",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "YAĞMURLU TV",
+   "tvg_id": "",
+   "logo_key": "yagmurlu",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "YENI GELIN",
+   "tvg_id": "",
+   "logo_key": "yenigelin",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "YEŞIL KARADENIZ TV",
+   "tvg_id": "",
+   "logo_key": "yesilkaradeniz",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Yildiz TV En",
+   "tvg_id": "YildizTVEn.tr",
+   "logo_key": "yildiztven",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "YOZGAT BELEDIYESI TV",
+   "tvg_id": "",
+   "logo_key": "yozgatbelediyesi",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "YUSUFELI BELEDIYESI TV",
+   "tvg_id": "",
+   "logo_key": "yusufelibelediyesi",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ZALIM İSTANBUL",
+   "tvg_id": "",
+   "logo_key": "zalimistanbul",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Zarok TV",
+   "tvg_id": "ZarokTV.tr",
+   "logo_key": "zarok",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ZEMHERI",
+   "tvg_id": "",
+   "logo_key": "zemheri",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ZEYNO",
+   "tvg_id": "",
+   "logo_key": "zeyno",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ZIRAAT TÜRKIYE KUPASI TV",
+   "tvg_id": "",
+   "logo_key": "ziraatturkiyekupasi",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ÇANKIRI TV",
+   "tvg_id": "",
+   "logo_key": "cankiri",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ÇAĞRI TV",
+   "tvg_id": "",
+   "logo_key": "cagri",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Çekmeköy Web TV",
+   "tvg_id": "",
+   "logo_key": "cekmekoyweb",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ÇIZGI FILM TV",
+   "tvg_id": "",
+   "logo_key": "cizgifilm",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ÇOCUKLARA Ã–ZEL TV",
+   "tvg_id": "",
+   "logo_key": "cocuklaraazel",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ŞABAN TV",
+   "tvg_id": "",
+   "logo_key": "saban",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ŞABAN TV 2 (ARZU FILM)",
+   "tvg_id": "",
+   "logo_key": "sabantv2",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ŞABAN TV 3 (GÜLŞAH FILM)",
+   "tvg_id": "",
+   "logo_key": "sabantv3",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ŞABAN TV 4 (GÜLŞAH FILM 2)",
+   "tvg_id": "",
+   "logo_key": "sabantv4",
+   "logo": false,
+   "aliases": []
+  }
+ ]
+}

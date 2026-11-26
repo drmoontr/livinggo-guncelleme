@@ -1,0 +1,2489 @@
+{
+ "country": "Netherlands",
+ "code": "nl",
+ "epg": {
+  "open_epg": [
+   "https://www.open-epg.com/files/netherlands.xml",
+   "https://www.open-epg.com/files/netherlands1.xml",
+   "https://www.open-epg.com/files/netherlands2.xml",
+   "https://www.open-epg.com/files/netherlands3.xml",
+   "https://www.open-epg.com/files/netherlands4.xml"
+  ],
+  "iptv_epg": [
+   "https://iptv-epg.org/files/epg-nl.xml"
+  ]
+ },
+ "channels": [
+  {
+   "name": "100% NL TV",
+   "tvg_id": "100NLTV.nl",
+   "logo_key": "100nl",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "192TV",
+   "tvg_id": "192TV.nl",
+   "logo_key": "192",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "1AlmereTV",
+   "tvg_id": "1AlmereTV.nl",
+   "logo_key": "1almere",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "1Twente TV",
+   "tvg_id": "1TwenteTV.nl",
+   "logo_key": "1twente",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "360TuneBox",
+   "tvg_id": "360TuneBox.nl",
+   "logo_key": "360tunebox",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "A1 TV",
+   "tvg_id": "A1TV.nl",
+   "logo_key": "a1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "AAVISIE",
+   "tvg_id": "AAVISIE.nl",
+   "logo_key": "aavisie",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Albrandswaard TV",
+   "tvg_id": "AlbrandswaardTV.nl",
+   "logo_key": "albrandswaard",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Altena TV",
+   "tvg_id": "AltenaTV.nl",
+   "logo_key": "altena",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Animal Planet",
+   "tvg_id": "AnimalPlanet.nl",
+   "logo_key": "animalplanet",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Assen TV",
+   "tvg_id": "AssenTV.nl",
+   "logo_key": "assen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "AT5",
+   "tvg_id": "AT5.nl",
+   "logo_key": "at5",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ATOS TV",
+   "tvg_id": "ATOSTV.nl",
+   "logo_key": "atos",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC NL",
+   "tvg_id": "BBCNL.nl",
+   "logo_key": "bbcnl",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "BEATTV",
+   "tvg_id": "BEATTV.nl",
+   "logo_key": "beat",
+   "logo": true,
+   "aliases": [
+    "bet"
+   ]
+  },
+  {
+   "name": "Beek TV",
+   "tvg_id": "BeekTV.nl",
+   "logo_key": "beek",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Beleef KPN",
+   "tvg_id": "BeleefKPN.nl",
+   "logo_key": "beleefkpn",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BNR Nieuwsradio",
+   "tvg_id": "BNRNieuwsradio.nl",
+   "logo_key": "bnrnieuwsradio",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BR6 TV",
+   "tvg_id": "BR6TV.nl",
+   "logo_key": "br6",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BredaNu TV",
+   "tvg_id": "BredaNuTV.nl",
+   "logo_key": "bredanu",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BTL TV",
+   "tvg_id": "BTLTV.nl",
+   "logo_key": "btl",
+   "logo": true,
+   "aliases": [
+    "bethelighttelevision"
+   ]
+  },
+  {
+   "name": "BVN",
+   "tvg_id": "BVN.nl",
+   "logo_key": "bvn",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Canal Digitaal informatiekanaal",
+   "tvg_id": "CanalDigitaalinformatiekanaal.nl",
+   "logo_key": "canaldigitaalinformatiekanaal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Canal+ Action 2",
+   "tvg_id": "CanalPlusAction2.nl",
+   "logo_key": "canal+action2",
+   "logo": false,
+   "aliases": [
+    "canalplusaction2"
+   ]
+  },
+  {
+   "name": "Canal+ Action Europe",
+   "tvg_id": "CanalPlusActionEurope.nl",
+   "logo_key": "canal+actioneurope",
+   "logo": false,
+   "aliases": [
+    "canalplusactioneurope"
+   ]
+  },
+  {
+   "name": "Castricum TV",
+   "tvg_id": "CastricumTV.nl",
+   "logo_key": "castricum",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Centraal TV",
+   "tvg_id": "CentraalTV.nl",
+   "logo_key": "centraal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Comedy Central",
+   "tvg_id": "ComedyCentral.nl",
+   "logo_key": "comedycentral",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Dance Television",
+   "tvg_id": "DanceTelevision.nl",
+   "logo_key": "dancetelevision",
+   "logo": true,
+   "aliases": [
+    "dt"
+   ]
+  },
+  {
+   "name": "De Rechtspraak",
+   "tvg_id": "DeRechtspraak.nl",
+   "logo_key": "derechtspraak",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Deep House District",
+   "tvg_id": "DeepHouseDistrict.nl",
+   "logo_key": "deephousedistrict",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Delta TV",
+   "tvg_id": "DeltaTV.nl",
+   "logo_key": "delta",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Den Haag TV",
+   "tvg_id": "DenHaagTV.nl",
+   "logo_key": "denhaag",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Discovery Channel",
+   "tvg_id": "DiscoveryChannel.nl",
+   "logo_key": "discoverychannel",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Disney Channel",
+   "tvg_id": "DisneyChannel.nl",
+   "logo_key": "disneychannel",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Dit is Helmond",
+   "tvg_id": "DitisHelmond.nl",
+   "logo_key": "ditishelmond",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "DocuBox",
+   "tvg_id": "DocuBox.nl",
+   "logo_key": "docubox",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Docustream",
+   "tvg_id": "Docustream.nl",
+   "logo_key": "docustream",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Dramastream",
+   "tvg_id": "Dramastream.nl",
+   "logo_key": "dramastream",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "DRTV",
+   "tvg_id": "DRTV.nl",
+   "logo_key": "dr",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "DTV Den Bosch",
+   "tvg_id": "DTVDenBosch.nl",
+   "logo_key": "dtvdenbosch",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "DTV Maashorst",
+   "tvg_id": "DTVMaashorst.nl",
+   "logo_key": "dtvmaashorst",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "DTV Oss & Bernheze",
+   "tvg_id": "DTVOssBernheze.nl",
+   "logo_key": "dtvossbernheze",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "E! Europe",
+   "tvg_id": "EEurope.nl",
+   "logo_key": "eeurope",
+   "logo": true,
+   "aliases": [
+    "entertainment"
+   ]
+  },
+  {
+   "name": "Eemland 1",
+   "tvg_id": "Eemland1.nl",
+   "logo_key": "eemland1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Eerste Kamer",
+   "tvg_id": "EersteKamer.nl",
+   "logo_key": "eerstekamer",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ESPN",
+   "tvg_id": "ESPN.nl",
+   "logo_key": "espn",
+   "logo": false,
+   "aliases": [
+    "espn1"
+   ]
+  },
+  {
+   "name": "ESPN 2",
+   "tvg_id": "ESPN2.nl",
+   "logo_key": "espn2",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ESPN 3",
+   "tvg_id": "ESPN3.nl",
+   "logo_key": "espn3",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ESPN 4",
+   "tvg_id": "ESPN4.nl",
+   "logo_key": "espn4",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ESPN UHD",
+   "tvg_id": "ESPNUHD.nl",
+   "logo_key": "espn",
+   "logo": false,
+   "aliases": [
+    "espnuhd"
+   ]
+  },
+  {
+   "name": "Extreme Sports Channel",
+   "tvg_id": "ExtremeSportsChannel.nl",
+   "logo_key": "extremesportschannel",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Family 7",
+   "tvg_id": "Family7.nl",
+   "logo_key": "family7",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "FashionBox",
+   "tvg_id": "FashionBox.nl",
+   "logo_key": "fashionbox",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Fashionstream",
+   "tvg_id": "Fashionstream.nl",
+   "logo_key": "fashionstream",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Fast&FunBox",
+   "tvg_id": "FastFunBox.nl",
+   "logo_key": "fastfunbox",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Faststream",
+   "tvg_id": "Faststream.nl",
+   "logo_key": "faststream",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Feel Good TV",
+   "tvg_id": "FeelGoodTV.nl",
+   "logo_key": "feelgood",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "FightBox",
+   "tvg_id": "FightBox.nl",
+   "logo_key": "fightbox",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Fightstream",
+   "tvg_id": "Fightstream.nl",
+   "logo_key": "fightstream",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Film1 Action",
+   "tvg_id": "Film1Action.nl",
+   "logo_key": "film1action",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Film1 Drama",
+   "tvg_id": "Film1Drama.nl",
+   "logo_key": "film1drama",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Film1 Family",
+   "tvg_id": "Film1Family.nl",
+   "logo_key": "film1family",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Film1 Premiere",
+   "tvg_id": "Film1Premiere.nl",
+   "logo_key": "film1premiere",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Filmstream",
+   "tvg_id": "Filmstream.nl",
+   "logo_key": "filmstream",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "FomixTV",
+   "tvg_id": "FomixTV.nl",
+   "logo_key": "fomix",
+   "logo": true,
+   "aliases": [
+    "radiofomix"
+   ]
+  },
+  {
+   "name": "FunBox UHD",
+   "tvg_id": "FunBoxUHD.nl",
+   "logo_key": "funbox",
+   "logo": true,
+   "aliases": [
+    "funboxuhd"
+   ]
+  },
+  {
+   "name": "Gametoon",
+   "tvg_id": "Gametoon.nl",
+   "logo_key": "gametoon",
+   "logo": false,
+   "aliases": [
+    "madscreenbox"
+   ]
+  },
+  {
+   "name": "Gemeente Westland TV",
+   "tvg_id": "GemeenteWestlandTV.nl",
+   "logo_key": "gemeentewestland",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GHtv Holland",
+   "tvg_id": "GHtvHolland.nl",
+   "logo_key": "ghtvholland",
+   "logo": true,
+   "aliases": [
+    "ghanatelevisionholland"
+   ]
+  },
+  {
+   "name": "Gigant FM",
+   "tvg_id": "GigantFM.nl",
+   "logo_key": "gigantfm",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GL8",
+   "tvg_id": "GL8.nl",
+   "logo_key": "gl8",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GO-RTV",
+   "tvg_id": "GORTV.nl",
+   "logo_key": "gor",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "GO-TV",
+   "tvg_id": "GOTV.nl",
+   "logo_key": "go",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Gouwestad TV",
+   "tvg_id": "GouwestadTV.nl",
+   "logo_key": "gouwestad",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Groningen1",
+   "tvg_id": "Groningen1.nl",
+   "logo_key": "groningen1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Haarlem105 TV",
+   "tvg_id": "Haarlem105TV.nl",
+   "logo_key": "haarlem105",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "HGTV",
+   "tvg_id": "HGTV.nl",
+   "logo_key": "hg",
+   "logo": true,
+   "aliases": [
+    "homegardentelevision"
+   ]
+  },
+  {
+   "name": "History",
+   "tvg_id": "History.nl",
+   "logo_key": "history",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "HK13 TV",
+   "tvg_id": "HK13TV.nl",
+   "logo_key": "hk13",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Hofstreek TV",
+   "tvg_id": "HofstreekTV.nl",
+   "logo_key": "hofstreek",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "HOi TV",
+   "tvg_id": "HOiTV.nl",
+   "logo_key": "hoi",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "HTR TV",
+   "tvg_id": "HTRTV.nl",
+   "logo_key": "htr",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Hype Visual Radio",
+   "tvg_id": "HypeVisualRadio.nl",
+   "logo_key": "hypevisualradio",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Ideaal TV",
+   "tvg_id": "IdeaalTV.nl",
+   "logo_key": "ideaal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Ijsselmond TV",
+   "tvg_id": "IjsselmondTV.nl",
+   "logo_key": "ijsselmond",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "INFAST",
+   "tvg_id": "INFAST.nl",
+   "logo_key": "infast",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "INPLUS",
+   "tvg_id": "INPLUS.nl",
+   "logo_key": "inplus",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "INTRAVEL",
+   "tvg_id": "INTRAVEL.nl",
+   "logo_key": "intravel",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "InTrouble",
+   "tvg_id": "InTrouble.nl",
+   "logo_key": "introuble",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "INULTRA",
+   "tvg_id": "INULTRA.nl",
+   "logo_key": "inultra",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Investigation Discovery",
+   "tvg_id": "InvestigationDiscovery.nl",
+   "logo_key": "investigationdiscovery",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "INWILD",
+   "tvg_id": "INWILD.nl",
+   "logo_key": "inwild",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "InWonder",
+   "tvg_id": "InWonder.nl",
+   "logo_key": "inwonder",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Jenz TV",
+   "tvg_id": "JenzTV.nl",
+   "logo_key": "jenz",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Jin TV",
+   "tvg_id": "JinTV.nl",
+   "logo_key": "jin",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "KempenTV",
+   "tvg_id": "KempenTV.nl",
+   "logo_key": "kempen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kontakt TV",
+   "tvg_id": "KontaktTV.nl",
+   "logo_key": "kontakt",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "L1 TV",
+   "tvg_id": "L1TV.nl",
+   "logo_key": "l1",
+   "logo": true,
+   "aliases": [
+    "l1imburg"
+   ]
+  },
+  {
+   "name": "Langstraat TV",
+   "tvg_id": "LangstraatTV.nl",
+   "logo_key": "langstraat",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Lansingerland TV",
+   "tvg_id": "LansingerlandTV.nl",
+   "logo_key": "lansingerland",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "LEO Middelse TV",
+   "tvg_id": "LEOMiddelseTV.nl",
+   "logo_key": "leomiddelse",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "LINQ TV",
+   "tvg_id": "LINQTV.nl",
+   "logo_key": "linq",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Loco TV",
+   "tvg_id": "LocoTV.nl",
+   "logo_key": "loco",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "LOE TV",
+   "tvg_id": "LOETV.nl",
+   "logo_key": "loe",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "LOK TV",
+   "tvg_id": "LOKTV.nl",
+   "logo_key": "lok",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Lokaal 7",
+   "tvg_id": "Lokaal7.nl",
+   "logo_key": "lokaal7",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Lokale Omroep Zeewolde",
+   "tvg_id": "LokaleOmroepZeewolde.nl",
+   "logo_key": "lokaleomroepzeewolde",
+   "logo": true,
+   "aliases": [
+    "loz"
+   ]
+  },
+  {
+   "name": "LON TV",
+   "tvg_id": "LONTV.nl",
+   "logo_key": "lon",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "LOS TV",
+   "tvg_id": "LOSTV.nl",
+   "logo_key": "los",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Magic PowerRadio",
+   "tvg_id": "MagicPowerRadio.nl",
+   "logo_key": "magicpowerradio",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MaLive",
+   "tvg_id": "MaLive.nl",
+   "logo_key": "malive",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Meer TV",
+   "tvg_id": "MeerTV.nl",
+   "logo_key": "meer",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Meppel TV",
+   "tvg_id": "MeppelTV.nl",
+   "logo_key": "meppel",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MerweTV",
+   "tvg_id": "MerweTV.nl",
+   "logo_key": "merwe",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ML5 TV",
+   "tvg_id": "ML5TV.nl",
+   "logo_key": "ml5",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MLA TV",
+   "tvg_id": "MLATV.nl",
+   "logo_key": "mla",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MTV",
+   "tvg_id": "MTV.nl",
+   "logo_key": "mtv",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "National Geographic",
+   "tvg_id": "NationalGeographic.nl",
+   "logo_key": "nationalgeographic",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "National Geographic Wild",
+   "tvg_id": "NationalGeographicWild.nl",
+   "logo_key": "nationalgeographicwild",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "NET5",
+   "tvg_id": "NET5.nl",
+   "logo_key": "net5",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "NH",
+   "tvg_id": "NH.nl",
+   "logo_key": "nh",
+   "logo": true,
+   "aliases": [
+    "nhnieuws"
+   ]
+  },
+  {
+   "name": "Nick Jr.",
+   "tvg_id": "NickJr.nl",
+   "logo_key": "nickjr",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Nick Jr. Scandinavia",
+   "tvg_id": "NickJrScandinavia.nl",
+   "logo_key": "nickjrscandinavia",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Nickelodeon",
+   "tvg_id": "Nickelodeon.nl",
+   "logo_key": "nickelodeon",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Nickelodeon Scandinavia",
+   "tvg_id": "NickelodeonScandinavia.nl",
+   "logo_key": "nickelodeonscandinavia",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Nicktoons",
+   "tvg_id": "Nicktoons.nl",
+   "logo_key": "nicktoons",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Nicktoons Scandinavia",
+   "tvg_id": "NicktoonsScandinavia.nl",
+   "logo_key": "nicktoonsscandinavia",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "NOOS TV",
+   "tvg_id": "NOOSTV.nl",
+   "logo_key": "noos",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "NPO 1",
+   "tvg_id": "NPO1.nl",
+   "logo_key": "npo1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "NPO 1 extra",
+   "tvg_id": "NPO1extra.nl",
+   "logo_key": "npo1extra",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "NPO 2",
+   "tvg_id": "NPO2.nl",
+   "logo_key": "npo2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "NPO 2 extra",
+   "tvg_id": "NPO2extra.nl",
+   "logo_key": "npo2extra",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "NPO 3",
+   "tvg_id": "NPO3.nl",
+   "logo_key": "npo3",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "NPO Politiek en Nieuws",
+   "tvg_id": "NPOPolitiekenNieuws.nl",
+   "logo_key": "npopolitiekennieuws",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Omroep Almere",
+   "tvg_id": "OmroepAlmere.nl",
+   "logo_key": "omroepalmere",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Omroep Berg en Dal",
+   "tvg_id": "OmroepBergenDal.nl",
+   "logo_key": "omroepbergendal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Omroep Best",
+   "tvg_id": "OmroepBest.nl",
+   "logo_key": "omroepbest",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Omroep Bollenstreek",
+   "tvg_id": "OmroepBollenstreek.nl",
+   "logo_key": "omroepbollenstreek",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Omroep Brabant",
+   "tvg_id": "OmroepBrabant.nl",
+   "logo_key": "omroepbrabant",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Omroep Brabant Radio",
+   "tvg_id": "OmroepBrabantRadio.nl",
+   "logo_key": "omroepbrabantradio",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Omroep Centraal TV",
+   "tvg_id": "OmroepCentraalTV.nl",
+   "logo_key": "omroepcentraal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Omroep Dommelland",
+   "tvg_id": "OmroepDommelland.nl",
+   "logo_key": "omroepdommelland",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Omroep Flevoland",
+   "tvg_id": "OmroepFlevoland.nl",
+   "logo_key": "omroepflevoland",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Omroep Gelderland",
+   "tvg_id": "OmroepGelderland.nl",
+   "logo_key": "omroepgelderland",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Omroep Hoeksche Waard",
+   "tvg_id": "OmroepHoekscheWaard.nl",
+   "logo_key": "omroephoekschewaard",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Omroep Horst aan de Maas",
+   "tvg_id": "OmroepHorstaandeMaas.nl",
+   "logo_key": "omroephorstaandemaas",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Omroep Hulst",
+   "tvg_id": "OmroepHulst.nl",
+   "logo_key": "omroephulst",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Omroep Land van Cuijk",
+   "tvg_id": "OmroepLandvanCuijk.nl",
+   "logo_key": "omroeplandvancuijk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Omroep Lingewaard",
+   "tvg_id": "OmroepLingewaard.nl",
+   "logo_key": "omroeplingewaard",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Omroep Meierijstad",
+   "tvg_id": "OmroepMeierijstad.nl",
+   "logo_key": "omroepmeierijstad",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Omroep Ons West Brabant",
+   "tvg_id": "OmroepOnsWestBrabant.nl",
+   "logo_key": "omroeponswestbrabant",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Omroep P&M",
+   "tvg_id": "OmroepPM.nl",
+   "logo_key": "omroeppm",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Omroep Peelrand",
+   "tvg_id": "OmroepPeelrand.nl",
+   "logo_key": "omroeppeelrand",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Omroep RSH",
+   "tvg_id": "OmroepRSH.nl",
+   "logo_key": "omroeprsh",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Omroep Sudwest",
+   "tvg_id": "OmroepSudwest.nl",
+   "logo_key": "omroepsudwest",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Omroep Tilburg",
+   "tvg_id": "OmroepTilburg.nl",
+   "logo_key": "omroeptilburg",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Omroep Venlo",
+   "tvg_id": "OmroepVenlo.nl",
+   "logo_key": "omroepvenlo",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Omroep Venray",
+   "tvg_id": "OmroepVenray.nl",
+   "logo_key": "omroepvenray",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Omroep West",
+   "tvg_id": "OmroepWest.nl",
+   "logo_key": "omroepwest",
+   "logo": true,
+   "aliases": [
+    "rtvwest",
+    "tvwest"
+   ]
+  },
+  {
+   "name": "Omroep Zeeland",
+   "tvg_id": "OmroepZeeland.nl",
+   "logo_key": "omroepzeeland",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Omrop Fryslan",
+   "tvg_id": "OmropFryslan.nl",
+   "logo_key": "omropfryslan",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ONS",
+   "tvg_id": "ONS.nl",
+   "logo_key": "ons",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "OOG TV",
+   "tvg_id": "OOGTV.nl",
+   "logo_key": "oog",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "OPEN Rotterdam TV",
+   "tvg_id": "OPENRotterdamTV.nl",
+   "logo_key": "openrotterdam",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ORTS TV",
+   "tvg_id": "ORTSTV.nl",
+   "logo_key": "orts",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "OUTtv",
+   "tvg_id": "OUTtv.nl",
+   "logo_key": "out",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "P&M TV",
+   "tvg_id": "PMTV.nl",
+   "logo_key": "pm",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Paramount Network",
+   "tvg_id": "ParamountNetwork.nl",
+   "logo_key": "paramountnetwork",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pebble TV",
+   "tvg_id": "PebbleTV.nl",
+   "logo_key": "pebble",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Podium.TV",
+   "tvg_id": "PodiumTV.nl",
+   "logo_key": "podium",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Podium.TV 2",
+   "tvg_id": "PodiumTV2.nl",
+   "logo_key": "podiumtv2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Podium.TV 3",
+   "tvg_id": "PodiumTV3.nl",
+   "logo_key": "podiumtv3",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Proximus TV RegInfo",
+   "tvg_id": "ProximusTVRegInfo.nl",
+   "logo_key": "proximustvreginfo",
+   "logo": true,
+   "aliases": [
+    "reginfon"
+   ]
+  },
+  {
+   "name": "Qmusic",
+   "tvg_id": "Qmusic.nl",
+   "logo_key": "qmusic",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Radio 10",
+   "tvg_id": "Radio10.nl",
+   "logo_key": "radio10",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Radio 350",
+   "tvg_id": "Radio350.nl",
+   "logo_key": "radio350",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Radio 538",
+   "tvg_id": "Radio538.nl",
+   "logo_key": "radio538",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Radio Aalsmeer TV",
+   "tvg_id": "RadioAalsmeerTV.nl",
+   "logo_key": "radioaalsmeer",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Radio Continu",
+   "tvg_id": "RadioContinu.nl",
+   "logo_key": "radiocontinu",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Radio JND",
+   "tvg_id": "RadioJND.nl",
+   "logo_key": "radiojnd",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Radio Stad den Haag",
+   "tvg_id": "RadioStaddenHaag.nl",
+   "logo_key": "radiostaddenhaag",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Radio Veronica",
+   "tvg_id": "RadioVeronica.nl",
+   "logo_key": "radioveronica",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RadioNL TV",
+   "tvg_id": "RadioNLTV.nl",
+   "logo_key": "radionl",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RadioToppers",
+   "tvg_id": "RadioToppers.nl",
+   "logo_key": "radiotoppers",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Rararadio",
+   "tvg_id": "Rararadio.nl",
+   "logo_key": "rararadio",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Regio TV De Bilt",
+   "tvg_id": "RegioTVDeBilt.nl",
+   "logo_key": "regiotvdebilt",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Regio TV Nieuws",
+   "tvg_id": "RegioTVNieuws.nl",
+   "logo_key": "regiotvnieuws",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Regio8 TV",
+   "tvg_id": "Regio8TV.nl",
+   "logo_key": "regio8",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Regio90 TV",
+   "tvg_id": "Regio90TV.nl",
+   "logo_key": "regio90",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RN7",
+   "tvg_id": "RN7.nl",
+   "logo_key": "rn7",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Ronde Venen TV",
+   "tvg_id": "RondeVenenTV.nl",
+   "logo_key": "rondevenen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ROS TV-Krant",
+   "tvg_id": "ROSTVKrant.nl",
+   "logo_key": "rostvkrant",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RPL Woerden",
+   "tvg_id": "RPLWoerden.nl",
+   "logo_key": "rplwoerden",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTL 4",
+   "tvg_id": "RTL4.nl",
+   "logo_key": "rtl4",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTL 5",
+   "tvg_id": "RTL5.nl",
+   "logo_key": "rtl5",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "RTL 7",
+   "tvg_id": "RTL7.nl",
+   "logo_key": "rtl7",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTL 8",
+   "tvg_id": "RTL8.nl",
+   "logo_key": "rtl8",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "RTL Crime",
+   "tvg_id": "RTLCrime.nl",
+   "logo_key": "rtlcrime",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "RTL Lounge",
+   "tvg_id": "RTLLounge.nl",
+   "logo_key": "rtllounge",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTL Telekids",
+   "tvg_id": "RTLTelekids.nl",
+   "logo_key": "rtltelekids",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTL Z",
+   "tvg_id": "RTLZ.nl",
+   "logo_key": "rtlz",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "RTV 1",
+   "tvg_id": "RTV1.nl",
+   "logo_key": "rtv1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV 1Amstelveen",
+   "tvg_id": "RTV1Amstelveen.nl",
+   "logo_key": "rtv1amstelveen",
+   "logo": true,
+   "aliases": [
+    "1amstelveen"
+   ]
+  },
+  {
+   "name": "RTV 527",
+   "tvg_id": "RTV527.nl",
+   "logo_key": "rtv527",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV 794",
+   "tvg_id": "RTV794.nl",
+   "logo_key": "rtv794",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV Amstelveen",
+   "tvg_id": "RTVAmstelveen.nl",
+   "logo_key": "rtvamstelveen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV Arnhem TV",
+   "tvg_id": "RTVArnhemTV.nl",
+   "logo_key": "rtvarnhem",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "RTV Connect TV",
+   "tvg_id": "RTVConnectTV.nl",
+   "logo_key": "rtvconnect",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV Dordrecht",
+   "tvg_id": "RTVDordrecht.nl",
+   "logo_key": "rtvdordrecht",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV Drenthe",
+   "tvg_id": "RTVDrenthe.nl",
+   "logo_key": "rtvdrenthe",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV Focus TV",
+   "tvg_id": "RTVFocusTV.nl",
+   "logo_key": "rtvfocus",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV GO!",
+   "tvg_id": "RTVGO.nl",
+   "logo_key": "rtvgo",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV Hattem",
+   "tvg_id": "RTVHattem.nl",
+   "logo_key": "rtvhattem",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV Horizon",
+   "tvg_id": "RTVHorizon.nl",
+   "logo_key": "rtvhorizon",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV LOVE",
+   "tvg_id": "RTVLOVE.nl",
+   "logo_key": "rtvlove",
+   "logo": true,
+   "aliases": [
+    "lokaleomroepvolendamedam"
+   ]
+  },
+  {
+   "name": "RTV Maastricht",
+   "tvg_id": "RTVMaastricht.nl",
+   "logo_key": "rtvmaastricht",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV Meppel",
+   "tvg_id": "RTVMeppel.nl",
+   "logo_key": "rtvmeppel",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV NOF Achtkarspelen & Tytsjerksteradiel",
+   "tvg_id": "RTVNOFAchtkarspelenTytsjerksteradiel.nl",
+   "logo_key": "rtvnofachtkarspelentytsjerksteradiel",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV NOF Noardeast Fryslan & Dantumadiel",
+   "tvg_id": "RTVNOFNoardeastFryslanDantumadiel.nl",
+   "logo_key": "rtvnofnoardeastfryslandantumadiel",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV Noord",
+   "tvg_id": "RTVNoord.nl",
+   "logo_key": "rtvnoord",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV Noord Extra",
+   "tvg_id": "RTVNoordExtra.nl",
+   "logo_key": "rtvnoordextra",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV Noordoost Friesland",
+   "tvg_id": "RTVNoordoostFriesland.nl",
+   "logo_key": "rtvnoordoostfriesland",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV Nunspeet",
+   "tvg_id": "RTVNunspeet.nl",
+   "logo_key": "rtvnunspeet",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV Oost",
+   "tvg_id": "RTVOost.nl",
+   "logo_key": "rtvoost",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV Parkstad",
+   "tvg_id": "RTVParkstad.nl",
+   "logo_key": "rtvparkstad",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV Purmerend",
+   "tvg_id": "RTVPurmerend.nl",
+   "logo_key": "rtvpurmerend",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV Rijnmond",
+   "tvg_id": "RTVRijnmond.nl",
+   "logo_key": "rtvrijnmond",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV Rijnmond Extra",
+   "tvg_id": "RTVRijnmondExtra.nl",
+   "logo_key": "rtvrijnmondextra",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV Rijnstreek TV",
+   "tvg_id": "RTVRijnstreekTV.nl",
+   "logo_key": "rtvrijnstreek",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV Scheldemond",
+   "tvg_id": "RTVScheldemond.nl",
+   "logo_key": "rtvscheldemond",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV Seaport",
+   "tvg_id": "RTVSeaport.nl",
+   "logo_key": "rtvseaport",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV Slingeland",
+   "tvg_id": "RTVSlingeland.nl",
+   "logo_key": "rtvslingeland",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV SLOS",
+   "tvg_id": "RTVSLOS.nl",
+   "logo_key": "rtvslos",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV Utrecht",
+   "tvg_id": "RTVUtrecht.nl",
+   "logo_key": "rtvutrecht",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV Veluwezoom TV",
+   "tvg_id": "RTVVeluwezoomTV.nl",
+   "logo_key": "rtvveluwezoom",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV Westerwolde",
+   "tvg_id": "RTVWesterwolde.nl",
+   "logo_key": "rtvwesterwolde",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV Zaanstreek",
+   "tvg_id": "RTVZaanstreek.nl",
+   "logo_key": "rtvzaanstreek",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV Zulthe",
+   "tvg_id": "RTVZulthe.nl",
+   "logo_key": "rtvzulthe",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV-7",
+   "tvg_id": "RTV7.nl",
+   "logo_key": "rtv7",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Salto 1",
+   "tvg_id": "Salto1.nl",
+   "logo_key": "salto1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Salto 2",
+   "tvg_id": "Salto2.nl",
+   "logo_key": "salto2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Salto 4",
+   "tvg_id": "Salto4.nl",
+   "logo_key": "salto4",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Salto ADE",
+   "tvg_id": "SaltoADE.nl",
+   "logo_key": "saltoade",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Salto Brasa Music",
+   "tvg_id": "SaltoBrasaMusic.nl",
+   "logo_key": "saltobrasamusic",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Samen1 TV",
+   "tvg_id": "Samen1TV.nl",
+   "logo_key": "samen1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "SBS 6",
+   "tvg_id": "SBS6.nl",
+   "logo_key": "sbs6",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "SBS 9",
+   "tvg_id": "SBS9.nl",
+   "logo_key": "sbs9",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "SBS6 Classics",
+   "tvg_id": "SBS6Classics.nl",
+   "logo_key": "sbs6classics",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Schagen TV",
+   "tvg_id": "SchagenTV.nl",
+   "logo_key": "schagen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Schie TV",
+   "tvg_id": "SchieTV.nl",
+   "logo_key": "schie",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Schlager TV",
+   "tvg_id": "SchlagerTV.nl",
+   "logo_key": "schlager",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Silence TV",
+   "tvg_id": "SilenceTV.nl",
+   "logo_key": "silence",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Siris TV",
+   "tvg_id": "SirisTV.nl",
+   "logo_key": "siris",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "SLAM! TV",
+   "tvg_id": "SLAMTV.nl",
+   "logo_key": "slam",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Sleutelstad TV",
+   "tvg_id": "SleutelstadTV.nl",
+   "logo_key": "sleutelstad",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "SLOGO TV",
+   "tvg_id": "SLOGOTV.nl",
+   "logo_key": "slogo",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "SLOS TV",
+   "tvg_id": "SLOSTV.nl",
+   "logo_key": "slos",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Slotstad TV",
+   "tvg_id": "SlotstadTV.nl",
+   "logo_key": "slotstad",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "SOL2",
+   "tvg_id": "SOL2.nl",
+   "logo_key": "sol2",
+   "logo": true,
+   "aliases": [
+    "streekomroeplimburg2"
+   ]
+  },
+  {
+   "name": "Sport Klub",
+   "tvg_id": "SportKlub.nl",
+   "logo_key": "sportklub",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sport Klub 1",
+   "tvg_id": "SportKlub1.nl",
+   "logo_key": "sportklub1",
+   "logo": true,
+   "aliases": [
+    "sk1"
+   ]
+  },
+  {
+   "name": "Sport Klub 2",
+   "tvg_id": "SportKlub2.nl",
+   "logo_key": "sportklub2",
+   "logo": true,
+   "aliases": [
+    "sk2"
+   ]
+  },
+  {
+   "name": "Sport Klub 3",
+   "tvg_id": "SportKlub3.nl",
+   "logo_key": "sportklub3",
+   "logo": true,
+   "aliases": [
+    "sk3"
+   ]
+  },
+  {
+   "name": "Sport Klub 4",
+   "tvg_id": "SportKlub4.nl",
+   "logo_key": "sportklub4",
+   "logo": true,
+   "aliases": [
+    "sk4"
+   ]
+  },
+  {
+   "name": "Sport Klub 4K",
+   "tvg_id": "SportKlub4K.nl",
+   "logo_key": "sportklub",
+   "logo": true,
+   "aliases": [
+    "sportklub4k",
+    "sk"
+   ]
+  },
+  {
+   "name": "Sport Klub 5",
+   "tvg_id": "SportKlub5.nl",
+   "logo_key": "sportklub5",
+   "logo": true,
+   "aliases": [
+    "sk5"
+   ]
+  },
+  {
+   "name": "Sport Klub 6",
+   "tvg_id": "SportKlub6.nl",
+   "logo_key": "sportklub6",
+   "logo": true,
+   "aliases": [
+    "sk6"
+   ]
+  },
+  {
+   "name": "Sport Klub Esports",
+   "tvg_id": "SportKlubEsports.nl",
+   "logo_key": "sportklubesports",
+   "logo": true,
+   "aliases": [
+    "skesports"
+   ]
+  },
+  {
+   "name": "Sport Klub Fight",
+   "tvg_id": "SportKlubFight.nl",
+   "logo_key": "sportklubfight",
+   "logo": true,
+   "aliases": [
+    "skfight"
+   ]
+  },
+  {
+   "name": "Sport Klub Golf",
+   "tvg_id": "SportKlubGolf.nl",
+   "logo_key": "sportklubgolf",
+   "logo": true,
+   "aliases": [
+    "skgolf"
+   ]
+  },
+  {
+   "name": "Sport Klub Start",
+   "tvg_id": "SportKlubStart.nl",
+   "logo_key": "sportklubstart",
+   "logo": true,
+   "aliases": [
+    "skstart"
+   ]
+  },
+  {
+   "name": "SRC TV",
+   "tvg_id": "SRCTV.nl",
+   "logo_key": "src",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "STAR Channel",
+   "tvg_id": "STARChannel.nl",
+   "logo_key": "starchannel",
+   "logo": false,
+   "aliases": [
+    "fox"
+   ]
+  },
+  {
+   "name": "Streekstad Central",
+   "tvg_id": "StreekstadCentral.nl",
+   "logo_key": "streekstadcentral",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "StreekTV",
+   "tvg_id": "StreekTV.nl",
+   "logo_key": "streek",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Studio Alphen TV",
+   "tvg_id": "StudioAlphenTV.nl",
+   "logo_key": "studioalphen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Studio Rheden",
+   "tvg_id": "StudioRheden.nl",
+   "logo_key": "studiorheden",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Studio040 TV",
+   "tvg_id": "Studio040TV.nl",
+   "logo_key": "studio040",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Tholen TV",
+   "tvg_id": "TholenTV.nl",
+   "logo_key": "tholen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TLC",
+   "tvg_id": "TLC.nl",
+   "logo_key": "tlc",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TMF",
+   "tvg_id": "TMF.nl",
+   "logo_key": "tmf",
+   "logo": true,
+   "aliases": [
+    "themusicfactory"
+   ]
+  },
+  {
+   "name": "Tommy Teleshopping",
+   "tvg_id": "TommyTeleshopping.nl",
+   "logo_key": "tommyteleshopping",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Top 40 TV",
+   "tvg_id": "Top40TV.nl",
+   "logo_key": "top40",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TV 538",
+   "tvg_id": "TV538.nl",
+   "logo_key": "tv538",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TV Berghem",
+   "tvg_id": "TVBerghem.nl",
+   "logo_key": "tvberghem",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Ellef",
+   "tvg_id": "TVEllef.nl",
+   "logo_key": "tvellef",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Krimpenerwaard",
+   "tvg_id": "TVKrimpenerwaard.nl",
+   "logo_key": "tvkrimpenerwaard",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Nunspeet",
+   "tvg_id": "TVNunspeet.nl",
+   "logo_key": "tvnunspeet",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Oranje",
+   "tvg_id": "TVOranje.nl",
+   "logo_key": "tvoranje",
+   "logo": true,
+   "aliases": [
+    "tvorange"
+   ]
+  },
+  {
+   "name": "TV Rain",
+   "tvg_id": "TVRain.nl",
+   "logo_key": "tvrain",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TV Stichtse Vecht",
+   "tvg_id": "TVStichtseVecht.nl",
+   "logo_key": "tvstichtsevecht",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Valkenburg",
+   "tvg_id": "TVValkenburg.nl",
+   "logo_key": "tvvalkenburg",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Tweede Kamer: Actualiteitenkanaal",
+   "tvg_id": "TweedeKamerActualiteitenkanaal.nl",
+   "logo_key": "tweedekameractualiteitenkanaal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Tweede Kamer: Aletta Jacobszaal",
+   "tvg_id": "TweedeKamerAlettaJacobszaal.nl",
+   "logo_key": "tweedekameralettajacobszaal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Tweede Kamer: Enquetezaal",
+   "tvg_id": "TweedeKamerEnquetezaal.nl",
+   "logo_key": "tweedekamerenquetezaal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Tweede Kamer: Groen van Prinstererzaal",
+   "tvg_id": "TweedeKamerGroenvanPrinstererzaal.nl",
+   "logo_key": "tweedekamergroenvanprinstererzaal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Tweede Kamer: Klompezaal",
+   "tvg_id": "TweedeKamerKlompezaal.nl",
+   "logo_key": "tweedekamerklompezaal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Tweede Kamer: Max van der Stoelzaal",
+   "tvg_id": "TweedeKamerMaxvanderStoelzaal.nl",
+   "logo_key": "tweedekamermaxvanderstoelzaal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Tweede Kamer: Plenaire zaal",
+   "tvg_id": "TweedeKamerPlenairezaal.nl",
+   "logo_key": "tweedekamerplenairezaal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Tweede Kamer: Suze Groenewegzaal",
+   "tvg_id": "TweedeKamerSuzeGroenewegzaal.nl",
+   "logo_key": "tweedekamersuzegroenewegzaal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Tweede Kamer: Thorbeckezaal",
+   "tvg_id": "TweedeKamerThorbeckezaal.nl",
+   "logo_key": "tweedekamerthorbeckezaal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Tweede Kamer: Tilanuskamer",
+   "tvg_id": "TweedeKamerTilanuskamer.nl",
+   "logo_key": "tweedekamertilanuskamer",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Tweede Kamer: Troelstrazaal",
+   "tvg_id": "TweedeKamerTroelstrazaal.nl",
+   "logo_key": "tweedekamertroelstrazaal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Tweede Kamer: Vondelingkamer",
+   "tvg_id": "TweedeKamerVondelingkamer.nl",
+   "logo_key": "tweedekamervondelingkamer",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Tweede Kamer: Wttewaall van Stoetwegenzaal",
+   "tvg_id": "TweedeKamerWttewaallvanStoetwegenzaal.nl",
+   "logo_key": "tweedekamerwttewaallvanstoetwegenzaal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Twente TV",
+   "tvg_id": "TwenteTV.nl",
+   "logo_key": "twente",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Tynaarlo Lokaal TV",
+   "tvg_id": "TynaarloLokaalTV.nl",
+   "logo_key": "tynaarlolokaal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "UStad",
+   "tvg_id": "UStad.nl",
+   "logo_key": "ustad",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Vechtdal TV",
+   "tvg_id": "VechtdalTV.nl",
+   "logo_key": "vechtdal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Veronica / Disney Jr.",
+   "tvg_id": "VeronicaDisneyJr.nl",
+   "logo_key": "veronicadisneyjr",
+   "logo": true,
+   "aliases": [
+    "veronica",
+    "disneyjr"
+   ]
+  },
+  {
+   "name": "Viaplay TV",
+   "tvg_id": "ViaplayTV.nl",
+   "logo_key": "viaplay",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Viaplay TV+",
+   "tvg_id": "ViaplayTVPlus.nl",
+   "logo_key": "viaplaytv+",
+   "logo": false,
+   "aliases": [
+    "viaplaytvplus"
+   ]
+  },
+  {
+   "name": "VOS TV",
+   "tvg_id": "VOSTV.nl",
+   "logo_key": "vos",
+   "logo": true,
+   "aliases": [
+    "valkenswaardseomroepstichting"
+   ]
+  },
+  {
+   "name": "WEEFF TV",
+   "tvg_id": "WEEFFTV.nl",
+   "logo_key": "weeff",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "WeertFM TV",
+   "tvg_id": "WeertFMTV.nl",
+   "logo_key": "weertfm",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "WOS",
+   "tvg_id": "WOS.nl",
+   "logo_key": "wos",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "XITE",
+   "tvg_id": "XITE.nl",
+   "logo_key": "xite",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "XITE 60s & 70s Groove",
+   "tvg_id": "XITE60s70sGroove.nl",
+   "logo_key": "xite60s70sgroove",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "XITE All Out Dance",
+   "tvg_id": "XITEAllOutDance.nl",
+   "logo_key": "xitealloutdance",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "XITE Classic Country",
+   "tvg_id": "XITEClassicCountry.nl",
+   "logo_key": "xiteclassiccountry",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "XITE Hits",
+   "tvg_id": "XITEHits.nl",
+   "logo_key": "xitehits",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "XITE Just Chill",
+   "tvg_id": "XITEJustChill.nl",
+   "logo_key": "xitejustchill",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "XITE Lekker Hollands",
+   "tvg_id": "XITELekkerHollands.nl",
+   "logo_key": "xitelekkerhollands",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "XITE Reggae Vibes",
+   "tvg_id": "XITEReggaeVibes.nl",
+   "logo_key": "xitereggaevibes",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "XITE Rock x Metal",
+   "tvg_id": "XITERockxMetal.nl",
+   "logo_key": "xiterockxmetal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "XITE Ultimate Throwback",
+   "tvg_id": "XITEUltimateThrowback.nl",
+   "logo_key": "xiteultimatethrowback",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "XITE Van Eigen Bodem",
+   "tvg_id": "XITEVanEigenBodem.nl",
+   "logo_key": "xitevaneigenbodem",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "XON",
+   "tvg_id": "XON.nl",
+   "logo_key": "xon",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ZFM Zoetermeer TV",
+   "tvg_id": "ZFMZoetermeerTV.nl",
+   "logo_key": "zfmzoetermeer",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Ziggo Sport",
+   "tvg_id": "ZiggoSport.nl",
+   "logo_key": "ziggosport",
+   "logo": false,
+   "aliases": [
+    "ziggosport1"
+   ]
+  },
+  {
+   "name": "Ziggo Sport 2",
+   "tvg_id": "ZiggoSport2.nl",
+   "logo_key": "ziggosport2",
+   "logo": false,
+   "aliases": [
+    "ziggosportvoetbal"
+   ]
+  },
+  {
+   "name": "Ziggo Sport 3",
+   "tvg_id": "ZiggoSport3.nl",
+   "logo_key": "ziggosport3",
+   "logo": false,
+   "aliases": [
+    "ziggosportracing"
+   ]
+  },
+  {
+   "name": "Ziggo Sport 4",
+   "tvg_id": "ZiggoSport4.nl",
+   "logo_key": "ziggosport4",
+   "logo": false,
+   "aliases": [
+    "ziggosporttennis"
+   ]
+  },
+  {
+   "name": "Ziggo Sport 5",
+   "tvg_id": "ZiggoSport5.nl",
+   "logo_key": "ziggosport5",
+   "logo": false,
+   "aliases": [
+    "ziggosportdocu"
+   ]
+  },
+  {
+   "name": "Ziggo Sport 6",
+   "tvg_id": "ZiggoSport6.nl",
+   "logo_key": "ziggosport6",
+   "logo": false,
+   "aliases": [
+    "ziggosportgolf"
+   ]
+  },
+  {
+   "name": "Ziggo Sport Extra",
+   "tvg_id": "ZiggoSportExtra.nl",
+   "logo_key": "ziggosportextra",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ZO!34",
+   "tvg_id": "ZO34.nl",
+   "logo_key": "zo34",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ZuidWest TV",
+   "tvg_id": "ZuidWestTV.nl",
+   "logo_key": "zuidwest",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ZVT-AVS",
+   "tvg_id": "ZVTAVS.nl",
+   "logo_key": "zvtavs",
+   "logo": true,
+   "aliases": []
+  }
+ ]
+}

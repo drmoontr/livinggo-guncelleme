@@ -1,0 +1,4176 @@
+{
+ "country": "France",
+ "code": "fr",
+ "epg": {
+  "open_epg": [
+   "https://www.open-epg.com/files/france.xml",
+   "https://www.open-epg.com/files/france1.xml",
+   "https://www.open-epg.com/files/france2.xml",
+   "https://www.open-epg.com/files/france3.xml",
+   "https://www.open-epg.com/files/france4.xml",
+   "https://www.open-epg.com/files/france5.xml",
+   "https://www.open-epg.com/files/france6.xml"
+  ],
+  "iptv_epg": [
+   "https://iptv-epg.org/files/epg-fr.xml"
+  ]
+ },
+ "channels": [
+  {
+   "name": "13eme Rue",
+   "tvg_id": "13emeRue.fr",
+   "logo_key": "13emerue",
+   "logo": true,
+   "aliases": [
+    "13thstreetfrance"
+   ]
+  },
+  {
+   "name": "20 Minutes TV",
+   "tvg_id": "20MinutesTV.fr",
+   "logo_key": "20minutes",
+   "logo": true,
+   "aliases": [
+    "20"
+   ]
+  },
+  {
+   "name": "4 Afghanistan",
+   "tvg_id": "4Afghanistan.fr",
+   "logo_key": "4afghanistan",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "4 Music",
+   "tvg_id": "4Music.fr",
+   "logo_key": "4music",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "4 Sports",
+   "tvg_id": "4Sports.fr",
+   "logo_key": "4sports",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "4 Turk",
+   "tvg_id": "4Turk.fr",
+   "logo_key": "4turk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "4Kurd",
+   "tvg_id": "4Kurd.fr",
+   "logo_key": "4kurd",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "6ter",
+   "tvg_id": "6ter.fr",
+   "logo_key": "6ter",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "7ALimoges",
+   "tvg_id": "7ALimoges.fr",
+   "logo_key": "7alimoges",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "A la une",
+   "tvg_id": "Alaune.fr",
+   "logo_key": "alaune",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "A+",
+   "tvg_id": "APlus.fr",
+   "logo_key": "a+",
+   "logo": true,
+   "aliases": [
+    "aplus"
+   ]
+  },
+  {
+   "name": "A+ International",
+   "tvg_id": "APlusInternational.fr",
+   "logo_key": "a+international",
+   "logo": true,
+   "aliases": [
+    "aplusinternational"
+   ]
+  },
+  {
+   "name": "AB1",
+   "tvg_id": "AB1.fr",
+   "logo_key": "ab1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Action",
+   "tvg_id": "Action.fr",
+   "logo_key": "action",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ADN TV+",
+   "tvg_id": "ADNTVPlus.fr",
+   "logo_key": "adntv+",
+   "logo": true,
+   "aliases": [
+    "adntvplus"
+   ]
+  },
+  {
+   "name": "Adult Swim",
+   "tvg_id": "AdultSwim.fr",
+   "logo_key": "adultswim",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "AFP TV",
+   "tvg_id": "AFPTV.fr",
+   "logo_key": "afp",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Africa 24",
+   "tvg_id": "Africa24.fr",
+   "logo_key": "africa24",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Africa 24 English",
+   "tvg_id": "Africa24English.fr",
+   "logo_key": "africa24english",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Africa 24 Sport",
+   "tvg_id": "Africa24Sport.fr",
+   "logo_key": "africa24sport",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Africa Sports TV",
+   "tvg_id": "AfricaSportsTV.fr",
+   "logo_key": "africasports",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Africanews English",
+   "tvg_id": "AfricanewsEnglish.fr",
+   "logo_key": "africanewsenglish",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Africanews French",
+   "tvg_id": "AfricanewsFrench.fr",
+   "logo_key": "africanewsfrench",
+   "logo": true,
+   "aliases": [
+    "africanewsenfrancais"
+   ]
+  },
+  {
+   "name": "Afro Novelas",
+   "tvg_id": "AfroNovelas.fr",
+   "logo_key": "afronovelas",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Air Connect TV",
+   "tvg_id": "AirConnectTV.fr",
+   "logo_key": "airconnect",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Al Rawda",
+   "tvg_id": "AlRawda.fr",
+   "logo_key": "alrawda",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Al-Faydatou Tidjania TV",
+   "tvg_id": "AlFaydatouTidjaniaTV.fr",
+   "logo_key": "alfaydatoutidjania",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Alpe d'Huez TV",
+   "tvg_id": "AlpedHuezTV.fr",
+   "logo_key": "alpedhuez",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Alsace 20",
+   "tvg_id": "Alsace20.fr",
+   "logo_key": "alsace20",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Amuse Animation",
+   "tvg_id": "AmuseAnimation.fr",
+   "logo_key": "amuseanimation",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Angers Tele",
+   "tvg_id": "AngersTele.fr",
+   "logo_key": "angerstele",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Animaux",
+   "tvg_id": "Animaux.fr",
+   "logo_key": "animaux",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Antenne Reunion",
+   "tvg_id": "AntenneReunion.fr",
+   "logo_key": "antennereunion",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "AraBel",
+   "tvg_id": "AraBel.fr",
+   "logo_key": "arabel",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "arte",
+   "tvg_id": "arte.fr",
+   "logo_key": "arte",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Assemblee Nationale",
+   "tvg_id": "AssembleeNationale.fr",
+   "logo_key": "assembleenationale",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Astrocenter TV",
+   "tvg_id": "AstrocenterTV.fr",
+   "logo_key": "astrocenter",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ASTV",
+   "tvg_id": "ASTV.fr",
+   "logo_key": "as",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Atelier des chefs",
+   "tvg_id": "Atelierdeschefs.fr",
+   "logo_key": "atelierdeschefs",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Automoto la chaine",
+   "tvg_id": "Automotolachaine.fr",
+   "logo_key": "automotolachaine",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "B Smart TV",
+   "tvg_id": "BSmartTV.fr",
+   "logo_key": "bsmart",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BAZIK TV",
+   "tvg_id": "BAZIKTV.fr",
+   "logo_key": "bazik",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BAZIK TV Hot",
+   "tvg_id": "BAZIKTVHot.fr",
+   "logo_key": "baziktvhot",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BAZIK TV Rumba",
+   "tvg_id": "BAZIKTVRumba.fr",
+   "logo_key": "baziktvrumba",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Bblack! Africa",
+   "tvg_id": "BblackAfrica.fr",
+   "logo_key": "bblackafrica",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Bblack! Caribbean",
+   "tvg_id": "BblackCaribbean.fr",
+   "logo_key": "bblackcaribbean",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Bblack! Classik",
+   "tvg_id": "BblackClassik.fr",
+   "logo_key": "bblackclassik",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Beffroi Vision",
+   "tvg_id": "BeffroiVision.fr",
+   "logo_key": "beffroivision",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Berbere Jeunesse",
+   "tvg_id": "BerbereJeunesse.fr",
+   "logo_key": "berberejeunesse",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Berbere Music",
+   "tvg_id": "BerbereMusic.fr",
+   "logo_key": "berberemusic",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Berbere TV",
+   "tvg_id": "BerbereTV.fr",
+   "logo_key": "berbere",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Beur TV",
+   "tvg_id": "BeurTV.fr",
+   "logo_key": "beur",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BFM Alsace",
+   "tvg_id": "BFMAlsace.fr",
+   "logo_key": "bfmalsace",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BFM Business",
+   "tvg_id": "BFMBusiness.fr",
+   "logo_key": "bfmbusiness",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BFM Cote d'Azur",
+   "tvg_id": "BFMCotedAzur.fr",
+   "logo_key": "bfmcotedazur",
+   "logo": true,
+   "aliases": [
+    "bfmnicecotedazur"
+   ]
+  },
+  {
+   "name": "BFM DICI Alpes du Sud",
+   "tvg_id": "BFMDICIAlpesduSud.fr",
+   "logo_key": "bfmdicialpesdusud",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BFM DICI Haute-Provence",
+   "tvg_id": "BFMDICIHauteProvence.fr",
+   "logo_key": "bfmdicihauteprovence",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BFM Grand Lille",
+   "tvg_id": "BFMGrandLille.fr",
+   "logo_key": "bfmgrandlille",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BFM Grand Littoral",
+   "tvg_id": "BFMGrandLittoral.fr",
+   "logo_key": "bfmgrandlittoral",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BFM Lyon",
+   "tvg_id": "BFMLyon.fr",
+   "logo_key": "bfmlyon",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BFM Marseille",
+   "tvg_id": "BFMMarseille.fr",
+   "logo_key": "bfmmarseille",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BFM Normandie",
+   "tvg_id": "BFMNormandie.fr",
+   "logo_key": "bfmnormandie",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BFM Paris Ile-de-France",
+   "tvg_id": "BFMParisIledeFrance.fr",
+   "logo_key": "bfmparisiledefrance",
+   "logo": true,
+   "aliases": [
+    "bfmparis"
+   ]
+  },
+  {
+   "name": "BFM Tech & Co",
+   "tvg_id": "BFMTechCo.fr",
+   "logo_key": "bfmtechco",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BFM TV",
+   "tvg_id": "BFMTV.fr",
+   "logo_key": "bfm",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BFM TV Vertical",
+   "tvg_id": "BFMTVVertical.fr",
+   "logo_key": "bfmtvvertical",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BFM Var",
+   "tvg_id": "BFMVar.fr",
+   "logo_key": "bfmvar",
+   "logo": true,
+   "aliases": [
+    "bfmtoulonvar"
+   ]
+  },
+  {
+   "name": "BFM2",
+   "tvg_id": "BFM2.fr",
+   "logo_key": "bfm2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BIP TV",
+   "tvg_id": "BIPTV.fr",
+   "logo_key": "bip",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Boomerang",
+   "tvg_id": "Boomerang.fr",
+   "logo_key": "boomerang",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Bostra TV",
+   "tvg_id": "BostraTV.fr",
+   "logo_key": "bostra",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Brionnais TV",
+   "tvg_id": "BrionnaisTV.fr",
+   "logo_key": "brionnais",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "C Star",
+   "tvg_id": "CStar.fr",
+   "logo_key": "cstar",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Caillou",
+   "tvg_id": "Caillou.fr",
+   "logo_key": "caillou",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Canal 32",
+   "tvg_id": "Canal32.fr",
+   "logo_key": "canal32",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Canal Gambsheim",
+   "tvg_id": "CanalGambsheim.fr",
+   "logo_key": "canalgambsheim",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Canal J",
+   "tvg_id": "CanalJ.fr",
+   "logo_key": "canalj",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Canal Local Grosblie",
+   "tvg_id": "CanalLocalGrosblie.fr",
+   "logo_key": "canallocalgrosblie",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Canal Schilick",
+   "tvg_id": "CanalSchilick.fr",
+   "logo_key": "canalschilick",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Canal+",
+   "tvg_id": "CanalPlus.fr",
+   "logo_key": "canal+",
+   "logo": true,
+   "aliases": [
+    "canalplus"
+   ]
+  },
+  {
+   "name": "Canal+ Action Centre",
+   "tvg_id": "CanalPlusActionCentre.fr",
+   "logo_key": "canal+actioncentre",
+   "logo": true,
+   "aliases": [
+    "canalplusactioncentre"
+   ]
+  },
+  {
+   "name": "Canal+ Action Myanmar",
+   "tvg_id": "CanalPlusActionMyanmar.fr",
+   "logo_key": "canal+actionmyanmar",
+   "logo": true,
+   "aliases": [
+    "canalplusactionmyanmar"
+   ]
+  },
+  {
+   "name": "Canal+ Action Ouest",
+   "tvg_id": "CanalPlusActionOuest.fr",
+   "logo_key": "canal+actionouest",
+   "logo": true,
+   "aliases": [
+    "canalplusactionouest"
+   ]
+  },
+  {
+   "name": "Canal+ Box Office",
+   "tvg_id": "CanalPlusBoxOffice.fr",
+   "logo_key": "canal+boxoffice",
+   "logo": true,
+   "aliases": [
+    "canalplusboxoffice"
+   ]
+  },
+  {
+   "name": "Canal+ Caraibes",
+   "tvg_id": "CanalPlusCaraibes.fr",
+   "logo_key": "canal+caraibes",
+   "logo": true,
+   "aliases": [
+    "canalpluscaraibes"
+   ]
+  },
+  {
+   "name": "Canal+ Cinema Centre",
+   "tvg_id": "CanalPlusCinemaCentre.fr",
+   "logo_key": "canal+cinemacentre",
+   "logo": true,
+   "aliases": [
+    "canalpluscinemacentre"
+   ]
+  },
+  {
+   "name": "Canal+ Cinema Ouest",
+   "tvg_id": "CanalPlusCinemaOuest.fr",
+   "logo_key": "canal+cinemaouest",
+   "logo": true,
+   "aliases": [
+    "canalpluscinemaouest"
+   ]
+  },
+  {
+   "name": "Canal+ Cinema Reunion",
+   "tvg_id": "CanalPlusCinemaReunion.fr",
+   "logo_key": "canal+cinemareunion",
+   "logo": true,
+   "aliases": [
+    "canalpluscinemareunion"
+   ]
+  },
+  {
+   "name": "Canal+ Cinemas",
+   "tvg_id": "CanalPlusCinemas.fr",
+   "logo_key": "canal+cinemas",
+   "logo": true,
+   "aliases": [
+    "canalpluscinemas",
+    "canal+cinema"
+   ]
+  },
+  {
+   "name": "Canal+ Docs",
+   "tvg_id": "CanalPlusDocs.fr",
+   "logo_key": "canal+docs",
+   "logo": true,
+   "aliases": [
+    "canalplusdocs"
+   ]
+  },
+  {
+   "name": "Canal+ Elles Centre",
+   "tvg_id": "CanalPlusEllesCentre.fr",
+   "logo_key": "canal+ellescentre",
+   "logo": true,
+   "aliases": [
+    "canalplusellescentre"
+   ]
+  },
+  {
+   "name": "Canal+ Elles Ouest",
+   "tvg_id": "CanalPlusEllesOuest.fr",
+   "logo_key": "canal+ellesouest",
+   "logo": true,
+   "aliases": [
+    "canalplusellesouest"
+   ]
+  },
+  {
+   "name": "Canal+ Family",
+   "tvg_id": "CanalPlusFamily.fr",
+   "logo_key": "canal+family",
+   "logo": true,
+   "aliases": [
+    "canalplusfamily"
+   ]
+  },
+  {
+   "name": "Canal+ Family Afrique",
+   "tvg_id": "CanalPlusFamilyAfrique.fr",
+   "logo_key": "canal+familyafrique",
+   "logo": false,
+   "aliases": [
+    "canalplusfamilyafrique"
+   ]
+  },
+  {
+   "name": "Canal+ Family Centre",
+   "tvg_id": "CanalPlusFamilyCentre.fr",
+   "logo_key": "canal+familycentre",
+   "logo": true,
+   "aliases": [
+    "canalplusfamilycentre"
+   ]
+  },
+  {
+   "name": "Canal+ Family Ouest",
+   "tvg_id": "CanalPlusFamilyOuest.fr",
+   "logo_key": "canal+familyouest",
+   "logo": true,
+   "aliases": [
+    "canalplusfamilyouest"
+   ]
+  },
+  {
+   "name": "Canal+ Foot",
+   "tvg_id": "CanalPlusFoot.fr",
+   "logo_key": "canal+foot",
+   "logo": false,
+   "aliases": [
+    "canalplusfoot"
+   ]
+  },
+  {
+   "name": "Canal+ Formula 1",
+   "tvg_id": "CanalPlusFormula1.fr",
+   "logo_key": "canal+formula1",
+   "logo": true,
+   "aliases": [
+    "canalplusformula1"
+   ]
+  },
+  {
+   "name": "Canal+ Grand Ecran",
+   "tvg_id": "CanalPlusGrandEcran.fr",
+   "logo_key": "canal+grandecran",
+   "logo": true,
+   "aliases": [
+    "canalplusgrandecran"
+   ]
+  },
+  {
+   "name": "Canal+ Ha Ha!",
+   "tvg_id": "CanalPlusHaHa.fr",
+   "logo_key": "canal+haha",
+   "logo": true,
+   "aliases": [
+    "canalplushaha"
+   ]
+  },
+  {
+   "name": "Canal+ Kids",
+   "tvg_id": "CanalPlusKids.fr",
+   "logo_key": "canal+kids",
+   "logo": true,
+   "aliases": [
+    "canalpluskids"
+   ]
+  },
+  {
+   "name": "Canal+ MotoGP",
+   "tvg_id": "CanalPlusMotoGP.fr",
+   "logo_key": "canal+motogp",
+   "logo": true,
+   "aliases": [
+    "canalplusmotogp"
+   ]
+  },
+  {
+   "name": "Canal+ Pop Centre",
+   "tvg_id": "CanalPlusPopCentre.fr",
+   "logo_key": "canal+popcentre",
+   "logo": true,
+   "aliases": [
+    "canalpluspopcentre"
+   ]
+  },
+  {
+   "name": "Canal+ Pop Ouest",
+   "tvg_id": "CanalPlusPopOuest.fr",
+   "logo_key": "canal+popouest",
+   "logo": true,
+   "aliases": [
+    "canalpluspopouest"
+   ]
+  },
+  {
+   "name": "Canal+ Premier League",
+   "tvg_id": "CanalPlusPremierLeague.fr",
+   "logo_key": "canal+premierleague",
+   "logo": true,
+   "aliases": [
+    "canalpluspremierleague"
+   ]
+  },
+  {
+   "name": "Canal+ Premiere Centre",
+   "tvg_id": "CanalPlusPremiereCentre.fr",
+   "logo_key": "canal+premierecentre",
+   "logo": true,
+   "aliases": [
+    "canalpluspremierecentre"
+   ]
+  },
+  {
+   "name": "Canal+ Premiere Ouest",
+   "tvg_id": "CanalPlusPremiereOuest.fr",
+   "logo_key": "canal+premiereouest",
+   "logo": true,
+   "aliases": [
+    "canalpluspremiereouest"
+   ]
+  },
+  {
+   "name": "Canal+ Series",
+   "tvg_id": "CanalPlusSeries.fr",
+   "logo_key": "canal+series",
+   "logo": true,
+   "aliases": [
+    "canalplusseries"
+   ]
+  },
+  {
+   "name": "Canal+ Series Reunion",
+   "tvg_id": "CanalPlusSeriesReunion.fr",
+   "logo_key": "canal+seriesreunion",
+   "logo": true,
+   "aliases": [
+    "canalplusseriesreunion"
+   ]
+  },
+  {
+   "name": "Canal+ Sport",
+   "tvg_id": "CanalPlusSport.fr",
+   "logo_key": "canal+sport",
+   "logo": true,
+   "aliases": [
+    "canalplussport"
+   ]
+  },
+  {
+   "name": "Canal+ Sport 1",
+   "tvg_id": "CanalPlusSport1.fr",
+   "logo_key": "canal+sport1",
+   "logo": true,
+   "aliases": [
+    "canalplussport1"
+   ]
+  },
+  {
+   "name": "Canal+ Sport 2",
+   "tvg_id": "CanalPlusSport2.fr",
+   "logo_key": "canal+sport2",
+   "logo": true,
+   "aliases": [
+    "canalplussport2"
+   ]
+  },
+  {
+   "name": "Canal+ Sport 3",
+   "tvg_id": "CanalPlusSport3.fr",
+   "logo_key": "canal+sport3",
+   "logo": true,
+   "aliases": [
+    "canalplussport3"
+   ]
+  },
+  {
+   "name": "Canal+ Sport 360",
+   "tvg_id": "CanalPlusSport360.fr",
+   "logo_key": "canal+sport360",
+   "logo": false,
+   "aliases": [
+    "canalplussport360"
+   ]
+  },
+  {
+   "name": "Canal+ Sport 4",
+   "tvg_id": "CanalPlusSport4.fr",
+   "logo_key": "canal+sport4",
+   "logo": true,
+   "aliases": [
+    "canalplussport4"
+   ]
+  },
+  {
+   "name": "Canal+ Sport 5",
+   "tvg_id": "CanalPlusSport5.fr",
+   "logo_key": "canal+sport5",
+   "logo": true,
+   "aliases": [
+    "canalplussport5"
+   ]
+  },
+  {
+   "name": "Canal+ Sport 6",
+   "tvg_id": "CanalPlusSport6.fr",
+   "logo_key": "canal+sport6",
+   "logo": true,
+   "aliases": [
+    "canalplussport6"
+   ]
+  },
+  {
+   "name": "Canal+ Sport Reunion",
+   "tvg_id": "CanalPlusSportReunion.fr",
+   "logo_key": "canal+sportreunion",
+   "logo": true,
+   "aliases": [
+    "canalplussportreunion"
+   ]
+  },
+  {
+   "name": "Canal+ Sports Myanmar",
+   "tvg_id": "CanalPlusSportsMyanmar.fr",
+   "logo_key": "canal+sportsmyanmar",
+   "logo": true,
+   "aliases": [
+    "canalplussportsmyanmar"
+   ]
+  },
+  {
+   "name": "Canal+ Top 14",
+   "tvg_id": "CanalPlusTop14.fr",
+   "logo_key": "canal+top14",
+   "logo": true,
+   "aliases": [
+    "canalplustop14"
+   ]
+  },
+  {
+   "name": "Cannes Lerins TV",
+   "tvg_id": "CannesLerinsTV.fr",
+   "logo_key": "canneslerins",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "CDirect",
+   "tvg_id": "CDirect.fr",
+   "logo_key": "cdirect",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Central TV",
+   "tvg_id": "CentralTV.fr",
+   "logo_key": "central",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Chasse & Peche",
+   "tvg_id": "ChassePeche.fr",
+   "logo_key": "chassepeche",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Chretiens TV",
+   "tvg_id": "ChretiensTV.fr",
+   "logo_key": "chretiens",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Cine Nanar",
+   "tvg_id": "CineNanar.fr",
+   "logo_key": "cinenanar",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Cine Western",
+   "tvg_id": "CineWestern.fr",
+   "logo_key": "cinewestern",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Cine+ Classic",
+   "tvg_id": "CinePlusClassic.fr",
+   "logo_key": "cine+classic",
+   "logo": true,
+   "aliases": [
+    "cineplusclassic"
+   ]
+  },
+  {
+   "name": "Cine+ Emotion",
+   "tvg_id": "CinePlusEmotion.fr",
+   "logo_key": "cine+emotion",
+   "logo": true,
+   "aliases": [
+    "cineplusemotion",
+    "cinecinemaemotion",
+    "cinecinemas2",
+    "cinecinemasprime"
+   ]
+  },
+  {
+   "name": "Cine+ Family",
+   "tvg_id": "CinePlusFamily.fr",
+   "logo_key": "cine+family",
+   "logo": true,
+   "aliases": [
+    "cineplusfamily",
+    "cine+famiz",
+    "cinecinemafamiz",
+    "cinecinemasucces"
+   ]
+  },
+  {
+   "name": "Cine+ Festival",
+   "tvg_id": "CinePlusFestival.fr",
+   "logo_key": "cine+festival",
+   "logo": true,
+   "aliases": [
+    "cineplusfestival"
+   ]
+  },
+  {
+   "name": "Cine+ Frisson",
+   "tvg_id": "CinePlusFrisson.fr",
+   "logo_key": "cine+frisson",
+   "logo": true,
+   "aliases": [
+    "cineplusfrisson",
+    "cinecinemafrissons"
+   ]
+  },
+  {
+   "name": "Cine+ OCS",
+   "tvg_id": "CinePlusOCS.fr",
+   "logo_key": "cine+ocs",
+   "logo": true,
+   "aliases": [
+    "cineplusocs",
+    "cine+",
+    "cinecinema",
+    "cinecinemas"
+   ]
+  },
+  {
+   "name": "Clique TV",
+   "tvg_id": "CliqueTV.fr",
+   "logo_key": "clique",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "CNews",
+   "tvg_id": "CNews.fr",
+   "logo_key": "cnews",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "CNEWS PRIME",
+   "tvg_id": "CNEWSPRIME.fr",
+   "logo_key": "cnewsprime",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Comedie+",
+   "tvg_id": "ComediePlus.fr",
+   "logo_key": "comedie+",
+   "logo": true,
+   "aliases": [
+    "comedieplus"
+   ]
+  },
+  {
+   "name": "Comedy Central",
+   "tvg_id": "ComedyCentral.fr",
+   "logo_key": "comedycentral",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Crime District",
+   "tvg_id": "CrimeDistrict.fr",
+   "logo_key": "crimedistrict",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Cuisines",
+   "tvg_id": "Cuisines.fr",
+   "logo_key": "cuisines",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "D5Music",
+   "tvg_id": "D5Music.fr",
+   "logo_key": "d5music",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "D5tv",
+   "tvg_id": "D5tv.fr",
+   "logo_key": "d5",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "DBM TV",
+   "tvg_id": "DBMTV.fr",
+   "logo_key": "dbm",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Demain TV",
+   "tvg_id": "DemainTV.fr",
+   "logo_key": "demain",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "DieuTV",
+   "tvg_id": "DieuTV.fr",
+   "logo_key": "dieu",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Discovery Channel",
+   "tvg_id": "DiscoveryChannel.fr",
+   "logo_key": "discoverychannel",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Disney Channel",
+   "tvg_id": "DisneyChannel.fr",
+   "logo_key": "disneychannel",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Dreamsee Television",
+   "tvg_id": "DreamseeTelevision.fr",
+   "logo_key": "dreamseetelevision",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "DreamWorks",
+   "tvg_id": "DreamWorks.fr",
+   "logo_key": "dreamworks",
+   "logo": false,
+   "aliases": [
+    "dreamworkschannel"
+   ]
+  },
+  {
+   "name": "E!",
+   "tvg_id": "E.fr",
+   "logo_key": "e",
+   "logo": true,
+   "aliases": [
+    "entertainment"
+   ]
+  },
+  {
+   "name": "EDAN",
+   "tvg_id": "EDAN.fr",
+   "logo_key": "edan",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "EMCI TV",
+   "tvg_id": "EMCITV.fr",
+   "logo_key": "emci",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "EMCI TV Europe",
+   "tvg_id": "EMCITVEurope.fr",
+   "logo_key": "emcitveurope",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Emotion L",
+   "tvg_id": "EmotionL.fr",
+   "logo_key": "emotionl",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Equidia",
+   "tvg_id": "Equidia.fr",
+   "logo_key": "equidia",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Equidia Pro 1",
+   "tvg_id": "EquidiaPro1.fr",
+   "logo_key": "equidiapro1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Equidia Pro 2",
+   "tvg_id": "EquidiaPro2.fr",
+   "logo_key": "equidiapro2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Ere TV",
+   "tvg_id": "EreTV.fr",
+   "logo_key": "ere",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ESA Web TV",
+   "tvg_id": "ESAWebTV.fr",
+   "logo_key": "esaweb",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ESJ TV",
+   "tvg_id": "ESJTV.fr",
+   "logo_key": "esj",
+   "logo": true,
+   "aliases": [
+    "egliseduseigneurjesuschrist"
+   ]
+  },
+  {
+   "name": "Euromed TV",
+   "tvg_id": "EuromedTV.fr",
+   "logo_key": "euromed",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Euronews English",
+   "tvg_id": "EuronewsEnglish.fr",
+   "logo_key": "euronewsenglish",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Euronews French",
+   "tvg_id": "EuronewsFrench.fr",
+   "logo_key": "euronewsfrench",
+   "logo": true,
+   "aliases": [
+    "euronewsfrancais",
+    "euronewsfr"
+   ]
+  },
+  {
+   "name": "Euronews German",
+   "tvg_id": "EuronewsGerman.fr",
+   "logo_key": "euronewsgerman",
+   "logo": true,
+   "aliases": [
+    "euronewsdeutsch",
+    "euronewsge"
+   ]
+  },
+  {
+   "name": "Euronews Greek",
+   "tvg_id": "EuronewsGreek.fr",
+   "logo_key": "euronewsgreek",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Euronews Hungarian",
+   "tvg_id": "EuronewsHungarian.fr",
+   "logo_key": "euronewshungarian",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Euronews Italian",
+   "tvg_id": "EuronewsItalian.fr",
+   "logo_key": "euronewsitalian",
+   "logo": true,
+   "aliases": [
+    "euronewsitaliano",
+    "euronewsi"
+   ]
+  },
+  {
+   "name": "Euronews Portuguese",
+   "tvg_id": "EuronewsPortuguese.fr",
+   "logo_key": "euronewsportuguese",
+   "logo": true,
+   "aliases": [
+    "euronewsportugues",
+    "euronewspt"
+   ]
+  },
+  {
+   "name": "Euronews Russian",
+   "tvg_id": "EuronewsRussian.fr",
+   "logo_key": "euronewsrussian",
+   "logo": true,
+   "aliases": [
+    "euronews",
+    "euronewsrusski"
+   ]
+  },
+  {
+   "name": "Euronews Spanish",
+   "tvg_id": "EuronewsSpanish.fr",
+   "logo_key": "euronewsspanish",
+   "logo": true,
+   "aliases": [
+    "euronewsenespanol",
+    "euronewsespanol"
+   ]
+  },
+  {
+   "name": "Europe 1 TV",
+   "tvg_id": "Europe1TV.fr",
+   "logo_key": "europe1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Europe2 Pop TV",
+   "tvg_id": "Europe2PopTV.fr",
+   "logo_key": "europe2pop",
+   "logo": true,
+   "aliases": [
+    "cstarhitsfrance"
+   ]
+  },
+  {
+   "name": "Eurosport",
+   "tvg_id": "Eurosport.fr",
+   "logo_key": "eurosport",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Eurosport 1",
+   "tvg_id": "Eurosport1.fr",
+   "logo_key": "eurosport1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Eurosport 2",
+   "tvg_id": "Eurosport2.fr",
+   "logo_key": "eurosport2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Eurosport 3",
+   "tvg_id": "Eurosport3.fr",
+   "logo_key": "eurosport3",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Eurosport 360 HD 1",
+   "tvg_id": "Eurosport360HD1.fr",
+   "logo_key": "eurosport3601",
+   "logo": true,
+   "aliases": [
+    "eurosport360hd1"
+   ]
+  },
+  {
+   "name": "Eurosport 360 HD 2",
+   "tvg_id": "Eurosport360HD2.fr",
+   "logo_key": "eurosport3602",
+   "logo": true,
+   "aliases": [
+    "eurosport360hd2"
+   ]
+  },
+  {
+   "name": "Eurosport 360 HD 3",
+   "tvg_id": "Eurosport360HD3.fr",
+   "logo_key": "eurosport3603",
+   "logo": true,
+   "aliases": [
+    "eurosport360hd3"
+   ]
+  },
+  {
+   "name": "Eurosport 360 HD 4",
+   "tvg_id": "Eurosport360HD4.fr",
+   "logo_key": "eurosport3604",
+   "logo": true,
+   "aliases": [
+    "eurosport360hd4"
+   ]
+  },
+  {
+   "name": "Eurosport 360 HD 5",
+   "tvg_id": "Eurosport360HD5.fr",
+   "logo_key": "eurosport3605",
+   "logo": true,
+   "aliases": [
+    "eurosport360hd5"
+   ]
+  },
+  {
+   "name": "Eurosport 360 HD 6",
+   "tvg_id": "Eurosport360HD6.fr",
+   "logo_key": "eurosport3606",
+   "logo": true,
+   "aliases": [
+    "eurosport360hd6"
+   ]
+  },
+  {
+   "name": "Eurosport 360 HD 7",
+   "tvg_id": "Eurosport360HD7.fr",
+   "logo_key": "eurosport3607",
+   "logo": true,
+   "aliases": [
+    "eurosport360hd7"
+   ]
+  },
+  {
+   "name": "Eurosport 360 HD 8",
+   "tvg_id": "Eurosport360HD8.fr",
+   "logo_key": "eurosport3608",
+   "logo": true,
+   "aliases": [
+    "eurosport360hd8"
+   ]
+  },
+  {
+   "name": "Eurosport 360 HD 9",
+   "tvg_id": "Eurosport360HD9.fr",
+   "logo_key": "eurosport3609",
+   "logo": true,
+   "aliases": [
+    "eurosport360hd9"
+   ]
+  },
+  {
+   "name": "Eurosport 4",
+   "tvg_id": "Eurosport4.fr",
+   "logo_key": "eurosport4",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Eurosport 4K",
+   "tvg_id": "Eurosport4K.fr",
+   "logo_key": "eurosport",
+   "logo": true,
+   "aliases": [
+    "eurosport4k"
+   ]
+  },
+  {
+   "name": "Eurosport 5",
+   "tvg_id": "Eurosport5.fr",
+   "logo_key": "eurosport5",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Eurosport 6",
+   "tvg_id": "Eurosport6.fr",
+   "logo_key": "eurosport6",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Eurosport 7",
+   "tvg_id": "Eurosport7.fr",
+   "logo_key": "eurosport7",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Eurosport 8",
+   "tvg_id": "Eurosport8.fr",
+   "logo_key": "eurosport8",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Eurosport 9",
+   "tvg_id": "Eurosport9.fr",
+   "logo_key": "eurosport9",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Evandis Gospel TV",
+   "tvg_id": "EvandisGospelTV.fr",
+   "logo_key": "evandisgospel",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Evangelisation des Nations",
+   "tvg_id": "EvangelisationdesNations.fr",
+   "logo_key": "evangelisationdesnations",
+   "logo": true,
+   "aliases": [
+    "evdn"
+   ]
+  },
+  {
+   "name": "Evangile TV",
+   "tvg_id": "EvangileTV.fr",
+   "logo_key": "evangile",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Fashion TV HD",
+   "tvg_id": "FashionTVHD.fr",
+   "logo_key": "fashion",
+   "logo": false,
+   "aliases": [
+    "fashiontvhd"
+   ]
+  },
+  {
+   "name": "FashionTV Asia",
+   "tvg_id": "FashionTVAsia.fr",
+   "logo_key": "fashiontvasia",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "FashionTV Czech&Slovak",
+   "tvg_id": "FashionTVCzechSlovak.fr",
+   "logo_key": "fashiontvczechslovak",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "FashionTV Europe",
+   "tvg_id": "FashionTVEurope.fr",
+   "logo_key": "fashiontveurope",
+   "logo": false,
+   "aliases": [
+    "fashion"
+   ]
+  },
+  {
+   "name": "FashionTV F-Men",
+   "tvg_id": "FashionTVFMen.fr",
+   "logo_key": "fashiontvfmen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "FashionTV Johannesburg",
+   "tvg_id": "FashionTVJohannesburg.fr",
+   "logo_key": "fashiontvjohannesburg",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "FashionTV L'Original",
+   "tvg_id": "FashionTVLOriginal.fr",
+   "logo_key": "fashiontvloriginal",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "FashionTV New York",
+   "tvg_id": "FashionTVNewYork.fr",
+   "logo_key": "fashiontvnewyork",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "FashionTV Paris",
+   "tvg_id": "FashionTVParis.fr",
+   "logo_key": "fashiontvparis",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "FashionTV Paris L'Original",
+   "tvg_id": "FashionTVParisLOriginal.fr",
+   "logo_key": "fashiontvparisloriginal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "FashionTV PG13",
+   "tvg_id": "FashionTVPG13.fr",
+   "logo_key": "fashiontvpg13",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "FashionTV PG16",
+   "tvg_id": "FashionTVPG16.fr",
+   "logo_key": "fashiontvpg16",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "FashionTV Secrets",
+   "tvg_id": "FashionTVSecrets.fr",
+   "logo_key": "fashiontvsecrets",
+   "logo": true,
+   "aliases": [
+    "ftvsecrets"
+   ]
+  },
+  {
+   "name": "FashionTV Singapore",
+   "tvg_id": "FashionTVSingapore.fr",
+   "logo_key": "fashiontvsingapore",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "FashionTV Tokyo",
+   "tvg_id": "FashionTVTokyo.fr",
+   "logo_key": "fashiontvtokyo",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "FashionTV UHD",
+   "tvg_id": "FashionTVUHD.fr",
+   "logo_key": "fashion",
+   "logo": false,
+   "aliases": [
+    "fashiontvuhd"
+   ]
+  },
+  {
+   "name": "Fighting Spirit",
+   "tvg_id": "FightingSpirit.fr",
+   "logo_key": "fightingspirit",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Foot+",
+   "tvg_id": "FootPlus.fr",
+   "logo_key": "foot+",
+   "logo": true,
+   "aliases": [
+    "footplus"
+   ]
+  },
+  {
+   "name": "Foot+ 24/24",
+   "tvg_id": "FootPlus2424.fr",
+   "logo_key": "foot+2424",
+   "logo": true,
+   "aliases": [
+    "footplus2424"
+   ]
+  },
+  {
+   "name": "France 2",
+   "tvg_id": "France2.fr",
+   "logo_key": "france2",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "France 24",
+   "tvg_id": "France24.fr",
+   "logo_key": "france24",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "France 3",
+   "tvg_id": "France3.fr",
+   "logo_key": "france3",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "France 4",
+   "tvg_id": "France4.fr",
+   "logo_key": "france4",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "France 5",
+   "tvg_id": "France5.fr",
+   "logo_key": "france5",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "France Inter",
+   "tvg_id": "FranceInter.fr",
+   "logo_key": "franceinter",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "France TV Series",
+   "tvg_id": "FranceTVSeries.fr",
+   "logo_key": "francetvseries",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Franceinfo",
+   "tvg_id": "Franceinfo.fr",
+   "logo_key": "franceinfo",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Francophonie24",
+   "tvg_id": "Francophonie24.fr",
+   "logo_key": "francophonie24",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Frequence Novelas",
+   "tvg_id": "FrequenceNovelas.fr",
+   "logo_key": "frequencenovelas",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Fun Radio",
+   "tvg_id": "FunRadio.fr",
+   "logo_key": "funradio",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "FX 2",
+   "tvg_id": "FX2.fr",
+   "logo_key": "fx2",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Gaming TV",
+   "tvg_id": "GamingTV.fr",
+   "logo_key": "gaming",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Generations TV",
+   "tvg_id": "GenerationsTV.fr",
+   "logo_key": "generations",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Geneve Region Television",
+   "tvg_id": "GeneveRegionTelevision.fr",
+   "logo_key": "geneveregiontelevision",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Golf +",
+   "tvg_id": "GolfPlus.fr",
+   "logo_key": "golf+",
+   "logo": true,
+   "aliases": [
+    "golfplus"
+   ]
+  },
+  {
+   "name": "Golf Channel",
+   "tvg_id": "GolfChannel.fr",
+   "logo_key": "golfchannel",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Gong",
+   "tvg_id": "Gong.fr",
+   "logo_key": "gong",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Gong Max",
+   "tvg_id": "GongMax.fr",
+   "logo_key": "gongmax",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Grand Geneve TV",
+   "tvg_id": "GrandGeneveTV.fr",
+   "logo_key": "grandgeneve",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Gulli",
+   "tvg_id": "Gulli.fr",
+   "logo_key": "gulli",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Gulli Africa",
+   "tvg_id": "GulliAfrica.fr",
+   "logo_key": "gulliafrica",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Gulli Bil Arabi",
+   "tvg_id": "GulliBilArabi.fr",
+   "logo_key": "gullibilarabi",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "HANDICAP TV",
+   "tvg_id": "HANDICAPTV.fr",
+   "logo_key": "handicap",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Histoire de la Television",
+   "tvg_id": "HistoiredelaTelevision.fr",
+   "logo_key": "histoiredelatelevision",
+   "logo": true,
+   "aliases": [
+    "hdl"
+   ]
+  },
+  {
+   "name": "Histoire TV",
+   "tvg_id": "HistoireTV.fr",
+   "logo_key": "histoire",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "HLIVE",
+   "tvg_id": "HLIVE.fr",
+   "logo_key": "hlive",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "HolyGod TV",
+   "tvg_id": "HolyGodTV.fr",
+   "logo_key": "holygod",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Hope Channel Francais",
+   "tvg_id": "HopeChannelFrancais.fr",
+   "logo_key": "hopechannelfrancais",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Horyaal 24 TV",
+   "tvg_id": "Horyaal24TV.fr",
+   "logo_key": "horyaal24",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Hotbird 4K1",
+   "tvg_id": "Hotbird4K1.fr",
+   "logo_key": "hotbird4k1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Humanity",
+   "tvg_id": "Humanity.fr",
+   "logo_key": "humanity",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ici Elsass",
+   "tvg_id": "iciElsass.fr",
+   "logo_key": "icielsass",
+   "logo": false,
+   "aliases": [
+    "icialsace",
+    "francebleuelsass"
+   ]
+  },
+  {
+   "name": "ILTV",
+   "tvg_id": "ILTV.fr",
+   "logo_key": "il",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "IMEARTH",
+   "tvg_id": "IMEARTH.fr",
+   "logo_key": "imearth",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Infosport+",
+   "tvg_id": "InfosportPlus.fr",
+   "logo_key": "infosport+",
+   "logo": false,
+   "aliases": [
+    "infosportplus"
+   ]
+  },
+  {
+   "name": "Into Crime",
+   "tvg_id": "IntoCrime.fr",
+   "logo_key": "intocrime",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Investigation Discovery",
+   "tvg_id": "InvestigationDiscovery.fr",
+   "logo_key": "investigationdiscovery",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Iran Nama",
+   "tvg_id": "IranNama.fr",
+   "logo_key": "irannama",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Ivoire TV5",
+   "tvg_id": "IvoireTV5.fr",
+   "logo_key": "ivoiretv5",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Journal Du Golf",
+   "tvg_id": "JournalDuGolf.fr",
+   "logo_key": "journaldugolf",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Kanal Turan",
+   "tvg_id": "KanalTuran.fr",
+   "logo_key": "kanalturan",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kanaldude",
+   "tvg_id": "Kanaldude.fr",
+   "logo_key": "kanaldude",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kozoom TV",
+   "tvg_id": "KozoomTV.fr",
+   "logo_key": "kozoom",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "KTO",
+   "tvg_id": "KTO.fr",
+   "logo_key": "kto",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "L'Equipe",
+   "tvg_id": "LEquipe.fr",
+   "logo_key": "lequipe",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "L'Esprit Sorcier TV",
+   "tvg_id": "LEspritSorcierTV.fr",
+   "logo_key": "lespritsorcier",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "L'intelligent TV",
+   "tvg_id": "LintelligentTV.fr",
+   "logo_key": "lintelligent",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "La Chaine 32",
+   "tvg_id": "LaChaine32.fr",
+   "logo_key": "lachaine32",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "La Chaine FreeTV",
+   "tvg_id": "LaChaineFreeTV.fr",
+   "logo_key": "lachainefree",
+   "logo": false,
+   "aliases": [
+    "lachaineoqee"
+   ]
+  },
+  {
+   "name": "La Chaine Meteo",
+   "tvg_id": "LaChaineMeteo.fr",
+   "logo_key": "lachainemeteo",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "LCI",
+   "tvg_id": "LCI.fr",
+   "logo_key": "lci",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "LCP",
+   "tvg_id": "LCP.fr",
+   "logo_key": "lcp",
+   "logo": true,
+   "aliases": [
+    "lachaineparlementaire",
+    "canalassemblees",
+    "canalassembleenationale"
+   ]
+  },
+  {
+   "name": "LCP – AN",
+   "tvg_id": "LCPAN.fr",
+   "logo_key": "lcpan",
+   "logo": false,
+   "aliases": [
+    "lcpassembleenationale",
+    "canalassembleenationale"
+   ]
+  },
+  {
+   "name": "Le Figaro Live",
+   "tvg_id": "LeFigaroLive.fr",
+   "logo_key": "lefigarolive",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Le Figaro TV Ile-de-France",
+   "tvg_id": "LeFigaroTVIledeFrance.fr",
+   "logo_key": "lefigarotviledefrance",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Le Media TV",
+   "tvg_id": "LeMediaTV.fr",
+   "logo_key": "lemedia",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Littoral FM TV",
+   "tvg_id": "LittoralFMTV.fr",
+   "logo_key": "littoralfm",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "LM TV Sarthe",
+   "tvg_id": "LMTVSarthe.fr",
+   "logo_key": "lmtvsarthe",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Loupe",
+   "tvg_id": "Loupe.fr",
+   "logo_key": "loupe",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Ludikids",
+   "tvg_id": "Ludikids.fr",
+   "logo_key": "ludikids",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Lyon Capitale TV",
+   "tvg_id": "LyonCapitaleTV.fr",
+   "logo_key": "lyoncapitale",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "M6",
+   "tvg_id": "M6.fr",
+   "logo_key": "m6",
+   "logo": true,
+   "aliases": [
+    "rtl6"
+   ]
+  },
+  {
+   "name": "M6 International",
+   "tvg_id": "M6International.fr",
+   "logo_key": "m6international",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "M6 Music",
+   "tvg_id": "M6Music.fr",
+   "logo_key": "m6music",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Maison & Travaux TV",
+   "tvg_id": "MaisonTravauxTV.fr",
+   "logo_key": "maisontravaux",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Mandarin TV",
+   "tvg_id": "MandarinTV.fr",
+   "logo_key": "mandarin",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Mangas",
+   "tvg_id": "Mangas.fr",
+   "logo_key": "mangas",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Maritima TV",
+   "tvg_id": "MaritimaTV.fr",
+   "logo_key": "maritima",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Marmiton TV",
+   "tvg_id": "MarmitonTV.fr",
+   "logo_key": "marmiton",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Maurienne TV",
+   "tvg_id": "MaurienneTV.fr",
+   "logo_key": "maurienne",
+   "logo": true,
+   "aliases": [
+    "ma"
+   ]
+  },
+  {
+   "name": "MCM Top",
+   "tvg_id": "MCMTop.fr",
+   "logo_key": "mcmtop",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MDL",
+   "tvg_id": "MDL.fr",
+   "logo_key": "mdl",
+   "logo": true,
+   "aliases": [
+    "mondeduloisir"
+   ]
+  },
+  {
+   "name": "Melody",
+   "tvg_id": "Melody.fr",
+   "logo_key": "melody",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Melody d'Afrique",
+   "tvg_id": "MelodydAfrique.fr",
+   "logo_key": "melodydafrique",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Men's UP TV",
+   "tvg_id": "MensUPTV.fr",
+   "logo_key": "mensup",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Mezzo",
+   "tvg_id": "Mezzo.fr",
+   "logo_key": "mezzo",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Mezzo Live",
+   "tvg_id": "MezzoLive.fr",
+   "logo_key": "mezzolive",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MGG TV",
+   "tvg_id": "MGGTV.fr",
+   "logo_key": "mgg",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Mistral TV",
+   "tvg_id": "MistralTV.fr",
+   "logo_key": "mistral",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Monte Carlo Digital Television",
+   "tvg_id": "MonteCarloDigitalTelevision.fr",
+   "logo_key": "montecarlodigitaltelevision",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Mosaik Cristal",
+   "tvg_id": "MosaikCristal.fr",
+   "logo_key": "mosaikcristal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Moselle TV",
+   "tvg_id": "MoselleTV.fr",
+   "logo_key": "moselle",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Motorsport.tv",
+   "tvg_id": "Motorsporttv.fr",
+   "logo_key": "motorsport",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Mouv' TV",
+   "tvg_id": "MouvTV.fr",
+   "logo_key": "mouv",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Movies Central",
+   "tvg_id": "MoviesCentral.fr",
+   "logo_key": "moviescentral",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MTV",
+   "tvg_id": "MTV.fr",
+   "logo_key": "mtv",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "MultiSports 1",
+   "tvg_id": "MultiSports1.fr",
+   "logo_key": "multisports1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MultiSports 2",
+   "tvg_id": "MultiSports2.fr",
+   "logo_key": "multisports2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MultiSports 3",
+   "tvg_id": "MultiSports3.fr",
+   "logo_key": "multisports3",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MultiSports 4",
+   "tvg_id": "MultiSports4.fr",
+   "logo_key": "multisports4",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MultiSports 5",
+   "tvg_id": "MultiSports5.fr",
+   "logo_key": "multisports5",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MultiSports 6",
+   "tvg_id": "MultiSports6.fr",
+   "logo_key": "multisports6",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Museum TV English",
+   "tvg_id": "MuseumTVEnglish.fr",
+   "logo_key": "museumtvenglish",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Museum TV French",
+   "tvg_id": "MuseumTVFrench.fr",
+   "logo_key": "museumtvfrench",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "My Gospel TV",
+   "tvg_id": "MyGospelTV.fr",
+   "logo_key": "mygospel",
+   "logo": true,
+   "aliases": [
+    "africagospel"
+   ]
+  },
+  {
+   "name": "MyComedy",
+   "tvg_id": "MyComedy.fr",
+   "logo_key": "mycomedy",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MyZen Nature",
+   "tvg_id": "MyZenNature.fr",
+   "logo_key": "myzennature",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MyZen TV",
+   "tvg_id": "MyZenTV.fr",
+   "logo_key": "myzen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MyZen TV 4K",
+   "tvg_id": "MyZenTV4K.fr",
+   "logo_key": "myzen",
+   "logo": true,
+   "aliases": [
+    "myzentv4k"
+   ]
+  },
+  {
+   "name": "N31",
+   "tvg_id": "N31.fr",
+   "logo_key": "n31",
+   "logo": true,
+   "aliases": [
+    "nocturne31"
+   ]
+  },
+  {
+   "name": "NA TV",
+   "tvg_id": "NATV.fr",
+   "logo_key": "na",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Nancy Web TV",
+   "tvg_id": "NancyWebTV.fr",
+   "logo_key": "nancyweb",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Nathan TV",
+   "tvg_id": "NathanTV.fr",
+   "logo_key": "nathan",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "National Geographic",
+   "tvg_id": "NationalGeographic.fr",
+   "logo_key": "nationalgeographic",
+   "logo": false,
+   "aliases": [
+    "nationalgeographicchannel"
+   ]
+  },
+  {
+   "name": "National Geographic Wild",
+   "tvg_id": "NationalGeographicWild.fr",
+   "logo_key": "nationalgeographicwild",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "NCA-TV",
+   "tvg_id": "NCATV.fr",
+   "logo_key": "nca",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Nickelodeon",
+   "tvg_id": "Nickelodeon.fr",
+   "logo_key": "nickelodeon",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Nickelodeon Junior",
+   "tvg_id": "NickelodeonJunior.fr",
+   "logo_key": "nickelodeonjunior",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Nicktoons",
+   "tvg_id": "Nicktoons.fr",
+   "logo_key": "nicktoons",
+   "logo": false,
+   "aliases": [
+    "nickelodeonteen"
+   ]
+  },
+  {
+   "name": "Nina TV English",
+   "tvg_id": "NinaTVEnglish.fr",
+   "logo_key": "ninatvenglish",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Nina TV French",
+   "tvg_id": "NinaTVFrench.fr",
+   "logo_key": "ninatvfrench",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "NLM TV",
+   "tvg_id": "NLMTV.fr",
+   "logo_key": "nlm",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Nollywood TV",
+   "tvg_id": "NollywoodTV.fr",
+   "logo_key": "nollywood",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Nollywood TV Epic",
+   "tvg_id": "NollywoodTVEpic.fr",
+   "logo_key": "nollywoodtvepic",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Novelas TV",
+   "tvg_id": "NovelasTV.fr",
+   "logo_key": "novelas",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "NOVO19",
+   "tvg_id": "NOVO19.fr",
+   "logo_key": "novo19",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Novocomedy",
+   "tvg_id": "Novocomedy.fr",
+   "logo_key": "novocomedy",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "NRJ Hits",
+   "tvg_id": "NRJHits.fr",
+   "logo_key": "nrjhits",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "OCS",
+   "tvg_id": "OCS.fr",
+   "logo_key": "ocs",
+   "logo": true,
+   "aliases": [
+    "orangecinemaseries"
+   ]
+  },
+  {
+   "name": "OCtele",
+   "tvg_id": "OCtele.fr",
+   "logo_key": "octele",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "OFIVE TV",
+   "tvg_id": "OFIVETV.fr",
+   "logo_key": "ofive",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "OL TV",
+   "tvg_id": "OLTV.fr",
+   "logo_key": "ol",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Olympia TV",
+   "tvg_id": "OlympiaTV.fr",
+   "logo_key": "olympia",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "P2M TV",
+   "tvg_id": "P2MTV.fr",
+   "logo_key": "p2m",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Paramount Channel Offset",
+   "tvg_id": "ParamountChannelOffset.fr",
+   "logo_key": "paramountchanneloffset",
+   "logo": true,
+   "aliases": [
+    "paramountchanneldecale"
+   ]
+  },
+  {
+   "name": "Paris Premiere",
+   "tvg_id": "ParisPremiere.fr",
+   "logo_key": "parispremiere",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pearl Diffusion",
+   "tvg_id": "PearlDiffusion.fr",
+   "logo_key": "pearldiffusion",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Persiana 1",
+   "tvg_id": "Persiana1.fr",
+   "logo_key": "persiana1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Persiana Billboard",
+   "tvg_id": "PersianaBillboard.fr",
+   "logo_key": "persianabillboard",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Persiana Cinema",
+   "tvg_id": "PersianaCinema.fr",
+   "logo_key": "persianacinema",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Persiana Comedy",
+   "tvg_id": "PersianaComedy.fr",
+   "logo_key": "persianacomedy",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Persiana Docs",
+   "tvg_id": "PersianaDocs.fr",
+   "logo_key": "persianadocs",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Persiana Emirates",
+   "tvg_id": "PersianaEmirates.fr",
+   "logo_key": "persianaemirates",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Persiana Family",
+   "tvg_id": "PersianaFamily.fr",
+   "logo_key": "persianafamily",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Persiana Fight",
+   "tvg_id": "PersianaFight.fr",
+   "logo_key": "persianafight",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Persiana Folk",
+   "tvg_id": "PersianaFolk.fr",
+   "logo_key": "persianafolk",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Persiana HD",
+   "tvg_id": "PersianaHD.fr",
+   "logo_key": "persiana",
+   "logo": false,
+   "aliases": [
+    "persianahd"
+   ]
+  },
+  {
+   "name": "Persiana Iranian",
+   "tvg_id": "PersianaIranian.fr",
+   "logo_key": "persianairanian",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Persiana Junior",
+   "tvg_id": "PersianaJunior.fr",
+   "logo_key": "persianajunior",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Persiana Korea",
+   "tvg_id": "PersianaKorea.fr",
+   "logo_key": "persianakorea",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Persiana Latino",
+   "tvg_id": "PersianaLatino.fr",
+   "logo_key": "persianalatino",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Persiana Medical",
+   "tvg_id": "PersianaMedical.fr",
+   "logo_key": "persianamedical",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Persiana Music",
+   "tvg_id": "PersianaMusic.fr",
+   "logo_key": "persianamusic",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Persiana Nostalgia",
+   "tvg_id": "PersianaNostalgia.fr",
+   "logo_key": "persiananostalgia",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Persiana Plus",
+   "tvg_id": "PersianaPlus.fr",
+   "logo_key": "persianaplus",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Persiana Reality",
+   "tvg_id": "PersianaReality.fr",
+   "logo_key": "persianareality",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Persiana Series",
+   "tvg_id": "PersianaSeries.fr",
+   "logo_key": "persianaseries",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Persiana Sonnati",
+   "tvg_id": "PersianaSonnati.fr",
+   "logo_key": "persianasonnati",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Persiana Sports",
+   "tvg_id": "PersianaSports.fr",
+   "logo_key": "persianasports",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Persiana Sports 2",
+   "tvg_id": "PersianaSports2.fr",
+   "logo_key": "persianasports2",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Persiana Sports 3",
+   "tvg_id": "PersianaSports3.fr",
+   "logo_key": "persianasports3",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Persiana Sports 4",
+   "tvg_id": "PersianaSports4.fr",
+   "logo_key": "persianasports4",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Persiana Teen",
+   "tvg_id": "PersianaTeen.fr",
+   "logo_key": "persianateen",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Persiana Travel",
+   "tvg_id": "PersianaTravel.fr",
+   "logo_key": "persianatravel",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Persiana Turkiye",
+   "tvg_id": "PersianaTurkiye.fr",
+   "logo_key": "persianaturkiye",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Persiana Two",
+   "tvg_id": "PersianaTwo.fr",
+   "logo_key": "persianatwo",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Persiana Vibe",
+   "tvg_id": "PersianaVibe.fr",
+   "logo_key": "persianavibe",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Pink TV",
+   "tvg_id": "PinkTV.fr",
+   "logo_key": "pink",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Piwi+",
+   "tvg_id": "PiwiPlus.fr",
+   "logo_key": "piwi+",
+   "logo": true,
+   "aliases": [
+    "piwiplus"
+   ]
+  },
+  {
+   "name": "Planete+",
+   "tvg_id": "PlanetePlus.fr",
+   "logo_key": "planete+",
+   "logo": true,
+   "aliases": [
+    "planeteplus"
+   ]
+  },
+  {
+   "name": "Planete+ Aventure",
+   "tvg_id": "PlanetePlusAventure.fr",
+   "logo_key": "planete+aventure",
+   "logo": true,
+   "aliases": [
+    "planeteplusaventure",
+    "planete+ae",
+    "planete+actionexperience",
+    "planetenolimit",
+    "planetechoc",
+    "planetefuture",
+    "planetefutur",
+    "forumplanete"
+   ]
+  },
+  {
+   "name": "Planete+ Crime",
+   "tvg_id": "PlanetePlusCrime.fr",
+   "logo_key": "planete+crime",
+   "logo": true,
+   "aliases": [
+    "planetepluscrime",
+    "planete+crime+investigation",
+    "planete+ci",
+    "planete+justice",
+    "planetejustice"
+   ]
+  },
+  {
+   "name": "Playloud TV",
+   "tvg_id": "PlayloudTV.fr",
+   "logo_key": "playloud",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Polar+",
+   "tvg_id": "PolarPlus.fr",
+   "logo_key": "polar+",
+   "logo": true,
+   "aliases": [
+    "polarplus"
+   ]
+  },
+  {
+   "name": "Premium Sports LIVE",
+   "tvg_id": "PremiumSportsLIVE.fr",
+   "logo_key": "premiumsportslive",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pretty TV",
+   "tvg_id": "PrettyTV.fr",
+   "logo_key": "pretty",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Proximus TV RegInfo",
+   "tvg_id": "ProximusTVRegInfo.fr",
+   "logo_key": "proximustvreginfo",
+   "logo": true,
+   "aliases": [
+    "reginfof"
+   ]
+  },
+  {
+   "name": "Public Senat 24/24",
+   "tvg_id": "PublicSenat2424.fr",
+   "logo_key": "publicsenat2424",
+   "logo": true,
+   "aliases": [
+    "publicsenat"
+   ]
+  },
+  {
+   "name": "Puissance TV",
+   "tvg_id": "PuissanceTV.fr",
+   "logo_key": "puissance",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Qwest TV",
+   "tvg_id": "QwestTV.fr",
+   "logo_key": "qwest",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Qwest TV Classical",
+   "tvg_id": "QwestTVClassical.fr",
+   "logo_key": "qwesttvclassical",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Qwest TV Jazz & Beyond",
+   "tvg_id": "QwestTVJazzBeyond.fr",
+   "logo_key": "qwesttvjazzbeyond",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Qwest TV Mix",
+   "tvg_id": "QwestTVMix.fr",
+   "logo_key": "qwesttvmix",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Radio Frontieres",
+   "tvg_id": "RadioFrontieres.fr",
+   "logo_key": "radiofrontieres",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Radio Karaoke",
+   "tvg_id": "RadioKaraoke.fr",
+   "logo_key": "radiokaraoke",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Radio Mont Blanc",
+   "tvg_id": "RadioMontBlanc.fr",
+   "logo_key": "radiomontblanc",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Radio Soleil des Tropiques",
+   "tvg_id": "RadioSoleildesTropiques.fr",
+   "logo_key": "radiosoleildestropiques",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Radio Tele Silo",
+   "tvg_id": "RadioTeleSilo.fr",
+   "logo_key": "radiotelesilo",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Reveil TV SAT",
+   "tvg_id": "ReveilTVSAT.fr",
+   "logo_key": "reveiltvsat",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RFM TV",
+   "tvg_id": "RFMTV.fr",
+   "logo_key": "rfm",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RMC Decouverte",
+   "tvg_id": "RMCDecouverte.fr",
+   "logo_key": "rmcdecouverte",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "RMC Life",
+   "tvg_id": "RMCLife.fr",
+   "logo_key": "rmclife",
+   "logo": false,
+   "aliases": [
+    "cherie25"
+   ]
+  },
+  {
+   "name": "RMC Sport 1",
+   "tvg_id": "RMCSport1.fr",
+   "logo_key": "rmcsport1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RMC Sport 2",
+   "tvg_id": "RMCSport2.fr",
+   "logo_key": "rmcsport2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RMC Sport 3",
+   "tvg_id": "RMCSport3.fr",
+   "logo_key": "rmcsport3",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RMC Sport 4",
+   "tvg_id": "RMCSport4.fr",
+   "logo_key": "rmcsport4",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RMC Sport Access 1",
+   "tvg_id": "RMCSportAccess1.fr",
+   "logo_key": "rmcsportaccess1",
+   "logo": true,
+   "aliases": [
+    "rmcsportaccess"
+   ]
+  },
+  {
+   "name": "RMC Sport Access 2",
+   "tvg_id": "RMCSportAccess2.fr",
+   "logo_key": "rmcsportaccess2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RMC Sport Live 10",
+   "tvg_id": "RMCSportLive10.fr",
+   "logo_key": "rmcsportlive10",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RMC Sport Live 11",
+   "tvg_id": "RMCSportLive11.fr",
+   "logo_key": "rmcsportlive11",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RMC Sport Live 12",
+   "tvg_id": "RMCSportLive12.fr",
+   "logo_key": "rmcsportlive12",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RMC Sport Live 13",
+   "tvg_id": "RMCSportLive13.fr",
+   "logo_key": "rmcsportlive13",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RMC Sport Live 14",
+   "tvg_id": "RMCSportLive14.fr",
+   "logo_key": "rmcsportlive14",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RMC Sport Live 15",
+   "tvg_id": "RMCSportLive15.fr",
+   "logo_key": "rmcsportlive15",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RMC Sport Live 16",
+   "tvg_id": "RMCSportLive16.fr",
+   "logo_key": "rmcsportlive16",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RMC Sport Live 5",
+   "tvg_id": "RMCSportLive5.fr",
+   "logo_key": "rmcsportlive5",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RMC Sport Live 6",
+   "tvg_id": "RMCSportLive6.fr",
+   "logo_key": "rmcsportlive6",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RMC Sport Live 7",
+   "tvg_id": "RMCSportLive7.fr",
+   "logo_key": "rmcsportlive7",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RMC Sport Live 8",
+   "tvg_id": "RMCSportLive8.fr",
+   "logo_key": "rmcsportlive8",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RMC Sport Live 9",
+   "tvg_id": "RMCSportLive9.fr",
+   "logo_key": "rmcsportlive9",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RMC Story",
+   "tvg_id": "RMCStory.fr",
+   "logo_key": "rmcstory",
+   "logo": false,
+   "aliases": [
+    "numero23"
+   ]
+  },
+  {
+   "name": "RT France",
+   "tvg_id": "RTFrance.fr",
+   "logo_key": "rtfrance",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "RTL2",
+   "tvg_id": "RTL2.fr",
+   "logo_key": "rtl2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTVHF",
+   "tvg_id": "RTVHF.fr",
+   "logo_key": "rtvhf",
+   "logo": true,
+   "aliases": [
+    "radiotelehaitiennedefrance"
+   ]
+  },
+  {
+   "name": "RugbyZone.TV",
+   "tvg_id": "RugbyZoneTV.fr",
+   "logo_key": "rugbyzone",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Science & Vie TV",
+   "tvg_id": "ScienceVieTV.fr",
+   "logo_key": "sciencevie",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "SciFi",
+   "tvg_id": "SciFi.fr",
+   "logo_key": "scifi",
+   "logo": false,
+   "aliases": [
+    "syfy",
+    "sf"
+   ]
+  },
+  {
+   "name": "ScreamIN",
+   "tvg_id": "ScreamIN.fr",
+   "logo_key": "screamin",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Seasons",
+   "tvg_id": "Seasons.fr",
+   "logo_key": "seasons",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Senat Direct",
+   "tvg_id": "SenatDirect.fr",
+   "logo_key": "senatdirect",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Serie Club",
+   "tvg_id": "SerieClub.fr",
+   "logo_key": "serieclub",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Short Films TV",
+   "tvg_id": "ShortFilmsTV.fr",
+   "logo_key": "shortfilms",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sikka TV",
+   "tvg_id": "SikkaTV.fr",
+   "logo_key": "sikka",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sony One Blacklist",
+   "tvg_id": "SonyOneBlacklist.fr",
+   "logo_key": "sonyoneblacklist",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sony One Favoris",
+   "tvg_id": "SonyOneFavoris.fr",
+   "logo_key": "sonyonefavoris",
+   "logo": true,
+   "aliases": [
+    "sonyonehitsfaves"
+   ]
+  },
+  {
+   "name": "Sony One Hits Action",
+   "tvg_id": "SonyOneHitsAction.fr",
+   "logo_key": "sonyonehitsaction",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sony One Hits Comedie",
+   "tvg_id": "SonyOneHitsComedie.fr",
+   "logo_key": "sonyonehitscomedie",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sony One Series Comedie",
+   "tvg_id": "SonyOneSeriesComedie.fr",
+   "logo_key": "sonyoneseriescomedie",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sony One Series Thriller",
+   "tvg_id": "SonyOneSeriesThriller.fr",
+   "logo_key": "sonyoneseriesthriller",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sport en France",
+   "tvg_id": "SportenFrance.fr",
+   "logo_key": "sportenfrance",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "SQOOL TV",
+   "tvg_id": "SQOOLTV.fr",
+   "logo_key": "sqool",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Studiocanal",
+   "tvg_id": "Studiocanal.fr",
+   "logo_key": "studiocanal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sud Radio",
+   "tvg_id": "SudRadio.fr",
+   "logo_key": "sudradio",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sud1ere",
+   "tvg_id": "Sud1ere.fr",
+   "logo_key": "sud1ere",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sundance TV",
+   "tvg_id": "SundanceTV.fr",
+   "logo_key": "sundance",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "T18",
+   "tvg_id": "T18.fr",
+   "logo_key": "t18",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TCM Cinema",
+   "tvg_id": "TCMCinema.fr",
+   "logo_key": "tcmcinema",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Tebeo TV",
+   "tvg_id": "TebeoTV.fr",
+   "logo_key": "tebeo",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TebeSud",
+   "tvg_id": "TebeSud.fr",
+   "logo_key": "tebesud",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Tech & Co",
+   "tvg_id": "TechCo.fr",
+   "logo_key": "techco",
+   "logo": false,
+   "aliases": [
+    "01"
+   ]
+  },
+  {
+   "name": "Tele Bocal",
+   "tvg_id": "TeleBocal.fr",
+   "logo_key": "telebocal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TeleAntilles",
+   "tvg_id": "TeleAntilles.fr",
+   "logo_key": "teleantilles",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TeleGohelle",
+   "tvg_id": "TeleGohelle.fr",
+   "logo_key": "telegohelle",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TeleGrenoble",
+   "tvg_id": "TeleGrenoble.fr",
+   "logo_key": "telegrenoble",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Telenantes",
+   "tvg_id": "Telenantes.fr",
+   "logo_key": "telenantes",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Telesud",
+   "tvg_id": "Telesud.fr",
+   "logo_key": "telesud",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TeleToon Africa",
+   "tvg_id": "TeleToonAfrica.fr",
+   "logo_key": "teletoonafrica",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Teletoon+",
+   "tvg_id": "TeletoonPlus.fr",
+   "logo_key": "teletoon+",
+   "logo": false,
+   "aliases": [
+    "teletoonplus",
+    "teletoon"
+   ]
+  },
+  {
+   "name": "Television Locale du Choletais",
+   "tvg_id": "TelevisionLocaleduCholetais.fr",
+   "logo_key": "televisionlocaleducholetais",
+   "logo": true,
+   "aliases": [
+    "tlc"
+   ]
+  },
+  {
+   "name": "Teva",
+   "tvg_id": "Teva.fr",
+   "logo_key": "teva",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TF1",
+   "tvg_id": "TF1.fr",
+   "logo_key": "tf1",
+   "logo": true,
+   "aliases": [
+    "televisionfrancaise1"
+   ]
+  },
+  {
+   "name": "TF1 Series Films",
+   "tvg_id": "TF1SeriesFilms.fr",
+   "logo_key": "tf1seriesfilms",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TFX",
+   "tvg_id": "TFX.fr",
+   "logo_key": "tfx",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TiJi",
+   "tvg_id": "TiJi.fr",
+   "logo_key": "tiji",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TiVi5 Monde",
+   "tvg_id": "TiVi5Monde.fr",
+   "logo_key": "tivi5monde",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TL7",
+   "tvg_id": "TL7.fr",
+   "logo_key": "tl7",
+   "logo": true,
+   "aliases": [
+    "televisionloire7"
+   ]
+  },
+  {
+   "name": "TLC",
+   "tvg_id": "TLC.fr",
+   "logo_key": "tlc",
+   "logo": true,
+   "aliases": [
+    "discoveryrealtime",
+    "discoveryshowcase",
+    "discoveryscience",
+    "thelearningchannel"
+   ]
+  },
+  {
+   "name": "TLVA",
+   "tvg_id": "TLVA.fr",
+   "logo_key": "tlva",
+   "logo": true,
+   "aliases": [
+    "televisionlocaleduvaldargent"
+   ]
+  },
+  {
+   "name": "TMC",
+   "tvg_id": "TMC.fr",
+   "logo_key": "tmc",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Top Sante TV",
+   "tvg_id": "TopSanteTV.fr",
+   "logo_key": "topsante",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Toute l'Histoire",
+   "tvg_id": "ToutelHistoire.fr",
+   "logo_key": "toutelhistoire",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Trace Africa",
+   "tvg_id": "TraceAfrica.fr",
+   "logo_key": "traceafrica",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Trace Afrikora",
+   "tvg_id": "TraceAfrikora.fr",
+   "logo_key": "traceafrikora",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Trace Ayiti",
+   "tvg_id": "TraceAyiti.fr",
+   "logo_key": "traceayiti",
+   "logo": true,
+   "aliases": [
+    "traceprime"
+   ]
+  },
+  {
+   "name": "Trace Brazuca",
+   "tvg_id": "TraceBrazuca.fr",
+   "logo_key": "tracebrazuca",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Trace Caribbean",
+   "tvg_id": "TraceCaribbean.fr",
+   "logo_key": "tracecaribbean",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Trace Gospel",
+   "tvg_id": "TraceGospel.fr",
+   "logo_key": "tracegospel",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Trace Hip-Hop",
+   "tvg_id": "TraceHipHop.fr",
+   "logo_key": "tracehiphop",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Trace Ivoire",
+   "tvg_id": "TraceIvoire.fr",
+   "logo_key": "traceivoire",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Trace Jama",
+   "tvg_id": "TraceJama.fr",
+   "logo_key": "tracejama",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Trace Kitoko",
+   "tvg_id": "TraceKitoko.fr",
+   "logo_key": "tracekitoko",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Trace Latina",
+   "tvg_id": "TraceLatina.fr",
+   "logo_key": "tracelatina",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Trace Mboa",
+   "tvg_id": "TraceMboa.fr",
+   "logo_key": "tracemboa",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Trace Muzika",
+   "tvg_id": "TraceMuzika.fr",
+   "logo_key": "tracemuzika",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Trace Mziki",
+   "tvg_id": "TraceMziki.fr",
+   "logo_key": "tracemziki",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Trace Naija",
+   "tvg_id": "TraceNaija.fr",
+   "logo_key": "tracenaija",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Trace Ngoma",
+   "tvg_id": "TraceNgoma.fr",
+   "logo_key": "tracengoma",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Trace Sport Stars",
+   "tvg_id": "TraceSportStars.fr",
+   "logo_key": "tracesportstars",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Trace Toca",
+   "tvg_id": "TraceToca.fr",
+   "logo_key": "tracetoca",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Trace Urban",
+   "tvg_id": "TraceUrban.fr",
+   "logo_key": "traceurban",
+   "logo": true,
+   "aliases": [
+    "trace"
+   ]
+  },
+  {
+   "name": "Trace Vanilla Islands",
+   "tvg_id": "TraceVanillaIslands.fr",
+   "logo_key": "tracevanillaislands",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Trek",
+   "tvg_id": "Trek.fr",
+   "logo_key": "trek",
+   "logo": true,
+   "aliases": [
+    "escales"
+   ]
+  },
+  {
+   "name": "TTN TV",
+   "tvg_id": "TTNTV.fr",
+   "logo_key": "ttn",
+   "logo": true,
+   "aliases": [
+    "tamiltelevisionnetwork"
+   ]
+  },
+  {
+   "name": "TV Alsace",
+   "tvg_id": "TVAlsace.fr",
+   "logo_key": "tvalsace",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Breizh",
+   "tvg_id": "TVBreizh.fr",
+   "logo_key": "tvbreizh",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Erstein",
+   "tvg_id": "TVErstein.fr",
+   "logo_key": "tverstein",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Finance",
+   "tvg_id": "TVFinance.fr",
+   "logo_key": "tvfinance",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Lourdes",
+   "tvg_id": "TVLourdes.fr",
+   "logo_key": "tvlourdes",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Mulhouse",
+   "tvg_id": "TVMulhouse.fr",
+   "logo_key": "tvmulhouse",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Pitchoun",
+   "tvg_id": "TVPitchoun.fr",
+   "logo_key": "tvpitchoun",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Pitchoun Kids Music",
+   "tvg_id": "TVPitchounKidsMusic.fr",
+   "logo_key": "tvpitchounkidsmusic",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Sud Provence",
+   "tvg_id": "TVSudProvence.fr",
+   "logo_key": "tvsudprovence",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Tarn",
+   "tvg_id": "TVTarn.fr",
+   "logo_key": "tvtarn",
+   "logo": true,
+   "aliases": [
+    "albi"
+   ]
+  },
+  {
+   "name": "TV Tours",
+   "tvg_id": "TVTours.fr",
+   "logo_key": "tvtours",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TV Vendee",
+   "tvg_id": "TVVendee.fr",
+   "logo_key": "tvvendee",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV2COM",
+   "tvg_id": "TV2COM.fr",
+   "logo_key": "tv2com",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV3V",
+   "tvg_id": "TV3V.fr",
+   "logo_key": "tv3v",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV5 Monde",
+   "tvg_id": "TV5Monde.fr",
+   "logo_key": "tv5monde",
+   "logo": false,
+   "aliases": [
+    "tv5"
+   ]
+  },
+  {
+   "name": "TV5 Monde USA",
+   "tvg_id": "TV5MondeUSA.fr",
+   "logo_key": "tv5mondeusa",
+   "logo": true,
+   "aliases": [
+    "tv5mondeetatsunis"
+   ]
+  },
+  {
+   "name": "TV5Monde Africa",
+   "tvg_id": "TV5MondeAfrica.fr",
+   "logo_key": "tv5mondeafrica",
+   "logo": true,
+   "aliases": [
+    "tv5mondeafrique"
+   ]
+  },
+  {
+   "name": "TV5Monde Asia",
+   "tvg_id": "TV5MondeAsia.fr",
+   "logo_key": "tv5mondeasia",
+   "logo": true,
+   "aliases": [
+    "tv5mondeasie"
+   ]
+  },
+  {
+   "name": "TV5MONDE Chefs",
+   "tvg_id": "TV5MONDEChefs.fr",
+   "logo_key": "tv5mondechefs",
+   "logo": true,
+   "aliases": [
+    "tv5monde+chefs"
+   ]
+  },
+  {
+   "name": "TV5Monde Europe",
+   "tvg_id": "TV5MondeEurope.fr",
+   "logo_key": "tv5mondeeurope",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV5Monde France Belgium Switzerland Monaco",
+   "tvg_id": "TV5MondeFranceBelgiumSwitzerlandMonaco.fr",
+   "logo_key": "tv5mondefrancebelgiumswitzerlandmonaco",
+   "logo": true,
+   "aliases": [
+    "tv5mondefrancebelgiquesuissemonaco",
+    "tv5mondefrancebelgiumswitzerland",
+    "tv5monde"
+   ]
+  },
+  {
+   "name": "TV5Monde Info",
+   "tvg_id": "TV5MondeInfo.fr",
+   "logo_key": "tv5mondeinfo",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV5Monde Latin America",
+   "tvg_id": "TV5MondeLatinAmerica.fr",
+   "logo_key": "tv5mondelatinamerica",
+   "logo": true,
+   "aliases": [
+    "tv5mondeameriquelatine"
+   ]
+  },
+  {
+   "name": "TV5Monde Maghreb-Orient",
+   "tvg_id": "TV5MondeMaghrebOrient.fr",
+   "logo_key": "tv5mondemaghreborient",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV5Monde Pacific",
+   "tvg_id": "TV5MondePacific.fr",
+   "logo_key": "tv5mondepacific",
+   "logo": true,
+   "aliases": [
+    "tv5mondepacifique"
+   ]
+  },
+  {
+   "name": "TV5Monde Style",
+   "tvg_id": "TV5MondeStyle.fr",
+   "logo_key": "tv5mondestyle",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV7 Bordeaux",
+   "tvg_id": "TV7Bordeaux.fr",
+   "logo_key": "tv7bordeaux",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV7 Colmar",
+   "tvg_id": "TV7Colmar.fr",
+   "logo_key": "tv7colmar",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV78",
+   "tvg_id": "TV78.fr",
+   "logo_key": "tv78",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV8 Mont-Blanc",
+   "tvg_id": "TV8MontBlanc.fr",
+   "logo_key": "tv8montblanc",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV8 Moselle-Est",
+   "tvg_id": "TV8MoselleEst.fr",
+   "logo_key": "tv8moselleest",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TVLibertes",
+   "tvg_id": "TVLibertes.fr",
+   "logo_key": "tvlibertes",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TVPI",
+   "tvg_id": "TVPI.fr",
+   "logo_key": "tvpi",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TVR",
+   "tvg_id": "TVR.fr",
+   "logo_key": "tvr",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TZiK",
+   "tvg_id": "TZiK.fr",
+   "logo_key": "tzik",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Ubiznews TV",
+   "tvg_id": "UbiznewsTV.fr",
+   "logo_key": "ubiznews",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Ultra Nature",
+   "tvg_id": "UltraNature.fr",
+   "logo_key": "ultranature",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Unearth",
+   "tvg_id": "Unearth.fr",
+   "logo_key": "unearth",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Ushuaia TV",
+   "tvg_id": "UshuaiaTV.fr",
+   "logo_key": "ushuaia",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Via93",
+   "tvg_id": "Via93.fr",
+   "logo_key": "via93",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ViaGuadeloupe",
+   "tvg_id": "ViaGuadeloupe.fr",
+   "logo_key": "viaguadeloupe",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ViaGuyane",
+   "tvg_id": "ViaGuyane.fr",
+   "logo_key": "viaguyane",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ViaMatele",
+   "tvg_id": "ViaMatele.fr",
+   "logo_key": "viamatele",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ViaOccitanie",
+   "tvg_id": "ViaOccitanie.fr",
+   "logo_key": "viaoccitanie",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ViaOccitanie Montpellier",
+   "tvg_id": "ViaOccitanieMontpellier.fr",
+   "logo_key": "viaoccitaniemontpellier",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ViaOccitanie Pays Catalan",
+   "tvg_id": "ViaOccitaniePaysCatalan.fr",
+   "logo_key": "viaoccitaniepayscatalan",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ViaOccitanie Pays Gardois",
+   "tvg_id": "ViaOccitaniePaysGardois.fr",
+   "logo_key": "viaoccitaniepaysgardois",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ViaOccitanie Toulouse",
+   "tvg_id": "ViaOccitanieToulouse.fr",
+   "logo_key": "viaoccitanietoulouse",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "viaTelePaese",
+   "tvg_id": "viaTelePaese.fr",
+   "logo_key": "viatelepaese",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "VL Media",
+   "tvg_id": "VLMedia.fr",
+   "logo_key": "vlmedia",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "VOIE TV",
+   "tvg_id": "VOIETV.fr",
+   "logo_key": "voie",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Voir +",
+   "tvg_id": "VoirPlus.fr",
+   "logo_key": "voir+",
+   "logo": true,
+   "aliases": [
+    "voirplus"
+   ]
+  },
+  {
+   "name": "Vosges TV",
+   "tvg_id": "VosgesTV.fr",
+   "logo_key": "vosges",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "W9",
+   "tvg_id": "W9.fr",
+   "logo_key": "w9",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Warner TV",
+   "tvg_id": "WarnerTV.fr",
+   "logo_key": "warner",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Warner TV Next",
+   "tvg_id": "WarnerTVNext.fr",
+   "logo_key": "warnertvnext",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Wataaa TV",
+   "tvg_id": "WataaaTV.fr",
+   "logo_key": "wataaa",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "WatsUp TV",
+   "tvg_id": "WatsUpTV.fr",
+   "logo_key": "watsup",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Wild Side TV",
+   "tvg_id": "WildSideTV.fr",
+   "logo_key": "wildside",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "XilamTV",
+   "tvg_id": "XilamTV.fr",
+   "logo_key": "xilam",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "zenith",
+   "tvg_id": "zenith.fr",
+   "logo_key": "zenith",
+   "logo": true,
+   "aliases": [
+    "zenth"
+   ]
+  }
+ ]
+}

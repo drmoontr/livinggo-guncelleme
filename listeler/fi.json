@@ -1,0 +1,464 @@
+{
+ "country": "Finland",
+ "code": "fi",
+ "epg": {
+  "open_epg": [
+   "https://www.open-epg.com/files/finland.xml",
+   "https://www.open-epg.com/files/finland1.xml",
+   "https://www.open-epg.com/files/finland2.xml",
+   "https://www.open-epg.com/files/finland3.xml",
+   "https://www.open-epg.com/files/finland4.xml",
+   "https://www.open-epg.com/files/finland5.xml",
+   "https://www.open-epg.com/files/finland6.xml"
+  ]
+ },
+ "channels": [
+  {
+   "name": "ArvasTV",
+   "tvg_id": "ArvasTV.fi",
+   "logo_key": "arvas",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Discovery Channel",
+   "tvg_id": "DiscoveryChannel.fi",
+   "logo_key": "discoverychannel",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Eveo",
+   "tvg_id": "Eveo.fi",
+   "logo_key": "eveo",
+   "logo": true,
+   "aliases": [
+    "tapahtumatveveo"
+   ]
+  },
+  {
+   "name": "Fox",
+   "tvg_id": "Fox.fi",
+   "logo_key": "fox",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Frii",
+   "tvg_id": "Frii.fi",
+   "logo_key": "frii",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Hero",
+   "tvg_id": "Hero.fi",
+   "logo_key": "hero",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Himlen TV7",
+   "tvg_id": "HimlenTV7.fi",
+   "logo_key": "himlentv7",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Hope Channel Finland",
+   "tvg_id": "HopeChannelFinland.fi",
+   "logo_key": "hopechannelfinland",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "INEZ",
+   "tvg_id": "INEZ.fi",
+   "logo_key": "inez",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "IRR-TV",
+   "tvg_id": "IRRTV.fi",
+   "logo_key": "irr",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "IskelmaTV",
+   "tvg_id": "IskelmaTV.fi",
+   "logo_key": "iskelma",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Jim",
+   "tvg_id": "Jim.fi",
+   "logo_key": "jim",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "JRTV Jarviradio",
+   "tvg_id": "JRTVJarviradio.fi",
+   "logo_key": "jrtvjarviradio",
+   "logo": true,
+   "aliases": [
+    "jarviradio"
+   ]
+  },
+  {
+   "name": "KEXTV",
+   "tvg_id": "KEXTV.fi",
+   "logo_key": "kex",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "KotiTV",
+   "tvg_id": "KotiTV.fi",
+   "logo_key": "koti",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "KRS-TV",
+   "tvg_id": "KRSTV.fi",
+   "logo_key": "krs",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kutonen",
+   "tvg_id": "Kutonen.fi",
+   "logo_key": "kutonen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Larsmo Nar-TV",
+   "tvg_id": "LarsmoNarTV.fi",
+   "logo_key": "larsmonar",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Liv",
+   "tvg_id": "Liv.fi",
+   "logo_key": "liv",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Malax Lokal-TV",
+   "tvg_id": "MalaxLokalTV.fi",
+   "logo_key": "malaxlokal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MTV Aitio",
+   "tvg_id": "MTVAitio.fi",
+   "logo_key": "mtvaitio",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MTV Ava",
+   "tvg_id": "MTVAva.fi",
+   "logo_key": "mtvava",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MTV Juniori",
+   "tvg_id": "MTVJuniori.fi",
+   "logo_key": "mtvjuniori",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MTV Sub",
+   "tvg_id": "MTVSub.fi",
+   "logo_key": "mtvsub",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MTV Urheilu 1",
+   "tvg_id": "MTVUrheilu1.fi",
+   "logo_key": "mtvurheilu1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MTV Urheilu 2",
+   "tvg_id": "MTVUrheilu2.fi",
+   "logo_key": "mtvurheilu2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MTV Uutiset",
+   "tvg_id": "MTVUutiset.fi",
+   "logo_key": "mtvuutiset",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MTV Viihde",
+   "tvg_id": "MTVViihde.fi",
+   "logo_key": "mtvviihde",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MTV3",
+   "tvg_id": "MTV3.fi",
+   "logo_key": "mtv3",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Nar-TV",
+   "tvg_id": "NarTV.fi",
+   "logo_key": "nar",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "National Geographic",
+   "tvg_id": "NationalGeographic.fi",
+   "logo_key": "nationalgeographic",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "National Geographic Wild",
+   "tvg_id": "NationalGeographicWild.fi",
+   "logo_key": "nationalgeographicwild",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Navahang TV",
+   "tvg_id": "NavahangTV.fi",
+   "logo_key": "navahang",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Nelonen",
+   "tvg_id": "Nelonen.fi",
+   "logo_key": "nelonen",
+   "logo": true,
+   "aliases": [
+    "numberfour"
+   ]
+  },
+  {
+   "name": "Nopola News",
+   "tvg_id": "NopolaNews.fi",
+   "logo_key": "nopolanews",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Oho Live TV",
+   "tvg_id": "OhoLiveTV.fi",
+   "logo_key": "oholive",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "One Way TV",
+   "tvg_id": "OneWayTV.fi",
+   "logo_key": "oneway",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Onni TV",
+   "tvg_id": "OnniTV.fi",
+   "logo_key": "onni",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "PeTV",
+   "tvg_id": "PeTV.fi",
+   "logo_key": "pe",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Posi TV",
+   "tvg_id": "PosiTV.fi",
+   "logo_key": "posi",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pulsea",
+   "tvg_id": "Pulsea.fi",
+   "logo_key": "pulsea",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "SF-kanalen",
+   "tvg_id": "SFkanalen.fi",
+   "logo_key": "sfkanalen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "SkyShowtime 1",
+   "tvg_id": "SkyShowtime1.fi",
+   "logo_key": "skyshowtime1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "SkyShowtime 2",
+   "tvg_id": "SkyShowtime2.fi",
+   "logo_key": "skyshowtime2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "STAR Channel",
+   "tvg_id": "STARChannel.fi",
+   "logo_key": "starchannel",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Sundom TV",
+   "tvg_id": "SundomTV.fi",
+   "logo_key": "sundom",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Taevas TV7",
+   "tvg_id": "TaevasTV7.fi",
+   "logo_key": "taevastv7",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Taivas TV7",
+   "tvg_id": "TaivasTV7.fi",
+   "logo_key": "taivastv7",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TLC",
+   "tvg_id": "TLC.fi",
+   "logo_key": "tlc",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Finland",
+   "tvg_id": "TVFinland.fi",
+   "logo_key": "tvfinland",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV5",
+   "tvg_id": "TV5.fi",
+   "logo_key": "tv5",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Viaplay 1 Urheilu",
+   "tvg_id": "Viaplay1Urheilu.fi",
+   "logo_key": "viaplay1urheilu",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Viaplay 2 Urheilu",
+   "tvg_id": "Viaplay2Urheilu.fi",
+   "logo_key": "viaplay2urheilu",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Viaplay 3 Urheilu",
+   "tvg_id": "Viaplay3Urheilu.fi",
+   "logo_key": "viaplay3urheilu",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Viaplay TV",
+   "tvg_id": "ViaplayTV.fi",
+   "logo_key": "viaplay",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Viasat Explore",
+   "tvg_id": "ViasatExplore.fi",
+   "logo_key": "viasatexplore",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Viasat History",
+   "tvg_id": "ViasatHistory.fi",
+   "logo_key": "viasathistory",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Viasat Nature",
+   "tvg_id": "ViasatNature.fi",
+   "logo_key": "viasatnature",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "WorTV",
+   "tvg_id": "WorTV.fi",
+   "logo_key": "wor",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Yle Teema & Fem",
+   "tvg_id": "YleTeemaFem.fi",
+   "logo_key": "yleteemafem",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Yle TV1",
+   "tvg_id": "YleTV1.fi",
+   "logo_key": "yletv1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Yle TV2",
+   "tvg_id": "YleTV2.fi",
+   "logo_key": "yletv2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "YleX",
+   "tvg_id": "YleX.fi",
+   "logo_key": "ylex",
+   "logo": false,
+   "aliases": []
+  }
+ ]
+}

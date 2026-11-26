@@ -1,0 +1,4511 @@
+{
+ "country": "United Kingdom",
+ "code": "gb",
+ "epg": {
+  "open_epg": [
+   "https://www.open-epg.com/files/unitedkingdom.xml",
+   "https://www.open-epg.com/files/unitedkingdom1.xml",
+   "https://www.open-epg.com/files/unitedkingdom2.xml",
+   "https://www.open-epg.com/files/unitedkingdom3.xml",
+   "https://www.open-epg.com/files/unitedkingdom4.xml",
+   "https://www.open-epg.com/files/unitedkingdom5.xml",
+   "https://www.open-epg.com/files/unitedkingdom6.xml",
+   "https://www.open-epg.com/files/unitedkingdom7.xml",
+   "https://www.open-epg.com/files/unitedkingdom8.xml",
+   "https://www.open-epg.com/files/unitedkingdom9.xml"
+  ],
+  "iptv_epg": [
+   "https://iptv-epg.org/files/epg-gb.xml"
+  ]
+ },
+ "channels": [
+  {
+   "name": "4seven",
+   "tvg_id": "4seven.uk",
+   "logo_key": "4seven",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "5Action",
+   "tvg_id": "5Action.uk",
+   "logo_key": "5action",
+   "logo": true,
+   "aliases": [
+    "paramountnetwork"
+   ]
+  },
+  {
+   "name": "5SELECT",
+   "tvg_id": "5SELECT.uk",
+   "logo_key": "5select",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "5STAR",
+   "tvg_id": "5STAR.uk",
+   "logo_key": "5star",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "5USA",
+   "tvg_id": "5USA.uk",
+   "logo_key": "5usa",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "8 Out Of 10 Cats",
+   "tvg_id": "8OutOf10Cats.uk",
+   "logo_key": "8outof10cats",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "92 News UK",
+   "tvg_id": "92NewsUK.uk",
+   "logo_key": "92newsuk",
+   "logo": true,
+   "aliases": [
+    "channel92"
+   ]
+  },
+  {
+   "name": "A+ Kids TV",
+   "tvg_id": "APlusKidsTV.uk",
+   "logo_key": "a+kids",
+   "logo": true,
+   "aliases": [
+    "apluskids"
+   ]
+  },
+  {
+   "name": "A1TV UK",
+   "tvg_id": "A1TVUK.uk",
+   "logo_key": "a1tvuk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Aathavan TV",
+   "tvg_id": "AathavanTV.uk",
+   "logo_key": "aathavan",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ACTS TV",
+   "tvg_id": "ACTSTV.uk",
+   "logo_key": "acts",
+   "logo": true,
+   "aliases": [
+    "arisechristiantelevision"
+   ]
+  },
+  {
+   "name": "Afghanistan International",
+   "tvg_id": "AfghanistanInternational.uk",
+   "logo_key": "afghanistaninternational",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "African Movie Channel",
+   "tvg_id": "AfricanMovieChannel.uk",
+   "logo_key": "africanmoviechannel",
+   "logo": true,
+   "aliases": [
+    "amc"
+   ]
+  },
+  {
+   "name": "African Movie Channel Series",
+   "tvg_id": "AfricanMovieChannelSeries.uk",
+   "logo_key": "africanmoviechannelseries",
+   "logo": true,
+   "aliases": [
+    "amcseries"
+   ]
+  },
+  {
+   "name": "Africayo",
+   "tvg_id": "Africayo.uk",
+   "logo_key": "africayo",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Afrobeat TV Entertainment",
+   "tvg_id": "AfrobeatTVEntertainment.uk",
+   "logo_key": "afrobeattventertainment",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Ahlebait TV",
+   "tvg_id": "AhlebaitTV.uk",
+   "logo_key": "ahlebait",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Ahlulbayt TV",
+   "tvg_id": "AhlulbaytTV.uk",
+   "logo_key": "ahlulbayt",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Ahwazna",
+   "tvg_id": "Ahwazna.uk",
+   "logo_key": "ahwazna",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Akaal Channel",
+   "tvg_id": "AkaalChannel.uk",
+   "logo_key": "akaalchannel",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Al Hiwar TV",
+   "tvg_id": "AlHiwarTV.uk",
+   "logo_key": "alhiwar",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Al Mustakillah",
+   "tvg_id": "AlMustakillah.uk",
+   "logo_key": "almustakillah",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Al-Shoub TV",
+   "tvg_id": "AlShoubTV.uk",
+   "logo_key": "alshoub",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Alb UK TV",
+   "tvg_id": "AlbUKTV.uk",
+   "logo_key": "albuk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Almadaria TV",
+   "tvg_id": "AlmadariaTV.uk",
+   "logo_key": "almadaria",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Almagharibia TV",
+   "tvg_id": "AlmagharibiaTV.uk",
+   "logo_key": "almagharibia",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "AMC Europe",
+   "tvg_id": "AMCEurope.uk",
+   "logo_key": "amceurope",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Anand TV",
+   "tvg_id": "AnandTV.uk",
+   "logo_key": "anand",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Animal Planet",
+   "tvg_id": "AnimalPlanet.uk",
+   "logo_key": "animalplanet",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Animal Planet Europe",
+   "tvg_id": "AnimalPlanetEurope.uk",
+   "logo_key": "animalplaneteurope",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Animal Planet Nordic",
+   "tvg_id": "AnimalPlanetNordic.uk",
+   "logo_key": "animalplanetnordic",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Arise News",
+   "tvg_id": "AriseNews.uk",
+   "logo_key": "arisenews",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ARISEPlay",
+   "tvg_id": "ARISEPlay.uk",
+   "logo_key": "ariseplay",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Asena TV",
+   "tvg_id": "AsenaTV.uk",
+   "logo_key": "asena",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "AstraMarket",
+   "tvg_id": "AstraMarket.uk",
+   "logo_key": "astramarket",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ATN Bangla UK",
+   "tvg_id": "ATNBanglaUK.uk",
+   "logo_key": "atnbanglauk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Awraas TV",
+   "tvg_id": "AwraasTV.uk",
+   "logo_key": "awraas",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Ayozat TV",
+   "tvg_id": "AyozatTV.uk",
+   "logo_key": "ayozat",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BabyTV",
+   "tvg_id": "BabyTV.uk",
+   "logo_key": "baby",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Balag TV",
+   "tvg_id": "BalagTV.uk",
+   "logo_key": "balag",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Bangers",
+   "tvg_id": "Bangers.uk",
+   "logo_key": "bangers",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC Alba",
+   "tvg_id": "BBCAlba.uk",
+   "logo_key": "bbcalba",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC Arabic",
+   "tvg_id": "BBCArabic.uk",
+   "logo_key": "bbcarabic",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC Brit",
+   "tvg_id": "BBCBrit.uk",
+   "logo_key": "bbcbrit",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC Drama",
+   "tvg_id": "BBCDrama.uk",
+   "logo_key": "bbcdrama",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC Earth",
+   "tvg_id": "BBCEarth.uk",
+   "logo_key": "bbcearth",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "BBC First",
+   "tvg_id": "BBCFirst.uk",
+   "logo_key": "bbcfirst",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC Four",
+   "tvg_id": "BBCFour.uk",
+   "logo_key": "bbcfour",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "BBC Four/CBeebies",
+   "tvg_id": "BBCFourCBeebies.uk",
+   "logo_key": "bbcfourcbeebies",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC Lifestyle",
+   "tvg_id": "BBCLifestyle.uk",
+   "logo_key": "bbclifestyle",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC News",
+   "tvg_id": "BBCNews.uk",
+   "logo_key": "bbcnews",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC News Pashto",
+   "tvg_id": "BBCNewsPashto.uk",
+   "logo_key": "bbcnewspashto",
+   "logo": true,
+   "aliases": [
+    "bbcafghan",
+    "bbcpashto",
+    "bbcnewsafghanistan"
+   ]
+  },
+  {
+   "name": "BBC Nordic",
+   "tvg_id": "BBCNordic.uk",
+   "logo_key": "bbcnordic",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC One",
+   "tvg_id": "BBCOne.uk",
+   "logo_key": "bbcone",
+   "logo": false,
+   "aliases": [
+    "bbc1",
+    "bbctelevision",
+    "bbctelevisionservice"
+   ]
+  },
+  {
+   "name": "BBC Parliament",
+   "tvg_id": "BBCParliament.uk",
+   "logo_key": "bbcparliament",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "BBC Persian",
+   "tvg_id": "BBCPersian.uk",
+   "logo_key": "bbcpersian",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC Red Button 1",
+   "tvg_id": "BBCRedButton1.uk",
+   "logo_key": "bbcredbutton1",
+   "logo": true,
+   "aliases": [
+    "bbcrb1"
+   ]
+  },
+  {
+   "name": "BBC Red Button 10",
+   "tvg_id": "BBCRedButton10.uk",
+   "logo_key": "bbcredbutton10",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC Red Button 11",
+   "tvg_id": "BBCRedButton11.uk",
+   "logo_key": "bbcredbutton11",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC Red Button 12",
+   "tvg_id": "BBCRedButton12.uk",
+   "logo_key": "bbcredbutton12",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC Red Button 13",
+   "tvg_id": "BBCRedButton13.uk",
+   "logo_key": "bbcredbutton13",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC Red Button 14",
+   "tvg_id": "BBCRedButton14.uk",
+   "logo_key": "bbcredbutton14",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC Red Button 15",
+   "tvg_id": "BBCRedButton15.uk",
+   "logo_key": "bbcredbutton15",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC Red Button 16",
+   "tvg_id": "BBCRedButton16.uk",
+   "logo_key": "bbcredbutton16",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC Red Button 17",
+   "tvg_id": "BBCRedButton17.uk",
+   "logo_key": "bbcredbutton17",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC Red Button 18",
+   "tvg_id": "BBCRedButton18.uk",
+   "logo_key": "bbcredbutton18",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC Red Button 19",
+   "tvg_id": "BBCRedButton19.uk",
+   "logo_key": "bbcredbutton19",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC Red Button 2",
+   "tvg_id": "BBCRedButton2.uk",
+   "logo_key": "bbcredbutton2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC Red Button 20",
+   "tvg_id": "BBCRedButton20.uk",
+   "logo_key": "bbcredbutton20",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC Red Button 21",
+   "tvg_id": "BBCRedButton21.uk",
+   "logo_key": "bbcredbutton21",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC Red Button 22",
+   "tvg_id": "BBCRedButton22.uk",
+   "logo_key": "bbcredbutton22",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC Red Button 23",
+   "tvg_id": "BBCRedButton23.uk",
+   "logo_key": "bbcredbutton23",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC Red Button 24",
+   "tvg_id": "BBCRedButton24.uk",
+   "logo_key": "bbcredbutton24",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC Red Button 3",
+   "tvg_id": "BBCRedButton3.uk",
+   "logo_key": "bbcredbutton3",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC Red Button 4",
+   "tvg_id": "BBCRedButton4.uk",
+   "logo_key": "bbcredbutton4",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC Red Button 5",
+   "tvg_id": "BBCRedButton5.uk",
+   "logo_key": "bbcredbutton5",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC Red Button 6",
+   "tvg_id": "BBCRedButton6.uk",
+   "logo_key": "bbcredbutton6",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC Red Button 7",
+   "tvg_id": "BBCRedButton7.uk",
+   "logo_key": "bbcredbutton7",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC Red Button 8",
+   "tvg_id": "BBCRedButton8.uk",
+   "logo_key": "bbcredbutton8",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC Red Button 9",
+   "tvg_id": "BBCRedButton9.uk",
+   "logo_key": "bbcredbutton9",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC Scotland",
+   "tvg_id": "BBCScotland.uk",
+   "logo_key": "bbcscotland",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "BBC Three",
+   "tvg_id": "BBCThree.uk",
+   "logo_key": "bbcthree",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "BBC Three/CBBC",
+   "tvg_id": "BBCThreeCBBC.uk",
+   "logo_key": "bbcthreecbbc",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BBC Two",
+   "tvg_id": "BBCTwo.uk",
+   "logo_key": "bbctwo",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "BBC UHD 1",
+   "tvg_id": "BBCUHD1.uk",
+   "logo_key": "bbc1",
+   "logo": false,
+   "aliases": [
+    "bbcuhd1"
+   ]
+  },
+  {
+   "name": "BBC UHD 2",
+   "tvg_id": "BBCUHD2.uk",
+   "logo_key": "bbc2",
+   "logo": false,
+   "aliases": [
+    "bbcuhd2"
+   ]
+  },
+  {
+   "name": "BBC UHD 3",
+   "tvg_id": "BBCUHD3.uk",
+   "logo_key": "bbc3",
+   "logo": false,
+   "aliases": [
+    "bbcuhd3"
+   ]
+  },
+  {
+   "name": "BBC UHD 4",
+   "tvg_id": "BBCUHD4.uk",
+   "logo_key": "bbc4",
+   "logo": false,
+   "aliases": [
+    "bbcuhd4"
+   ]
+  },
+  {
+   "name": "BBC UHD 5",
+   "tvg_id": "BBCUHD5.uk",
+   "logo_key": "bbc5",
+   "logo": false,
+   "aliases": [
+    "bbcuhd5"
+   ]
+  },
+  {
+   "name": "Beano TV",
+   "tvg_id": "BeanoTV.uk",
+   "logo_key": "beano",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BEN Television",
+   "tvg_id": "BENTelevision.uk",
+   "logo_key": "bentelevision",
+   "logo": true,
+   "aliases": [
+    "brightentertainmentnetwork"
+   ]
+  },
+  {
+   "name": "Best Direct",
+   "tvg_id": "BestDirect.uk",
+   "logo_key": "bestdirect",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BFBS Extra",
+   "tvg_id": "BFBSExtra.uk",
+   "logo_key": "bfbsextra",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BFBS Sport",
+   "tvg_id": "BFBSSport.uk",
+   "logo_key": "bfbssport",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Bible TV Global",
+   "tvg_id": "BibleTVGlobal.uk",
+   "logo_key": "bibletvglobal",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "BITE",
+   "tvg_id": "BITE.uk",
+   "logo_key": "bite",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Black Diamondz",
+   "tvg_id": "BlackDiamondz.uk",
+   "logo_key": "blackdiamondz",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Blaze",
+   "tvg_id": "Blaze.uk",
+   "logo_key": "blaze",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Bluey",
+   "tvg_id": "Bluey.uk",
+   "logo_key": "bluey",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Boomerang",
+   "tvg_id": "Boomerang.uk",
+   "logo_key": "boomerang",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Brit Asia TV",
+   "tvg_id": "BritAsiaTV.uk",
+   "logo_key": "britasia",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "British Muslim TV",
+   "tvg_id": "BritishMuslimTV.uk",
+   "logo_key": "britishmuslim",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BT Sport Mosaic",
+   "tvg_id": "BTSportMosaic.uk",
+   "logo_key": "btsportmosaic",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "BT Sport Mosaic 2",
+   "tvg_id": "BTSportMosaic2.uk",
+   "logo_key": "btsportmosaic2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Canaf54 TV",
+   "tvg_id": "Canaf54TV.uk",
+   "logo_key": "canaf54",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Cars & Stars TV",
+   "tvg_id": "CarsStarsTV.uk",
+   "logo_key": "carsstars",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Cartoon Network",
+   "tvg_id": "CartoonNetwork.uk",
+   "logo_key": "cartoonnetwork",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Cartoon Network Africa",
+   "tvg_id": "CartoonNetworkAfrica.uk",
+   "logo_key": "cartoonnetworkafrica",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Cartoon Network CEE",
+   "tvg_id": "CartoonNetworkCEE.uk",
+   "logo_key": "cartoonnetworkcee",
+   "logo": false,
+   "aliases": [
+    "cartoonnetwork"
+   ]
+  },
+  {
+   "name": "Cartoon Network MENA",
+   "tvg_id": "CartoonNetworkMENA.uk",
+   "logo_key": "cartoonnetworkmena",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Cartoon Network Western Europe",
+   "tvg_id": "CartoonNetworkWesternEurope.uk",
+   "logo_key": "cartoonnetworkwesterneurope",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Cartoonito",
+   "tvg_id": "Cartoonito.uk",
+   "logo_key": "cartoonito",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Cartoonito CEE",
+   "tvg_id": "CartoonitoCEE.uk",
+   "logo_key": "cartoonitocee",
+   "logo": true,
+   "aliases": [
+    "boomerangcee",
+    "cartoonito"
+   ]
+  },
+  {
+   "name": "Cartoonito MENA",
+   "tvg_id": "CartoonitoMENA.uk",
+   "logo_key": "cartoonitomena",
+   "logo": false,
+   "aliases": [
+    "boomerang"
+   ]
+  },
+  {
+   "name": "Cartoonito Nordic",
+   "tvg_id": "CartoonitoNordic.uk",
+   "logo_key": "cartoonitonordic",
+   "logo": false,
+   "aliases": [
+    "boomerang"
+   ]
+  },
+  {
+   "name": "Cartoonito Western Europe",
+   "tvg_id": "CartoonitoWesternEurope.uk",
+   "logo_key": "cartoonitowesterneurope",
+   "logo": true,
+   "aliases": [
+    "boomerangemea"
+   ]
+  },
+  {
+   "name": "CBBC",
+   "tvg_id": "CBBC.uk",
+   "logo_key": "cbbc",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "CBeebies",
+   "tvg_id": "CBeebies.uk",
+   "logo_key": "cbeebies",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "CBeebies Africa",
+   "tvg_id": "CBeebiesAfrica.uk",
+   "logo_key": "cbeebiesafrica",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "CBeebies Asia",
+   "tvg_id": "CBeebiesAsia.uk",
+   "logo_key": "cbeebiesasia",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "CBeebies Middle East",
+   "tvg_id": "CBeebiesMiddleEast.uk",
+   "logo_key": "cbeebiesmiddleeast",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "CBS Justice Africa",
+   "tvg_id": "CBSJusticeAfrica.uk",
+   "logo_key": "cbsjusticeafrica",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "CBS Reality Africa",
+   "tvg_id": "CBSRealityAfrica.uk",
+   "logo_key": "cbsrealityafrica",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "CBS Reality EMEA",
+   "tvg_id": "CBSRealityEMEA.uk",
+   "logo_key": "cbsrealityemea",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "CGTN Europe",
+   "tvg_id": "CGTNEurope.uk",
+   "logo_key": "cgtneurope",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Challenge",
+   "tvg_id": "Challenge.uk",
+   "logo_key": "challenge",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Channel 4",
+   "tvg_id": "Channel4.uk",
+   "logo_key": "channel4",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Channel 5",
+   "tvg_id": "Channel5.uk",
+   "logo_key": "channel5",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Channel 7 TV",
+   "tvg_id": "Channel7TV.uk",
+   "logo_key": "channel7",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Channel Europe",
+   "tvg_id": "ChannelEurope.uk",
+   "logo_key": "channeleurope",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Channel S",
+   "tvg_id": "ChannelS.uk",
+   "logo_key": "channels",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Chillayo",
+   "tvg_id": "Chillayo.uk",
+   "logo_key": "chillayo",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Chl Line-up",
+   "tvg_id": "ChlLineup.uk",
+   "logo_key": "chllineup",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Cinemachi",
+   "tvg_id": "Cinemachi.uk",
+   "logo_key": "cinemachi",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Cinemachi Action",
+   "tvg_id": "CinemachiAction.uk",
+   "logo_key": "cinemachiaction",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Cinemachi Comedy",
+   "tvg_id": "CinemachiComedy.uk",
+   "logo_key": "cinemachicomedy",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Cinemachi Crime",
+   "tvg_id": "CinemachiCrime.uk",
+   "logo_key": "cinemachicrime",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Cinemachi Docu",
+   "tvg_id": "CinemachiDocu.uk",
+   "logo_key": "cinemachidocu",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Cinemachi Drama",
+   "tvg_id": "CinemachiDrama.uk",
+   "logo_key": "cinemachidrama",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Cinemachi Family",
+   "tvg_id": "CinemachiFamily.uk",
+   "logo_key": "cinemachifamily",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Cinemachi Fantasy",
+   "tvg_id": "CinemachiFantasy.uk",
+   "logo_key": "cinemachifantasy",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Cinemachi Junior",
+   "tvg_id": "CinemachiJunior.uk",
+   "logo_key": "cinemachijunior",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Cinemachi Kids",
+   "tvg_id": "CinemachiKids.uk",
+   "logo_key": "cinemachikids",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Cinemachi Max",
+   "tvg_id": "CinemachiMax.uk",
+   "logo_key": "cinemachimax",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Cinemachi Romance",
+   "tvg_id": "CinemachiRomance.uk",
+   "logo_key": "cinemachiromance",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Cinemachi Scream",
+   "tvg_id": "CinemachiScream.uk",
+   "logo_key": "cinemachiscream",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Cinemachi Series",
+   "tvg_id": "CinemachiSeries.uk",
+   "logo_key": "cinemachiseries",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Cinemachi Urban",
+   "tvg_id": "CinemachiUrban.uk",
+   "logo_key": "cinemachiurban",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Cinemachi Xtra",
+   "tvg_id": "CinemachiXtra.uk",
+   "logo_key": "cinemachixtra",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Classical Harmony",
+   "tvg_id": "ClassicalHarmony.uk",
+   "logo_key": "classicalharmony",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Clubland TV",
+   "tvg_id": "ClublandTV.uk",
+   "logo_key": "clubland",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "CNBC Europe",
+   "tvg_id": "CNBCEurope.uk",
+   "logo_key": "cnbceurope",
+   "logo": false,
+   "aliases": [
+    "cnbcinternational"
+   ]
+  },
+  {
+   "name": "CNBC UK",
+   "tvg_id": "CNBCUK.uk",
+   "logo_key": "cnbcuk",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Comedy Central",
+   "tvg_id": "ComedyCentral.uk",
+   "logo_key": "comedycentral",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Comedy Central Extra",
+   "tvg_id": "ComedyCentralExtra.uk",
+   "logo_key": "comedycentralextra",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Court TV",
+   "tvg_id": "CourtTV.uk",
+   "logo_key": "court",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Craft Extra",
+   "tvg_id": "CraftExtra.uk",
+   "logo_key": "craftextra",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Create and Craft",
+   "tvg_id": "CreateandCraft.uk",
+   "logo_key": "createandcraft",
+   "logo": true,
+   "aliases": [
+    "createcraft"
+   ]
+  },
+  {
+   "name": "Crime + Investigation",
+   "tvg_id": "CrimePlusInvestigation.uk",
+   "logo_key": "crime+investigation",
+   "logo": false,
+   "aliases": [
+    "crimeplusinvestigation"
+   ]
+  },
+  {
+   "name": "Crime + Investigation Benelux",
+   "tvg_id": "CrimePlusInvestigationBenelux.uk",
+   "logo_key": "crime+investigationbenelux",
+   "logo": false,
+   "aliases": [
+    "crimeplusinvestigationbenelux"
+   ]
+  },
+  {
+   "name": "Crime + Investigation CEE",
+   "tvg_id": "CrimePlusInvestigationCEE.uk",
+   "logo_key": "crime+investigationcee",
+   "logo": false,
+   "aliases": [
+    "crimeplusinvestigationcee"
+   ]
+  },
+  {
+   "name": "Cruise1st TV",
+   "tvg_id": "Cruise1stTV.uk",
+   "logo_key": "cruise1st",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Cubayo",
+   "tvg_id": "Cubayo.uk",
+   "logo_key": "cubayo",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "DAZN 1",
+   "tvg_id": "DAZN1.uk",
+   "logo_key": "dazn1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "DAZN 2",
+   "tvg_id": "DAZN2.uk",
+   "logo_key": "dazn2",
+   "logo": true,
+   "aliases": [
+    "dazneleven2",
+    "eleven3",
+    "elevensports2",
+    "elevensports"
+   ]
+  },
+  {
+   "name": "DAZN 3",
+   "tvg_id": "DAZN3.uk",
+   "logo_key": "dazn3",
+   "logo": true,
+   "aliases": [
+    "dazneleven3",
+    "eleven3",
+    "elevensports3",
+    "elevenextra"
+   ]
+  },
+  {
+   "name": "DAZN 4",
+   "tvg_id": "DAZN4.uk",
+   "logo_key": "dazn4",
+   "logo": true,
+   "aliases": [
+    "dazneleven4",
+    "eleven4",
+    "elevensports4"
+   ]
+  },
+  {
+   "name": "DAZN 5",
+   "tvg_id": "DAZN5.uk",
+   "logo_key": "dazn5",
+   "logo": true,
+   "aliases": [
+    "dazneleven5",
+    "eleven5",
+    "elevensports5"
+   ]
+  },
+  {
+   "name": "DAZN 6",
+   "tvg_id": "DAZN6.uk",
+   "logo_key": "dazn6",
+   "logo": true,
+   "aliases": [
+    "dazneleven6",
+    "eleven6",
+    "elevensports6"
+   ]
+  },
+  {
+   "name": "DAZN Combat",
+   "tvg_id": "DAZNCombat.uk",
+   "logo_key": "dazncombat",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "DAZN F1",
+   "tvg_id": "DAZNF1.uk",
+   "logo_key": "daznf1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "DAZN LaLiga",
+   "tvg_id": "DAZNLaLiga.uk",
+   "logo_key": "daznlaliga",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "DAZN LaLiga 2",
+   "tvg_id": "DAZNLaLiga2.uk",
+   "logo_key": "daznlaliga2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "DAZN LaLiga 3",
+   "tvg_id": "DAZNLaLiga3.uk",
+   "logo_key": "daznlaliga3",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "DAZN LaLiga 4",
+   "tvg_id": "DAZNLaLiga4.uk",
+   "logo_key": "daznlaliga4",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "DAZN LaLiga 5",
+   "tvg_id": "DAZNLaLiga5.uk",
+   "logo_key": "daznlaliga5",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "DAZN Pro League 1",
+   "tvg_id": "DAZNProLeague1.uk",
+   "logo_key": "daznproleague1",
+   "logo": true,
+   "aliases": [
+    "daznelevenproleague1",
+    "elevenproleague1",
+    "voosport1",
+    "voofoot"
+   ]
+  },
+  {
+   "name": "DAZN Pro League 2",
+   "tvg_id": "DAZNProLeague2.uk",
+   "logo_key": "daznproleague2",
+   "logo": true,
+   "aliases": [
+    "daznelevenproleague2",
+    "elevenproleague2",
+    "voosport2",
+    "voofoot2"
+   ]
+  },
+  {
+   "name": "DAZN Pro League 3",
+   "tvg_id": "DAZNProLeague3.uk",
+   "logo_key": "daznproleague3",
+   "logo": true,
+   "aliases": [
+    "daznelevenproleague3",
+    "elevenproleague3",
+    "voosport3",
+    "voofoot3"
+   ]
+  },
+  {
+   "name": "DAZN Women's Football",
+   "tvg_id": "DAZNWomensFootball.uk",
+   "logo_key": "daznwomensfootball",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Deen TV",
+   "tvg_id": "DeenTV.uk",
+   "logo_key": "deen",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Der TV",
+   "tvg_id": "DerTV.uk",
+   "logo_key": "der",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Direct Store TV",
+   "tvg_id": "DirectStoreTV.uk",
+   "logo_key": "directstore",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Discover Film",
+   "tvg_id": "DiscoverFilm.uk",
+   "logo_key": "discoverfilm",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Discovery Channel",
+   "tvg_id": "DiscoveryChannel.uk",
+   "logo_key": "discoverychannel",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Discovery Channel Europe",
+   "tvg_id": "DiscoveryChannelEurope.uk",
+   "logo_key": "discoverychanneleurope",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Discovery History",
+   "tvg_id": "DiscoveryHistory.uk",
+   "logo_key": "discoveryhistory",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Discovery Science Europe",
+   "tvg_id": "DiscoveryScienceEurope.uk",
+   "logo_key": "discoveryscienceeurope",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Discovery Turbo",
+   "tvg_id": "DiscoveryTurbo.uk",
+   "logo_key": "discoveryturbo",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Disney Channel Baltics",
+   "tvg_id": "DisneyChannelBaltics.uk",
+   "logo_key": "disneychannelbaltics",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Disney Channel EMEA",
+   "tvg_id": "DisneyChannelEMEA.uk",
+   "logo_key": "disneychannelemea",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Disney Junior Baltics",
+   "tvg_id": "DisneyJuniorBaltics.uk",
+   "logo_key": "disneyjuniorbaltics",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Disney Junior MENA",
+   "tvg_id": "DisneyJuniorMENA.uk",
+   "logo_key": "disneyjuniormena",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Disney Junior Scandinavia",
+   "tvg_id": "DisneyJuniorScandinavia.uk",
+   "logo_key": "disneyjuniorscandinavia",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Disney+ Cinema",
+   "tvg_id": "DisneyPlusCinema.uk",
+   "logo_key": "disney+cinema",
+   "logo": false,
+   "aliases": [
+    "disneypluscinema"
+   ]
+  },
+  {
+   "name": "DM News",
+   "tvg_id": "DMNews.uk",
+   "logo_key": "dmnews",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "DMAX",
+   "tvg_id": "DMAX.uk",
+   "logo_key": "dmax",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Docu Crime",
+   "tvg_id": "DocuCrime.uk",
+   "logo_key": "docucrime",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Docu History",
+   "tvg_id": "DocuHistory.uk",
+   "logo_key": "docuhistory",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Docu Kids",
+   "tvg_id": "DocuKids.uk",
+   "logo_key": "docukids",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Docu Nature",
+   "tvg_id": "DocuNature.uk",
+   "logo_key": "docunature",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Docu People",
+   "tvg_id": "DocuPeople.uk",
+   "logo_key": "docupeople",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Docu Science",
+   "tvg_id": "DocuScience.uk",
+   "logo_key": "docuscience",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Docu Sport",
+   "tvg_id": "DocuSport.uk",
+   "logo_key": "docusport",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Don't Tell The Bride",
+   "tvg_id": "DontTellTheBride.uk",
+   "logo_key": "donttellthebride",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Dunya News UK",
+   "tvg_id": "DunyaNewsUK.uk",
+   "logo_key": "dunyanewsuk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "E4",
+   "tvg_id": "E4.uk",
+   "logo_key": "e4",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "E4 Extra",
+   "tvg_id": "E4Extra.uk",
+   "logo_key": "e4extra",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "EDGEsport",
+   "tvg_id": "EDGEsport.uk",
+   "logo_key": "edgesport",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Elshaddai Television Network",
+   "tvg_id": "ElshaddaiTelevisionNetwork.uk",
+   "logo_key": "elshaddaitelevisionnetwork",
+   "logo": true,
+   "aliases": [
+    "etn"
+   ]
+  },
+  {
+   "name": "Eman Channel",
+   "tvg_id": "EmanChannel.uk",
+   "logo_key": "emanchannel",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "English Club Global",
+   "tvg_id": "EnglishClubGlobal.uk",
+   "logo_key": "englishclubglobal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "English Club TV",
+   "tvg_id": "EnglishClubTV.uk",
+   "logo_key": "englishclub",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ENT Channel",
+   "tvg_id": "ENTChannel.uk",
+   "logo_key": "entchannel",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ENT Family",
+   "tvg_id": "ENTFamily.uk",
+   "logo_key": "entfamily",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Eryal TV",
+   "tvg_id": "EryalTV.uk",
+   "logo_key": "eryal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Euro Genc",
+   "tvg_id": "EuroGenc.uk",
+   "logo_key": "eurogenc",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Eurochannel",
+   "tvg_id": "Eurochannel.uk",
+   "logo_key": "eurochannel",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Eurovision Sport",
+   "tvg_id": "EurovisionSport.uk",
+   "logo_key": "eurovisionsport",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Fadak TV",
+   "tvg_id": "FadakTV.uk",
+   "logo_key": "fadak",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Faith UK",
+   "tvg_id": "FaithUK.uk",
+   "logo_key": "faithuk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Faith World TV",
+   "tvg_id": "FaithWorldTV.uk",
+   "logo_key": "faithworld",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Fashion One",
+   "tvg_id": "FashionOne.uk",
+   "logo_key": "fashionone",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Fashion Television",
+   "tvg_id": "FashionTelevision.uk",
+   "logo_key": "fashiontelevision",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "FIFA+",
+   "tvg_id": "FIFAPlus.uk",
+   "logo_key": "fifa+",
+   "logo": false,
+   "aliases": [
+    "fifaplus"
+   ]
+  },
+  {
+   "name": "FIFA+ Women",
+   "tvg_id": "FIFAPlusWomen.uk",
+   "logo_key": "fifa+women",
+   "logo": true,
+   "aliases": [
+    "fifapluswomen"
+   ]
+  },
+  {
+   "name": "Fight Factor",
+   "tvg_id": "FightFactor.uk",
+   "logo_key": "fightfactor",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Film4",
+   "tvg_id": "Film4.uk",
+   "logo_key": "film4",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Five Somali TV",
+   "tvg_id": "FiveSomaliTV.uk",
+   "logo_key": "fivesomali",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Flame",
+   "tvg_id": "Flame.uk",
+   "logo_key": "flame",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Flow1",
+   "tvg_id": "Flow1.uk",
+   "logo_key": "flow1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "FMTV",
+   "tvg_id": "FMTV.uk",
+   "logo_key": "fm",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Food Network",
+   "tvg_id": "FoodNetwork.uk",
+   "logo_key": "foodnetwork",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Foodies",
+   "tvg_id": "Foodies.uk",
+   "logo_key": "foodies",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Foodxp",
+   "tvg_id": "Foodxp.uk",
+   "logo_key": "foodxp",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Garshom TV",
+   "tvg_id": "GarshomTV.uk",
+   "logo_key": "garshom",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GB News",
+   "tvg_id": "GBNews.uk",
+   "logo_key": "gbnews",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Gemporia",
+   "tvg_id": "Gemporia.uk",
+   "logo_key": "gemporia",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GINX TV",
+   "tvg_id": "GINXTV.uk",
+   "logo_key": "ginx",
+   "logo": true,
+   "aliases": [
+    "ginxesports"
+   ]
+  },
+  {
+   "name": "Glazy",
+   "tvg_id": "Glazy.uk",
+   "logo_key": "glazy",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GOD TV",
+   "tvg_id": "GODTV.uk",
+   "logo_key": "god",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GOD TV Asia",
+   "tvg_id": "GODTVAsia.uk",
+   "logo_key": "godtvasia",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Goodnews TV",
+   "tvg_id": "GoodnewsTV.uk",
+   "logo_key": "goodnews",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GREAT! action",
+   "tvg_id": "GREATaction.uk",
+   "logo_key": "greataction",
+   "logo": true,
+   "aliases": [
+    "greatmoviesaction",
+    "sonymoviesaction",
+    "movies4men",
+    "matineemovies"
+   ]
+  },
+  {
+   "name": "GREAT! movies",
+   "tvg_id": "GREATmovies.uk",
+   "logo_key": "greatmovies",
+   "logo": true,
+   "aliases": [
+    "sonymovies",
+    "sonymoviechannel",
+    "movies4men2",
+    "actionmax",
+    "badmovies"
+   ]
+  },
+  {
+   "name": "GREAT! mystery",
+   "tvg_id": "GREATmystery.uk",
+   "logo_key": "greatmystery",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "GREAT! romance",
+   "tvg_id": "GREATromance.uk",
+   "logo_key": "greatromance",
+   "logo": true,
+   "aliases": [
+    "greatchristmas",
+    "greatmoviesclassic",
+    "greatmovieschristmas",
+    "sonymoviesclassic",
+    "sonymovieschristmas",
+    "truemovies",
+    "truemovies1",
+    "movies333"
+   ]
+  },
+  {
+   "name": "GREAT! tv",
+   "tvg_id": "GREATtv.uk",
+   "logo_key": "great",
+   "logo": true,
+   "aliases": [
+    "sonychannel",
+    "trueentertainment",
+    "showcase",
+    "animecentral"
+   ]
+  },
+  {
+   "name": "Greek TV London",
+   "tvg_id": "GreekTVLondon.uk",
+   "logo_key": "greektvlondon",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "HadiTV",
+   "tvg_id": "HadiTV.uk",
+   "logo_key": "hadi",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Hala London",
+   "tvg_id": "HalaLondon.uk",
+   "logo_key": "halalondon",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Hala London TV Cartoon",
+   "tvg_id": "HalaLondonTVCartoon.uk",
+   "logo_key": "halalondontvcartoon",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Hala London TV Movies",
+   "tvg_id": "HalaLondonTVMovies.uk",
+   "logo_key": "halalondontvmovies",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Hala London TV Series",
+   "tvg_id": "HalaLondonTVSeries.uk",
+   "logo_key": "halalondontvseries",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Hasti TV",
+   "tvg_id": "HastiTV.uk",
+   "logo_key": "hasti",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Health & Wellness",
+   "tvg_id": "HealthWellness.uk",
+   "logo_key": "healthwellness",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Hellenic TV",
+   "tvg_id": "HellenicTV.uk",
+   "logo_key": "hellenic",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Hidayat TV",
+   "tvg_id": "HidayatTV.uk",
+   "logo_key": "hidayat",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "High Street TV 1",
+   "tvg_id": "HighStreetTV1.uk",
+   "logo_key": "highstreettv1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "High Street TV 2",
+   "tvg_id": "HighStreetTV2.uk",
+   "logo_key": "highstreettv2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "High Street TV 3",
+   "tvg_id": "HighStreetTV3.uk",
+   "logo_key": "highstreettv3",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "High Street TV 4",
+   "tvg_id": "HighStreetTV4.uk",
+   "logo_key": "highstreettv4",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "History Hit",
+   "tvg_id": "HistoryHit.uk",
+   "logo_key": "historyhit",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Hobby Maker",
+   "tvg_id": "HobbyMaker.uk",
+   "logo_key": "hobbymaker",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Homey's",
+   "tvg_id": "Homeys.uk",
+   "logo_key": "homeys",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Hope Channel UK",
+   "tvg_id": "HopeChannelUK.uk",
+   "logo_key": "hopechanneluk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Horn Cable TV",
+   "tvg_id": "HornCableTV.uk",
+   "logo_key": "horncable",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "HorrorXtra",
+   "tvg_id": "HorrorXtra.uk",
+   "logo_key": "horrorxtra",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Horse & Country TV",
+   "tvg_id": "HorseCountryTV.uk",
+   "logo_key": "horsecountry",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "IBC Bakthi",
+   "tvg_id": "IBCBakthi.uk",
+   "logo_key": "ibcbakthi",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "IBC Comedy",
+   "tvg_id": "IBCComedy.uk",
+   "logo_key": "ibccomedy",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "IBC Music",
+   "tvg_id": "IBCMusic.uk",
+   "logo_key": "ibcmusic",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "IBC Siluvai",
+   "tvg_id": "IBCSiluvai.uk",
+   "logo_key": "ibcsiluvai",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "IBC Tamil",
+   "tvg_id": "IBCTamil.uk",
+   "logo_key": "ibctamil",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "IBC Tamil Canada",
+   "tvg_id": "IBCTamilCanada.uk",
+   "logo_key": "ibctamilcanada",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "IBC Tamil Sri Lanka",
+   "tvg_id": "IBCTamilSriLanka.uk",
+   "logo_key": "ibctamilsrilanka",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Ideal World TV",
+   "tvg_id": "IdealWorldTV.uk",
+   "logo_key": "idealworld",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Intense",
+   "tvg_id": "Intense.uk",
+   "logo_key": "intense",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Investigation Discovery",
+   "tvg_id": "InvestigationDiscovery.uk",
+   "logo_key": "investigationdiscovery",
+   "logo": false,
+   "aliases": [
+    "iduk"
+   ]
+  },
+  {
+   "name": "Ion TV",
+   "tvg_id": "IonTV.uk",
+   "logo_key": "ion",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Iqra Bangla",
+   "tvg_id": "IqraBangla.uk",
+   "logo_key": "iqrabangla",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Iqra TV",
+   "tvg_id": "IqraTV.uk",
+   "logo_key": "iqra",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Iran International",
+   "tvg_id": "IranInternational.uk",
+   "logo_key": "iraninternational",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "IraneFarda TV",
+   "tvg_id": "IraneFardaTV.uk",
+   "logo_key": "iranefarda",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Islam Channel",
+   "tvg_id": "IslamChannel.uk",
+   "logo_key": "islamchannel",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Islam Channel Urdu",
+   "tvg_id": "IslamChannelUrdu.uk",
+   "logo_key": "islamchannelurdu",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Islam TV",
+   "tvg_id": "IslamTV.uk",
+   "logo_key": "islam",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ITV Quiz",
+   "tvg_id": "ITVQuiz.uk",
+   "logo_key": "itvquiz",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "ITV1",
+   "tvg_id": "ITV1.uk",
+   "logo_key": "itv1",
+   "logo": true,
+   "aliases": [
+    "itv"
+   ]
+  },
+  {
+   "name": "ITV2",
+   "tvg_id": "ITV2.uk",
+   "logo_key": "itv2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ITV3",
+   "tvg_id": "ITV3.uk",
+   "logo_key": "itv3",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ITV4",
+   "tvg_id": "ITV4.uk",
+   "logo_key": "itv4",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Jail",
+   "tvg_id": "Jail.uk",
+   "logo_key": "jail",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Jewellery Maker",
+   "tvg_id": "JewelleryMaker.uk",
+   "logo_key": "jewellerymaker",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "JimJam Europe",
+   "tvg_id": "JimJamEurope.uk",
+   "logo_key": "jimjameurope",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "JimJam MEA",
+   "tvg_id": "JimJamMEA.uk",
+   "logo_key": "jimjammea",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "JKM Church TV",
+   "tvg_id": "JKMChurchTV.uk",
+   "logo_key": "jkmchurch",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "JML Direct TV",
+   "tvg_id": "JMLDirectTV.uk",
+   "logo_key": "jmldirect",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Juwelo",
+   "tvg_id": "Juwelo.uk",
+   "logo_key": "juwelo",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kalemeh TV",
+   "tvg_id": "KalemehTV.uk",
+   "logo_key": "kalemeh",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kalsan TV",
+   "tvg_id": "KalsanTV.uk",
+   "logo_key": "kalsan",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kanal Hayat International",
+   "tvg_id": "KanalHayatInternational.uk",
+   "logo_key": "kanalhayatinternational",
+   "logo": false,
+   "aliases": [
+    "kanalhayatuluslararasi"
+   ]
+  },
+  {
+   "name": "Kanal Jadid",
+   "tvg_id": "KanalJadid.uk",
+   "logo_key": "kanaljadid",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kanshi TV",
+   "tvg_id": "KanshiTV.uk",
+   "logo_key": "kanshi",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "KICC TV",
+   "tvg_id": "KICCTV.uk",
+   "logo_key": "kicc",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kick",
+   "tvg_id": "Kick.uk",
+   "logo_key": "kick",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kids Series",
+   "tvg_id": "KidsSeries.uk",
+   "logo_key": "kidsseries",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "KMTV",
+   "tvg_id": "KMTV.uk",
+   "logo_key": "km",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kool London Radio",
+   "tvg_id": "KoolLondonRadio.uk",
+   "logo_key": "koollondonradio",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "KTV Global",
+   "tvg_id": "KTVGlobal.uk",
+   "logo_key": "ktvglobal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Kurd Music TV",
+   "tvg_id": "KurdMusicTV.uk",
+   "logo_key": "kurdmusic",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "LA Muscle TV",
+   "tvg_id": "LAMuscleTV.uk",
+   "logo_key": "lamuscle",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Lady Series",
+   "tvg_id": "LadySeries.uk",
+   "logo_key": "ladyseries",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Latest TV",
+   "tvg_id": "LatestTV.uk",
+   "logo_key": "latest",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "LCBN TV",
+   "tvg_id": "LCBNTV.uk",
+   "logo_key": "lcbn",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Legend",
+   "tvg_id": "Legend.uk",
+   "logo_key": "legend",
+   "logo": true,
+   "aliases": [
+    "horrorchannel",
+    "zonehorror",
+    "thehorrorchannel"
+   ]
+  },
+  {
+   "name": "LFCTV",
+   "tvg_id": "LFCTV.uk",
+   "logo_key": "lfc",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Lolly Kids",
+   "tvg_id": "LollyKids.uk",
+   "logo_key": "lollykids",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "London Live",
+   "tvg_id": "LondonLive.uk",
+   "logo_key": "londonlive",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "LuaLua TV",
+   "tvg_id": "LuaLuaTV.uk",
+   "logo_key": "lualua",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Luxe & Life",
+   "tvg_id": "LuxeLife.uk",
+   "logo_key": "luxelife",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Magnavision TV",
+   "tvg_id": "MagnavisionTV.uk",
+   "logo_key": "magnavision",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Manchester TV",
+   "tvg_id": "ManchesterTV.uk",
+   "logo_key": "manchester",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Master Chefs Academy TV",
+   "tvg_id": "MasterChefsAcademyTV.uk",
+   "logo_key": "masterchefsacademy",
+   "logo": true,
+   "aliases": [
+    "mca",
+    "tv"
+   ]
+  },
+  {
+   "name": "MATV Channel",
+   "tvg_id": "MATVChannel.uk",
+   "logo_key": "matvchannel",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MBC",
+   "tvg_id": "MBC.uk",
+   "logo_key": "mbc",
+   "logo": false,
+   "aliases": [
+    "mybingechannel"
+   ]
+  },
+  {
+   "name": "Melodia RU",
+   "tvg_id": "MelodiaRU.uk",
+   "logo_key": "melodiaru",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Men Series",
+   "tvg_id": "MenSeries.uk",
+   "logo_key": "menseries",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Miracle TV",
+   "tvg_id": "MiracleTV.uk",
+   "logo_key": "miracle",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MM Somali TV",
+   "tvg_id": "MMSomaliTV.uk",
+   "logo_key": "mmsomali",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Moonbug Kids",
+   "tvg_id": "MoonbugKids.uk",
+   "logo_key": "moonbugkids",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "More4",
+   "tvg_id": "More4.uk",
+   "logo_key": "more4",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Morphle",
+   "tvg_id": "Morphle.uk",
+   "logo_key": "morphle",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Most Haunted",
+   "tvg_id": "MostHaunted.uk",
+   "logo_key": "mosthaunted",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Movies 24",
+   "tvg_id": "Movies24.uk",
+   "logo_key": "movies24",
+   "logo": true,
+   "aliases": [
+    "christmas24"
+   ]
+  },
+  {
+   "name": "Movies 24 +",
+   "tvg_id": "Movies24Plus.uk",
+   "logo_key": "movies24+",
+   "logo": true,
+   "aliases": [
+    "movies24plus",
+    "christmas24+"
+   ]
+  },
+  {
+   "name": "Mr Bean Animated",
+   "tvg_id": "MrBeanAnimated.uk",
+   "logo_key": "mrbeananimated",
+   "logo": true,
+   "aliases": [
+    "mrbeantheanimatedseries",
+    "mrbean"
+   ]
+  },
+  {
+   "name": "Mr Bean Live Action",
+   "tvg_id": "MrBeanLiveAction.uk",
+   "logo_key": "mrbeanliveaction",
+   "logo": true,
+   "aliases": [
+    "mrbean"
+   ]
+  },
+  {
+   "name": "MTA1 World",
+   "tvg_id": "MTA1World.uk",
+   "logo_key": "mta1world",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MTA2 Europe",
+   "tvg_id": "MTA2Europe.uk",
+   "logo_key": "mta2europe",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MTA3 Al-Arabia",
+   "tvg_id": "MTA3AlArabia.uk",
+   "logo_key": "mta3alarabia",
+   "logo": true,
+   "aliases": [
+    "mta3"
+   ]
+  },
+  {
+   "name": "MTA4 Africa",
+   "tvg_id": "MTA4Africa.uk",
+   "logo_key": "mta4africa",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MTA5 Africa",
+   "tvg_id": "MTA5Africa.uk",
+   "logo_key": "mta5africa",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MTA6 Asia",
+   "tvg_id": "MTA6Asia.uk",
+   "logo_key": "mta6asia",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MTA7 Asia",
+   "tvg_id": "MTA7Asia.uk",
+   "logo_key": "mta7asia",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MTA8 America",
+   "tvg_id": "MTA8America.uk",
+   "logo_key": "mta8america",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MTV",
+   "tvg_id": "MTV.uk",
+   "logo_key": "mtv",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "MTV Global",
+   "tvg_id": "MTVGlobal.uk",
+   "logo_key": "mtvglobal",
+   "logo": true,
+   "aliases": [
+    "mtveuropean",
+    "mtveurope"
+   ]
+  },
+  {
+   "name": "MTV Music",
+   "tvg_id": "MTVMusic.uk",
+   "logo_key": "mtvmusic",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Music & Memories",
+   "tvg_id": "MusicMemories.uk",
+   "logo_key": "musicmemories",
+   "logo": false,
+   "aliases": [
+    "spotlight",
+    "keepitcountry"
+   ]
+  },
+  {
+   "name": "Must Have Ideas",
+   "tvg_id": "MustHaveIdeas.uk",
+   "logo_key": "musthaveideas",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Mutembei TV",
+   "tvg_id": "MutembeiTV.uk",
+   "logo_key": "mutembei",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MUTV",
+   "tvg_id": "MUTV.uk",
+   "logo_key": "mu",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "MyTime Movie Network",
+   "tvg_id": "MyTimeMovieNetwork.uk",
+   "logo_key": "mytimemovienetwork",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "National Geographic",
+   "tvg_id": "NationalGeographic.uk",
+   "logo_key": "nationalgeographic",
+   "logo": false,
+   "aliases": [
+    "nationalgeographicchannel",
+    "natgeo"
+   ]
+  },
+  {
+   "name": "National Geographic Middle East",
+   "tvg_id": "NationalGeographicMiddleEast.uk",
+   "logo_key": "nationalgeographicmiddleeast",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "National Geographic Wild",
+   "tvg_id": "NationalGeographicWild.uk",
+   "logo_key": "nationalgeographicwild",
+   "logo": false,
+   "aliases": [
+    "natgeowild"
+   ]
+  },
+  {
+   "name": "National Geographic Wild Middle East",
+   "tvg_id": "NationalGeographicWildMiddleEast.uk",
+   "logo_key": "nationalgeographicwildmiddleeast",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Nepali TV",
+   "tvg_id": "NepaliTV.uk",
+   "logo_key": "nepali",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "New Media TV",
+   "tvg_id": "NewMediaTV.uk",
+   "logo_key": "newmedia",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "New Vision",
+   "tvg_id": "NewVision.uk",
+   "logo_key": "newvision",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Nicely",
+   "tvg_id": "Nicely.uk",
+   "logo_key": "nicely",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Nick Jr.",
+   "tvg_id": "NickJr.uk",
+   "logo_key": "nickjr",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Nick Jr. Too",
+   "tvg_id": "NickJrToo.uk",
+   "logo_key": "nickjrtoo",
+   "logo": true,
+   "aliases": [
+    "nickjrpeppa",
+    "nickjr2"
+   ]
+  },
+  {
+   "name": "Nickelodeon",
+   "tvg_id": "Nickelodeon.uk",
+   "logo_key": "nickelodeon",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Nickelodeon Global",
+   "tvg_id": "NickelodeonGlobal.uk",
+   "logo_key": "nickelodeonglobal",
+   "logo": false,
+   "aliases": [
+    "nickelodeoncee",
+    "nickelodeoneurope"
+   ]
+  },
+  {
+   "name": "Nicktoons",
+   "tvg_id": "Nicktoons.uk",
+   "logo_key": "nicktoons",
+   "logo": false,
+   "aliases": [
+    "nickloudhouse"
+   ]
+  },
+  {
+   "name": "Nolly Africa",
+   "tvg_id": "NollyAfrica.uk",
+   "logo_key": "nollyafrica",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Noor TV",
+   "tvg_id": "NoorTV.uk",
+   "logo_key": "noor",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "North Africa TV",
+   "tvg_id": "NorthAfricaTV.uk",
+   "logo_key": "northafrica",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Now 70s",
+   "tvg_id": "Now70s.uk",
+   "logo_key": "now70s",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Now 80s",
+   "tvg_id": "Now80s.uk",
+   "logo_key": "now80s",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Now 90s00s",
+   "tvg_id": "Now90s00s.uk",
+   "logo_key": "now90s00s",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "NOW Rock",
+   "tvg_id": "NOWRock.uk",
+   "logo_key": "nowrock",
+   "logo": true,
+   "aliases": [
+    "now90s",
+    "chilled90s",
+    "chilled",
+    "planetpop",
+    "massiverb",
+    "wtf"
+   ]
+  },
+  {
+   "name": "NVTV",
+   "tvg_id": "NVTV.uk",
+   "logo_key": "nv",
+   "logo": true,
+   "aliases": [
+    "northernvisionstelevision"
+   ]
+  },
+  {
+   "name": "Ocean News Network",
+   "tvg_id": "OceanNewsNetwork.uk",
+   "logo_key": "oceannewsnetwork",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Omega TV UK",
+   "tvg_id": "OmegaTVUK.uk",
+   "logo_key": "omegatvuk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Panjab TV",
+   "tvg_id": "PanjabTV.uk",
+   "logo_key": "panjab",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Party's",
+   "tvg_id": "Partys.uk",
+   "logo_key": "partys",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "PBC",
+   "tvg_id": "PBC.uk",
+   "logo_key": "pbc",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "PBS America",
+   "tvg_id": "PBSAmerica.uk",
+   "logo_key": "pbsamerica",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pet & Pal",
+   "tvg_id": "PetPal.uk",
+   "logo_key": "petpal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Planet Eat TV",
+   "tvg_id": "PlanetEatTV.uk",
+   "logo_key": "planeteat",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Planet Fun",
+   "tvg_id": "PlanetFun.uk",
+   "logo_key": "planetfun",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Planet Knowledge",
+   "tvg_id": "PlanetKnowledge.uk",
+   "logo_key": "planetknowledge",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Politics Punjab",
+   "tvg_id": "PoliticsPunjab.uk",
+   "logo_key": "politicspunjab",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pop",
+   "tvg_id": "Pop.uk",
+   "logo_key": "pop",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pop Max",
+   "tvg_id": "PopMax.uk",
+   "logo_key": "popmax",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Pop Up",
+   "tvg_id": "PopUp.uk",
+   "logo_key": "popup",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Potta-Divine TV UK",
+   "tvg_id": "PottaDivineTVUK.uk",
+   "logo_key": "pottadivinetvuk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Psychic Today",
+   "tvg_id": "PsychicToday.uk",
+   "logo_key": "psychictoday",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Quest",
+   "tvg_id": "Quest.uk",
+   "logo_key": "quest",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Quest Red",
+   "tvg_id": "QuestRed.uk",
+   "logo_key": "questred",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "QVC",
+   "tvg_id": "QVC.uk",
+   "logo_key": "qvc",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "QVC Beauty",
+   "tvg_id": "QVCBeauty.uk",
+   "logo_key": "qvcbeauty",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "QVC Extra",
+   "tvg_id": "QVCExtra.uk",
+   "logo_key": "qvcextra",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "QVC Style",
+   "tvg_id": "QVCStyle.uk",
+   "logo_key": "qvcstyle",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "QVC2",
+   "tvg_id": "QVC2.uk",
+   "logo_key": "qvc2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Racing TV",
+   "tvg_id": "RacingTV.uk",
+   "logo_key": "racing",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RAW TV",
+   "tvg_id": "RAWTV.uk",
+   "logo_key": "tv",
+   "logo": true,
+   "aliases": [
+    "raw"
+   ]
+  },
+  {
+   "name": "Real Stories",
+   "tvg_id": "RealStories.uk",
+   "logo_key": "realstories",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Real Wild",
+   "tvg_id": "RealWild.uk",
+   "logo_key": "realwild",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Really",
+   "tvg_id": "Really.uk",
+   "logo_key": "really",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Rep Dat TV",
+   "tvg_id": "RepDatTV.uk",
+   "logo_key": "repdat",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Revelation TV",
+   "tvg_id": "RevelationTV.uk",
+   "logo_key": "revelation",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Rewind TV",
+   "tvg_id": "RewindTV.uk",
+   "logo_key": "rewind",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ROK",
+   "tvg_id": "ROK.uk",
+   "logo_key": "rok",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ROK 2",
+   "tvg_id": "ROK2.uk",
+   "logo_key": "rok2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ROK GH",
+   "tvg_id": "ROKGH.uk",
+   "logo_key": "rokgh",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ROK UK",
+   "tvg_id": "ROKUK.uk",
+   "logo_key": "rokuk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTN Somali TV",
+   "tvg_id": "RTNSomaliTV.uk",
+   "logo_key": "rtnsomali",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "RTV Diamant",
+   "tvg_id": "RTVDiamant.uk",
+   "logo_key": "rtvdiamant",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "S4C",
+   "tvg_id": "S4C.uk",
+   "logo_key": "s4c",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Safeer TV",
+   "tvg_id": "SafeerTV.uk",
+   "logo_key": "safeer",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sangat TV",
+   "tvg_id": "SangatTV.uk",
+   "logo_key": "sangat",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sawt Alitra TV",
+   "tvg_id": "SawtAlitraTV.uk",
+   "logo_key": "sawtalitra",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Setanta Sports",
+   "tvg_id": "SetantaSports.uk",
+   "logo_key": "setantasports",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Setareh TV",
+   "tvg_id": "SetarehTV.uk",
+   "logo_key": "setareh",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Sewing Street",
+   "tvg_id": "SewingStreet.uk",
+   "logo_key": "sewingstreet",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Shabelle TV",
+   "tvg_id": "ShabelleTV.uk",
+   "logo_key": "shabelle",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Shaun the Sheep & Friends",
+   "tvg_id": "ShauntheSheepFriends.uk",
+   "logo_key": "shaunthesheepfriends",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sheffield Live TV",
+   "tvg_id": "SheffieldLiveTV.uk",
+   "logo_key": "sheffieldlive",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ShortsTV",
+   "tvg_id": "ShortsTV.uk",
+   "logo_key": "shorts",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Shots!",
+   "tvg_id": "Shots.uk",
+   "logo_key": "shots",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Sikh Channel",
+   "tvg_id": "SikhChannel.uk",
+   "logo_key": "sikhchannel",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Simaye Azadi",
+   "tvg_id": "SimayeAzadi.uk",
+   "logo_key": "simayeazadi",
+   "logo": true,
+   "aliases": [
+    "irannationaltelevision"
+   ]
+  },
+  {
+   "name": "Siraj TV",
+   "tvg_id": "SirajTV.uk",
+   "logo_key": "siraj",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Sky Arts",
+   "tvg_id": "SkyArts.uk",
+   "logo_key": "skyarts",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sky Atlantic",
+   "tvg_id": "SkyAtlantic.uk",
+   "logo_key": "skyatlantic",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Sky Cinema Action",
+   "tvg_id": "SkyCinemaAction.uk",
+   "logo_key": "skycinemaaction",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Sky Cinema Animation",
+   "tvg_id": "SkyCinemaAnimation.uk",
+   "logo_key": "skycinemaanimation",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sky Cinema Comedy",
+   "tvg_id": "SkyCinemaComedy.uk",
+   "logo_key": "skycinemacomedy",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sky Cinema Drama",
+   "tvg_id": "SkyCinemaDrama.uk",
+   "logo_key": "skycinemadrama",
+   "logo": true,
+   "aliases": [
+    "skycinemachristmas"
+   ]
+  },
+  {
+   "name": "Sky Cinema Family",
+   "tvg_id": "SkyCinemaFamily.uk",
+   "logo_key": "skycinemafamily",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Sky Cinema Greats",
+   "tvg_id": "SkyCinemaGreats.uk",
+   "logo_key": "skycinemagreats",
+   "logo": true,
+   "aliases": [
+    "skycinema80sicons"
+   ]
+  },
+  {
+   "name": "Sky Cinema Hits",
+   "tvg_id": "SkyCinemaHits.uk",
+   "logo_key": "skycinemahits",
+   "logo": false,
+   "aliases": [
+    "skycinemabourne",
+    "skycinemamockingjay"
+   ]
+  },
+  {
+   "name": "Sky Cinema Premiere",
+   "tvg_id": "SkyCinemaPremiere.uk",
+   "logo_key": "skycinemapremiere",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sky Cinema Sci-Fi",
+   "tvg_id": "SkyCinemaSciFi.uk",
+   "logo_key": "skycinemascifi",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sky Cinema Sci-Fi Horror",
+   "tvg_id": "SkyCinemaSciFiHorror.uk",
+   "logo_key": "skycinemascifihorror",
+   "logo": true,
+   "aliases": [
+    "skycinemascifi",
+    "skymoviesscifihorror"
+   ]
+  },
+  {
+   "name": "Sky Cinema Select",
+   "tvg_id": "SkyCinemaSelect.uk",
+   "logo_key": "skycinemaselect",
+   "logo": true,
+   "aliases": [
+    "skycinemafastfurious",
+    "skycinemaheroines",
+    "skycinematolkien",
+    "skycinemabestof2023",
+    "skycinemaharrypotter"
+   ]
+  },
+  {
+   "name": "Sky Cinema Thriller",
+   "tvg_id": "SkyCinemaThriller.uk",
+   "logo_key": "skycinemathriller",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Sky Comedy",
+   "tvg_id": "SkyComedy.uk",
+   "logo_key": "skycomedy",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Sky Crime",
+   "tvg_id": "SkyCrime.uk",
+   "logo_key": "skycrime",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Sky Documentaries",
+   "tvg_id": "SkyDocumentaries.uk",
+   "logo_key": "skydocumentaries",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sky History",
+   "tvg_id": "SkyHistory.uk",
+   "logo_key": "skyhistory",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sky History 2",
+   "tvg_id": "SkyHistory2.uk",
+   "logo_key": "skyhistory2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sky Kids",
+   "tvg_id": "SkyKids.uk",
+   "logo_key": "skykids",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sky Mix",
+   "tvg_id": "SkyMix.uk",
+   "logo_key": "skymix",
+   "logo": true,
+   "aliases": [
+    "pick",
+    "sky3",
+    "skythree"
+   ]
+  },
+  {
+   "name": "Sky Nature",
+   "tvg_id": "SkyNature.uk",
+   "logo_key": "skynature",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sky News",
+   "tvg_id": "SkyNews.uk",
+   "logo_key": "skynews",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sky News International",
+   "tvg_id": "SkyNewsInternational.uk",
+   "logo_key": "skynewsinternational",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Sky News Weather",
+   "tvg_id": "SkyNewsWeather.uk",
+   "logo_key": "skynewsweather",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sky One",
+   "tvg_id": "SkyOne.uk",
+   "logo_key": "skyone",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Sky Pal",
+   "tvg_id": "SkyPal.uk",
+   "logo_key": "skypal",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sky Replay",
+   "tvg_id": "SkyReplay.uk",
+   "logo_key": "skyreplay",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sky Sci-Fi",
+   "tvg_id": "SkySciFi.uk",
+   "logo_key": "skyscifi",
+   "logo": true,
+   "aliases": [
+    "syfy",
+    "scifi",
+    "scifichannel"
+   ]
+  },
+  {
+   "name": "Sky Sports Arena",
+   "tvg_id": "SkySportsArena.uk",
+   "logo_key": "skysportsarena",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sky Sports Box Office",
+   "tvg_id": "SkySportsBoxOffice.uk",
+   "logo_key": "skysportsboxoffice",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sky Sports Cricket",
+   "tvg_id": "SkySportsCricket.uk",
+   "logo_key": "skysportscricket",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sky Sports F1",
+   "tvg_id": "SkySportsF1.uk",
+   "logo_key": "skysportsf1",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sky Sports Football",
+   "tvg_id": "SkySportsFootball.uk",
+   "logo_key": "skysportsfootball",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sky Sports Golf",
+   "tvg_id": "SkySportsGolf.uk",
+   "logo_key": "skysportsgolf",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sky Sports Main Event",
+   "tvg_id": "SkySportsMainEvent.uk",
+   "logo_key": "skysportsmainevent",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sky Sports Mix",
+   "tvg_id": "SkySportsMix.uk",
+   "logo_key": "skysportsmix",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sky Sports News",
+   "tvg_id": "SkySportsNews.uk",
+   "logo_key": "skysportsnews",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sky Sports NFL",
+   "tvg_id": "SkySportsNFL.uk",
+   "logo_key": "skysportsnfl",
+   "logo": true,
+   "aliases": [
+    "skysportsaction",
+    "skysportsusa",
+    "skysports3"
+   ]
+  },
+  {
+   "name": "Sky Sports Premier League",
+   "tvg_id": "SkySportsPremierLeague.uk",
+   "logo_key": "skysportspremierleague",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sky Sports Premier League ROI",
+   "tvg_id": "SkySportsPremierLeagueROI.uk",
+   "logo_key": "skysportspremierleagueroi",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sky Sports Racing",
+   "tvg_id": "SkySportsRacing.uk",
+   "logo_key": "skysportsracing",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sky Sports Tennis",
+   "tvg_id": "SkySportsTennis.uk",
+   "logo_key": "skysportstennis",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sky Sports+",
+   "tvg_id": "SkySportsPlus.uk",
+   "logo_key": "skysports+",
+   "logo": true,
+   "aliases": [
+    "skysportsplus"
+   ]
+  },
+  {
+   "name": "Sky Witness",
+   "tvg_id": "SkyWitness.uk",
+   "logo_key": "skywitness",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Smilie TV",
+   "tvg_id": "SmilieTV.uk",
+   "logo_key": "smilie",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Smithsonian Channel",
+   "tvg_id": "SmithsonianChannel.uk",
+   "logo_key": "smithsonianchannel",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "SMS Somali TV",
+   "tvg_id": "SMSSomaliTV.uk",
+   "logo_key": "smssomali",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Somali Cable TV",
+   "tvg_id": "SomaliCableTV.uk",
+   "logo_key": "somalicable",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "SomNews TV",
+   "tvg_id": "SomNewsTV.uk",
+   "logo_key": "somnews",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Songbird",
+   "tvg_id": "Songbird.uk",
+   "logo_key": "songbird",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sony Max",
+   "tvg_id": "SonyMax.uk",
+   "logo_key": "sonymax",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Space Live powered by sen",
+   "tvg_id": "SpaceLivepoweredbysen.uk",
+   "logo_key": "spacelivepoweredbysen",
+   "logo": true,
+   "aliases": [
+    "spacelive"
+   ]
+  },
+  {
+   "name": "Spark TV",
+   "tvg_id": "SparkTV.uk",
+   "logo_key": "spark",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Speed Factor",
+   "tvg_id": "SpeedFactor.uk",
+   "logo_key": "speedfactor",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sport 24",
+   "tvg_id": "Sport24.uk",
+   "logo_key": "sport24",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sport 24 Extra",
+   "tvg_id": "Sport24Extra.uk",
+   "logo_key": "sport24extra",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sports Tonight",
+   "tvg_id": "SportsTonight.uk",
+   "logo_key": "sportstonight",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Sportyfy",
+   "tvg_id": "Sportyfy.uk",
+   "logo_key": "sportyfy",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "SportyStuff TV",
+   "tvg_id": "SportyStuffTV.uk",
+   "logo_key": "sportystuff",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Star Bharat",
+   "tvg_id": "StarBharat.uk",
+   "logo_key": "starbharat",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Star Gold",
+   "tvg_id": "StarGold.uk",
+   "logo_key": "stargold",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "StarPlus",
+   "tvg_id": "StarPlus.uk",
+   "logo_key": "starplus",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Strongman Champions League",
+   "tvg_id": "StrongmanChampionsLeague.uk",
+   "logo_key": "strongmanchampionsleague",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "STV",
+   "tvg_id": "STV.uk",
+   "logo_key": "stv",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "STV Central",
+   "tvg_id": "STVCentral.uk",
+   "logo_key": "stvcentral",
+   "logo": true,
+   "aliases": [
+    "scottishtelevision"
+   ]
+  },
+  {
+   "name": "STV North",
+   "tvg_id": "STVNorth.uk",
+   "logo_key": "stvnorth",
+   "logo": true,
+   "aliases": [
+    "grampiantelevision"
+   ]
+  },
+  {
+   "name": "Takbeer TV",
+   "tvg_id": "TakbeerTV.uk",
+   "logo_key": "takbeer",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TalkBirmingham",
+   "tvg_id": "TalkBirmingham.uk",
+   "logo_key": "talkbirmingham",
+   "logo": false,
+   "aliases": [
+    "localtvbirmingham",
+    "birmingham",
+    "madeinbirmingham"
+   ]
+  },
+  {
+   "name": "TalkBristol",
+   "tvg_id": "TalkBristol.uk",
+   "logo_key": "talkbristol",
+   "logo": false,
+   "aliases": [
+    "localtvbristol",
+    "bristol",
+    "madeinbristol"
+   ]
+  },
+  {
+   "name": "TalkCardiff",
+   "tvg_id": "TalkCardiff.uk",
+   "logo_key": "talkcardiff",
+   "logo": false,
+   "aliases": [
+    "localtvcardiff",
+    "cardiff",
+    "madeincardiff"
+   ]
+  },
+  {
+   "name": "Talking Pictures TV",
+   "tvg_id": "TalkingPicturesTV.uk",
+   "logo_key": "talkingpictures",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TalkLeeds",
+   "tvg_id": "TalkLeeds.uk",
+   "logo_key": "talkleeds",
+   "logo": false,
+   "aliases": [
+    "localtvleeds",
+    "leeds",
+    "madeinleeds"
+   ]
+  },
+  {
+   "name": "TalkLiverpool",
+   "tvg_id": "TalkLiverpool.uk",
+   "logo_key": "talkliverpool",
+   "logo": false,
+   "aliases": [
+    "localtvliverpool",
+    "liverpool",
+    "madeinliverpool"
+   ]
+  },
+  {
+   "name": "TalkNorthWales",
+   "tvg_id": "TalkNorthWales.uk",
+   "logo_key": "talknorthwales",
+   "logo": false,
+   "aliases": [
+    "localtvnorthwales",
+    "northwales",
+    "madeinnorthwales"
+   ]
+  },
+  {
+   "name": "talkSPORT",
+   "tvg_id": "talkSPORT.uk",
+   "logo_key": "talksport",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "TalkTeesside",
+   "tvg_id": "TalkTeesside.uk",
+   "logo_key": "talkteesside",
+   "logo": false,
+   "aliases": [
+    "localtvteesside",
+    "teesside",
+    "madeinteesside"
+   ]
+  },
+  {
+   "name": "TalkTV",
+   "tvg_id": "TalkTV.uk",
+   "logo_key": "talk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TalkTyne&Wear",
+   "tvg_id": "TalkTyneWear.uk",
+   "logo_key": "talktynewear",
+   "logo": false,
+   "aliases": [
+    "localtvtynewear",
+    "tynewear",
+    "madeintynewear"
+   ]
+  },
+  {
+   "name": "TBN UK",
+   "tvg_id": "TBNUK.uk",
+   "logo_key": "tbnuk",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Teletubbies",
+   "tvg_id": "Teletubbies.uk",
+   "logo_key": "teletubbies",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Thane Direct",
+   "tvg_id": "ThaneDirect.uk",
+   "logo_key": "thanedirect",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "That's 20th Century",
+   "tvg_id": "Thats20thCentury.uk",
+   "logo_key": "thats20thcentury",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "That's 60s",
+   "tvg_id": "Thats60s.uk",
+   "logo_key": "thats60s",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "That's 70s",
+   "tvg_id": "Thats70s.uk",
+   "logo_key": "thats70s",
+   "logo": true,
+   "aliases": [
+    "thatschristmas"
+   ]
+  },
+  {
+   "name": "That's 80s",
+   "tvg_id": "Thats80s.uk",
+   "logo_key": "thats80s",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "That's 90s",
+   "tvg_id": "Thats90s.uk",
+   "logo_key": "thats90s",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "That's Classics",
+   "tvg_id": "ThatsClassics.uk",
+   "logo_key": "thatsclassics",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "That's Entertainment",
+   "tvg_id": "ThatsEntertainment.uk",
+   "logo_key": "thatsentertainment",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "That's Melody",
+   "tvg_id": "ThatsMelody.uk",
+   "logo_key": "thatsmelody",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "That's Oldies",
+   "tvg_id": "ThatsOldies.uk",
+   "logo_key": "thatsoldies",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "That's TV",
+   "tvg_id": "ThatsTV.uk",
+   "logo_key": "thats",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "That's TV 2",
+   "tvg_id": "ThatsTV2.uk",
+   "logo_key": "thatstv2",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "The Chat Show Channel",
+   "tvg_id": "TheChatShowChannel.uk",
+   "logo_key": "thechatshowchannel",
+   "logo": true,
+   "aliases": [
+    "chatshowchannel"
+   ]
+  },
+  {
+   "name": "The Craft Store",
+   "tvg_id": "TheCraftStore.uk",
+   "logo_key": "thecraftstore",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "The Graham Norton Show",
+   "tvg_id": "TheGrahamNortonShow.uk",
+   "logo_key": "thegrahamnortonshow",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "The Guardian",
+   "tvg_id": "TheGuardian.uk",
+   "logo_key": "theguardian",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Timeline",
+   "tvg_id": "Timeline.uk",
+   "logo_key": "timeline",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Tiny Pop",
+   "tvg_id": "TinyPop.uk",
+   "logo_key": "tinypop",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TJC",
+   "tvg_id": "TJC.uk",
+   "logo_key": "tjc",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TJC Beauty",
+   "tvg_id": "TJCBeauty.uk",
+   "logo_key": "tjcbeauty",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TLC",
+   "tvg_id": "TLC.uk",
+   "logo_key": "tlc",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TNT Africa",
+   "tvg_id": "TNTAfrica.uk",
+   "logo_key": "tntafrica",
+   "logo": true,
+   "aliases": [
+    "turnerclassicmovies"
+   ]
+  },
+  {
+   "name": "TNT Sports 1",
+   "tvg_id": "TNTSports1.uk",
+   "logo_key": "tntsports1",
+   "logo": true,
+   "aliases": [
+    "btsport1"
+   ]
+  },
+  {
+   "name": "TNT Sports 10",
+   "tvg_id": "TNTSports10.uk",
+   "logo_key": "tntsports10",
+   "logo": true,
+   "aliases": [
+    "btsport10",
+    "btsportextra6"
+   ]
+  },
+  {
+   "name": "TNT Sports 2",
+   "tvg_id": "TNTSports2.uk",
+   "logo_key": "tntsports2",
+   "logo": true,
+   "aliases": [
+    "btsport2"
+   ]
+  },
+  {
+   "name": "TNT Sports 3",
+   "tvg_id": "TNTSports3.uk",
+   "logo_key": "tntsports3",
+   "logo": true,
+   "aliases": [
+    "btsport3"
+   ]
+  },
+  {
+   "name": "TNT Sports 4",
+   "tvg_id": "TNTSports4.uk",
+   "logo_key": "tntsports4",
+   "logo": true,
+   "aliases": [
+    "btsport4",
+    "btsportespn",
+    "espn"
+   ]
+  },
+  {
+   "name": "TNT Sports 5",
+   "tvg_id": "TNTSports5.uk",
+   "logo_key": "tntsports5",
+   "logo": true,
+   "aliases": [
+    "btsport5",
+    "btsportextra1",
+    "btsportextra"
+   ]
+  },
+  {
+   "name": "TNT Sports 6",
+   "tvg_id": "TNTSports6.uk",
+   "logo_key": "tntsports6",
+   "logo": true,
+   "aliases": [
+    "btsport6",
+    "btsportextra2"
+   ]
+  },
+  {
+   "name": "TNT Sports 7",
+   "tvg_id": "TNTSports7.uk",
+   "logo_key": "tntsports7",
+   "logo": true,
+   "aliases": [
+    "btsport7",
+    "btsportextra3"
+   ]
+  },
+  {
+   "name": "TNT Sports 8",
+   "tvg_id": "TNTSports8.uk",
+   "logo_key": "tntsports8",
+   "logo": true,
+   "aliases": [
+    "btsport8",
+    "btsportextra4"
+   ]
+  },
+  {
+   "name": "TNT Sports 9",
+   "tvg_id": "TNTSports9.uk",
+   "logo_key": "tntsports9",
+   "logo": true,
+   "aliases": [
+    "btsport9",
+    "btsportextra5"
+   ]
+  },
+  {
+   "name": "TNT Sports Box Office",
+   "tvg_id": "TNTSportsBoxOffice.uk",
+   "logo_key": "tntsportsboxoffice",
+   "logo": true,
+   "aliases": [
+    "btsportboxoffice"
+   ]
+  },
+  {
+   "name": "TNT Sports Box Office 2",
+   "tvg_id": "TNTSportsBoxOffice2.uk",
+   "logo_key": "tntsportsboxoffice2",
+   "logo": true,
+   "aliases": [
+    "btsportboxoffice2"
+   ]
+  },
+  {
+   "name": "TNT Sports Mosaic",
+   "tvg_id": "TNTSportsMosaic.uk",
+   "logo_key": "tntsportsmosaic",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TNT Sports Ultimate",
+   "tvg_id": "TNTSportsUltimate.uk",
+   "logo_key": "tntsportsultimate",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Together TV",
+   "tvg_id": "TogetherTV.uk",
+   "logo_key": "together",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "ToonLore TV",
+   "tvg_id": "ToonLoreTV.uk",
+   "logo_key": "toonlore",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Top Gear",
+   "tvg_id": "TopGear.uk",
+   "logo_key": "topgear",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Totalmusic",
+   "tvg_id": "Totalmusic.uk",
+   "logo_key": "totalmusic",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Totalmusic 2000s",
+   "tvg_id": "Totalmusic2000s.uk",
+   "logo_key": "totalmusic2000s",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Totalmusic 80s",
+   "tvg_id": "Totalmusic80s.uk",
+   "logo_key": "totalmusic80s",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Totalmusic Concerts",
+   "tvg_id": "TotalmusicConcerts.uk",
+   "logo_key": "totalmusicconcerts",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Totalmusic Dance",
+   "tvg_id": "TotalmusicDance.uk",
+   "logo_key": "totalmusicdance",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Trace Hits",
+   "tvg_id": "TraceHits.uk",
+   "logo_key": "tracehits",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Trace UK",
+   "tvg_id": "TraceUK.uk",
+   "logo_key": "traceuk",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Trace Vault",
+   "tvg_id": "TraceVault.uk",
+   "logo_key": "tracevault",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Trace Xmas",
+   "tvg_id": "TraceXmas.uk",
+   "logo_key": "tracexmas",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Travel Channel EMEA",
+   "tvg_id": "TravelChannelEMEA.uk",
+   "logo_key": "travelchannelemea",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "True Crime",
+   "tvg_id": "TrueCrime.uk",
+   "logo_key": "truecrime",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "True Crime Xtra",
+   "tvg_id": "TrueCrimeXtra.uk",
+   "logo_key": "truecrimextra",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV One",
+   "tvg_id": "TVOne.uk",
+   "logo_key": "tvone",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "TV Warehouse",
+   "tvg_id": "TVWarehouse.uk",
+   "logo_key": "tvwarehouse",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Tyne & Wear TV",
+   "tvg_id": "TyneWearTV.uk",
+   "logo_key": "tynewear",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "U&Alibi",
+   "tvg_id": "UAlibi.uk",
+   "logo_key": "ualibi",
+   "logo": true,
+   "aliases": [
+    "alibi",
+    "uktvdrama",
+    "ukdrama",
+    "ukarena"
+   ]
+  },
+  {
+   "name": "U&Dave",
+   "tvg_id": "UDave.uk",
+   "logo_key": "udave",
+   "logo": true,
+   "aliases": [
+    "dave",
+    "uktvg2",
+    "ukg",
+    "ukgold2",
+    "ukgoldclassics"
+   ]
+  },
+  {
+   "name": "U&DaveJaVu",
+   "tvg_id": "UDaveJaVu.uk",
+   "logo_key": "udavejavu",
+   "logo": true,
+   "aliases": [
+    "davejavu"
+   ]
+  },
+  {
+   "name": "U&Drama",
+   "tvg_id": "UDrama.uk",
+   "logo_key": "udrama",
+   "logo": true,
+   "aliases": [
+    "drama",
+    "blighty",
+    "uktvpeople"
+   ]
+  },
+  {
+   "name": "U&Eden",
+   "tvg_id": "UEden.uk",
+   "logo_key": "ueden",
+   "logo": true,
+   "aliases": [
+    "eden",
+    "uktvdocumentary"
+   ]
+  },
+  {
+   "name": "U&Gold",
+   "tvg_id": "UGold.uk",
+   "logo_key": "ugold",
+   "logo": true,
+   "aliases": [
+    "gold",
+    "uktvgold",
+    "ukgold"
+   ]
+  },
+  {
+   "name": "U&W",
+   "tvg_id": "UW.uk",
+   "logo_key": "uw",
+   "logo": true,
+   "aliases": [
+    "w",
+    "watch",
+    "uktvstyle+2",
+    "uktvbrightideas",
+    "ukbrightideas"
+   ]
+  },
+  {
+   "name": "U&Yesterday",
+   "tvg_id": "UYesterday.uk",
+   "logo_key": "uyesterday",
+   "logo": true,
+   "aliases": [
+    "yesterday",
+    "uktvhistory",
+    "ukhistory"
+   ]
+  },
+  {
+   "name": "UCB TV",
+   "tvg_id": "UCBTV.uk",
+   "logo_key": "ucb",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "UK44",
+   "tvg_id": "UK44.uk",
+   "logo_key": "uk44",
+   "logo": true,
+   "aliases": [
+    "channel44"
+   ]
+  },
+  {
+   "name": "Universal Somali TV",
+   "tvg_id": "UniversalSomaliTV.uk",
+   "logo_key": "universalsomali",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Utsav Bharat",
+   "tvg_id": "UtsavBharat.uk",
+   "logo_key": "utsavbharat",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Utsav Gold",
+   "tvg_id": "UtsavGold.uk",
+   "logo_key": "utsavgold",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Utsav Plus",
+   "tvg_id": "UtsavPlus.uk",
+   "logo_key": "utsavplus",
+   "logo": true,
+   "aliases": [
+    "starplus"
+   ]
+  },
+  {
+   "name": "UTV",
+   "tvg_id": "UTV.uk",
+   "logo_key": "utv",
+   "logo": true,
+   "aliases": [
+    "ulstertelevision"
+   ]
+  },
+  {
+   "name": "Venus TV",
+   "tvg_id": "VenusTV.uk",
+   "logo_key": "venus",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Verite TV",
+   "tvg_id": "VeriteTV.uk",
+   "logo_key": "verite",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Viaplay Xtra",
+   "tvg_id": "ViaplayXtra.uk",
+   "logo_key": "viaplayxtra",
+   "logo": true,
+   "aliases": [
+    "freesports"
+   ]
+  },
+  {
+   "name": "Viasat Epic Drama",
+   "tvg_id": "ViasatEpicDrama.uk",
+   "logo_key": "viasatepicdrama",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Viasat Kino World",
+   "tvg_id": "ViasatKinoWorld.uk",
+   "logo_key": "viasatkinoworld",
+   "logo": true,
+   "aliases": [
+    "tv1000worldkino"
+   ]
+  },
+  {
+   "name": "VoxAfrica",
+   "tvg_id": "VoxAfrica.uk",
+   "logo_key": "voxafrica",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Winners Chapel International",
+   "tvg_id": "WinnersChapelInternational.uk",
+   "logo_key": "winnerschapelinternational",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Wisal Hausa TV",
+   "tvg_id": "WisalHausaTV.uk",
+   "logo_key": "wisalhausa",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Wonder",
+   "tvg_id": "Wonder.uk",
+   "logo_key": "wonder",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Wow",
+   "tvg_id": "Wow.uk",
+   "logo_key": "wow",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "YAAAS!",
+   "tvg_id": "YAAAS.uk",
+   "logo_key": "yaaas",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Yanga! TV",
+   "tvg_id": "YangaTV.uk",
+   "logo_key": "yanga",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Zaire TV",
+   "tvg_id": "ZaireTV.uk",
+   "logo_key": "zaire",
+   "logo": true,
+   "aliases": []
+  },
+  {
+   "name": "Zee One",
+   "tvg_id": "ZeeOne.uk",
+   "logo_key": "zeeone",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Zee TV UK",
+   "tvg_id": "ZeeTVUK.uk",
+   "logo_key": "zeetvuk",
+   "logo": false,
+   "aliases": []
+  },
+  {
+   "name": "Zing!",
+   "tvg_id": "Zing.uk",
+   "logo_key": "zing",
+   "logo": true,
+   "aliases": []
+  }
+ ]
+}
