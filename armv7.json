@@ -1,6 +1,6 @@
 {
  "variant": "armv7",
- "package": "com.livinggo.pro.debug",
+ "package": "com.livinggo.pro.member.debug",
  "versionCode": 198,
  "versionName": "1.0.198",
  "file": "LivingGo-armv7-1.0.198.apk",
