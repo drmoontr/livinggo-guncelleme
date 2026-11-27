@@ -1,13 +1,13 @@
 {
  "variant": "universal",
  "package": "com.livinggo.pro.member.debug",
- "versionCode": 293,
- "versionName": "1.0.293",
- "file": "LivingGo-universal-1.0.293.apk",
- "size": 70839960,
- "sha256": "07de5a75b8467ac148db12c87973a10ca561acb163ddda6b31ffac0658955c17",
+ "versionCode": 294,
+ "versionName": "1.0.294",
+ "file": "LivingGo-universal-1.0.294.apk",
+ "size": 70844056,
+ "sha256": "9520525e6b936dc7ed2a1b2dae03a0ddb299b4ec6d58277438e628e4b69fd73e",
  "notes": {
-  "tr": "• Çökme düzeltmesi: hızlı kaydırma ve kanal taşımada uygulama kapanmaz (arayüz kütüphanesi güncellendi)\n• Kanal taşıma en fazla 5 kanal\n• TV Rehberi ana menüden kaldırıldı\n• Canlı TV önizleme penceresi küçültüldü\n• Ayarların arkasında oynatma varsayılan kapalı\n• Ayarlar sadeleştirildi: güncellemeler sadece ana menüde, yetişkin ayarları Gizlilik'te\n• EPG sadece TR, DE, FR, NL, UK\n• HD/UHD rozetleri bronz\n• Uygulama kapanırsa sebebi bir sonraki açılışta gösterilir",
-  "en": "• Crash fix: no more closing on fast scrolling or channel moving (UI library updated)\n• Channel move limit is 5\n• TV Guide removed from the main menu\n• Smaller Live TV preview window\n• Playback behind settings off by default\n• Simpler settings: updates only in the main menu, adult settings under Privacy\n• EPG only TR, DE, FR, NL, UK\n• Bronze HD/UHD badges\n• If the app closes, the reason is shown on next start"
+  "tr": "• Ek çökme düzeltmesi: ayarların arkasındaki video güvenli yapıya alındı (görünüm aynı)\n• Hata kaydı artık sürüm ve ekran bilgisini de gösterir\n• 1.0.293'teki tüm yenilikler: kütüphane çökme düzeltmesi, TV Rehberi kaldırıldı, küçük önizleme, şeffaf oynatma varsayılan kapalı, sade ayarlar",
+  "en": "• Extra crash fix: the video behind settings uses a safer layout (same look)\n• The crash record now shows the app version and screen\n• Everything from 1.0.293: library crash fix, TV Guide removed, smaller preview, playback behind settings off by default, simpler settings"
  }
 }
