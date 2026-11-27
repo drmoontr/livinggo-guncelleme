@@ -1,13 +1,13 @@
 {
  "variant": "arm64",
  "package": "com.livinggo.pro.member.debug",
- "versionCode": 247,
- "versionName": "1.0.247",
- "file": "LivingGo-arm64-1.0.247.apk",
- "size": 50282905,
- "sha256": "0e3492fd6016ae7755c18ca02a644a7a191bf39620df5b5ca3acdd0dfae994e2",
+ "versionCode": 256,
+ "versionName": "1.0.256",
+ "file": "LivingGo-arm64-1.0.256.apk",
+ "size": 50286736,
+ "sha256": "6fa00b347aadc9a0580796e718bb4c078d95a6cec7f3e78242d871208ac57c0a",
  "notes": {
-  "tr": "Tüm cihazlarda kurulum: Universal APK yarı boyutta (eski/yeni Fire TV Stick, Android TV, kutu, telefon). Fire TV yeşil/bozuk görüntü düzeltmesi. Kanal listesi yeni düzen (8 kanal, büyük logo, program ve ilerleme), HD/FHD turkuaz rozetler. INFO tuşu: günün yayın akışı ve program bilgisi. Yeni saat kartı (saate göre renk, üyelik). Önerilen filmler: 2024+ TMDB 7+, 3 afişli slayt. İlk açılış Canlı TV'de.",
-  "en": "Installs everywhere: universal APK half the size (old/new Fire TV Stick, Android TV, boxes, phones). Fire TV green/garbled picture fix. New channel list (8 channels, big logo, programme and progress), HD/FHD turquoise badges. INFO key: day schedule and programme details. New clock card. Recommended films: 2024+ TMDB 7+, 3-poster slideshow. First focus on Live TV."
+  "tr": "• Kalite rozeti her kanalda: FHD altın, HD turkuaz, sağda tek sütunda\n• Kanal listesi: isim ve rehber yazıları satıra göre ölçülü; rehber sarı; uzun isim ve program kayan yazı\n• TRT4K rehberi sabit: TR - TRT 4K\n• Filmler ve Diziler: Yeni eklenenler kategorisi\n• Ana ekran: Keşfet daraltıldı; tanıtım ve önerilen filmler eşit ve daha büyük afişli",
+  "en": "• Quality badge on every channel: FHD gold, HD turquoise, in one column\n• Channel list: name and guide sized to the row; guide in yellow; long names and programmes scroll\n• TRT4K guide fixed: TR - TRT 4K\n• Movies and Series: Recently added category\n• Home: tighter Explore; banner and recommended films equal height with bigger posters"
  }
 }
