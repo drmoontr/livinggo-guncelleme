@@ -1,13 +1,13 @@
 {
  "variant": "armv7",
  "package": "com.livinggo.pro.member.debug",
- "versionCode": 268,
- "versionName": "1.0.268",
- "file": "LivingGo-armv7-1.0.268.apk",
- "size": 46599255,
- "sha256": "1024042b7069d134b009f2241798e48768be5de09aa94b749478e6afa13869d7",
+ "versionCode": 278,
+ "versionName": "1.0.278",
+ "file": "LivingGo-armv7-1.0.278.apk",
+ "size": 46611673,
+ "sha256": "a65484ecac5ba8ce3e5f59164fd4211ba97ce32c87b2192e8b8ee39a1b7cd2d1",
  "notes": {
-  "tr": "• Ana ekran Windows düzeninde: bilgi kartı + 4 kayan afiş ve isimleri\n• Yeni Info Bar ve uyumlu düğmeler\n• Fire TV yeşil ve çizgili görüntü düzeltildi\n• Yeni eklenenler kategorisi; Tüm kanallar ayarı (Buketler)\n• İlk kurulumda kanal listesi kendiliğinden gelir\n• Pro Üyelik kartı; radyo düğmeleri kaldırıldı",
-  "en": "• Home in the Windows layout: info card + four sliding posters with names\n• New Info Bar and matching buttons\n• Fire TV green / striped picture fixed\n• Recently added category; All channels setting (Bouquets)\n• Channel list loads by itself on first install\n• Pro membership card; radio slideshow buttons removed"
+  "tr": "• Yan menüde Sistem Güncelleme düğmesi\n• Kanal listesinde ve düzenleyicide 20 kanala kadar toplu taşıma (Enigma2 gibi)\n• Rozetler sunucudaki isimle aynı (HD, FHD, UHD, 4K, SD)\n• Başka kategoriden seçilen kanalda kanal değiştirme o kategoride devam eder\n• Fire TV hızlı kanal değiştirme düzeltmesi; kanal listesi penceresi genişletildi\n• Ana ekran her cihazda dolu; düzenleyicide tüm logolar",
+  "en": "• System Update button in the side menu\n• Move up to 20 channels at once (Enigma2 style) in lists and the editor\n• Badges match the server name (HD, FHD, UHD, 4K, SD)\n• Zapping continues in the category the channel was picked from\n• Fire TV fast-zapping fix; wider channel list panel\n• Home never empty; all logos in the editor"
  }
 }
