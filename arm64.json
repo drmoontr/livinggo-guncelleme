@@ -1,13 +1,13 @@
 {
  "variant": "arm64",
  "package": "com.livinggo.pro.member.debug",
- "versionCode": 231,
- "versionName": "1.0.231",
- "file": "LivingGo-arm64-1.0.231.apk",
- "size": 50192552,
- "sha256": "6e94b46cc54a877725875ccc375b378c25100a99bb9d220db736c8216bf08ea4",
+ "versionCode": 232,
+ "versionName": "1.0.232",
+ "file": "LivingGo-arm64-1.0.232.apk",
+ "size": 50194081,
+ "sha256": "59423162f2141a4640f138d14b78e3dc27a5840c890738a4d61e15d5969893b1",
  "notes": {
-  "tr": "TURBO sürüm: kumanda geçişleri, menüler ve listeler eski kutularda çok daha hızlı. Ana ekran: haftanın yeni film ve dizileri sağdan sola kayan afişlerle; TMDB 7+ · 2024 ve sonrası filmler satırı; Keşfet yazıları kesilmiyor. Saat kartında kullanıcı adı ve kalan gün, saatlik hava. Info Bar düğmeleri gruplu (Liste · Oynatma · Dil ve altyazı · Gezinme). Oynatıcı kanal listesinde 10 kanal. Premium uydu kanal ekranı ve yeni Ayarlar.",
-  "en": "TURBO release: remote navigation, menus and lists are much faster on older boxes. Home: this week's new films and series as sliding posters; TMDB 7+ films from 2024 on; Explore labels no longer cut. Clock card with user name and days left, hourly weather. Info Bar buttons in groups. Player channel list shows 10 channels. Premium satellite channel screen and new Settings."
+  "tr": "Kanal listeleri düzeltildi: ekranda tam 10 kanal, tüm satırlar aynı sabit boyda; kanalın üzerine gelince büyüme yok, yazılar kırılmıyor. Canlı TV ekranında ve oynatıcıdaki kanal listesinde. TURBO hız ve 1.0.231'deki tüm yenilikler dahil.",
+  "en": "Channel lists fixed: exactly 10 channels on screen, all rows the same fixed height; nothing grows on focus, no broken text. On the Live TV screen and the player list. Includes TURBO speed and everything from 1.0.231."
  }
 }
