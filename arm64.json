@@ -1,13 +1,13 @@
 {
  "variant": "arm64",
  "package": "com.livinggo.pro.member.debug",
- "versionCode": 278,
- "versionName": "1.0.278",
- "file": "LivingGo-arm64-1.0.278.apk",
- "size": 50319325,
- "sha256": "264504429f6635e417dc9528793938340c253a7bf320b068a3d7d37b211f136b",
+ "versionCode": 293,
+ "versionName": "1.0.293",
+ "file": "LivingGo-arm64-1.0.293.apk",
+ "size": 50323970,
+ "sha256": "60abbba81a5cf3f874fe423df49a61b1a5f513d2eddd2a9da0b9c20c00177bbb",
  "notes": {
-  "tr": "• Yan menüde Sistem Güncelleme düğmesi\n• Kanal listesinde ve düzenleyicide 20 kanala kadar toplu taşıma (Enigma2 gibi)\n• Rozetler sunucudaki isimle aynı (HD, FHD, UHD, 4K, SD)\n• Başka kategoriden seçilen kanalda kanal değiştirme o kategoride devam eder\n• Fire TV hızlı kanal değiştirme düzeltmesi; kanal listesi penceresi genişletildi\n• Ana ekran her cihazda dolu; düzenleyicide tüm logolar",
-  "en": "• System Update button in the side menu\n• Move up to 20 channels at once (Enigma2 style) in lists and the editor\n• Badges match the server name (HD, FHD, UHD, 4K, SD)\n• Zapping continues in the category the channel was picked from\n• Fire TV fast-zapping fix; wider channel list panel\n• Home never empty; all logos in the editor"
+  "tr": "• Çökme düzeltmesi: hızlı kaydırma ve kanal taşımada uygulama kapanmaz (arayüz kütüphanesi güncellendi)\n• Kanal taşıma en fazla 5 kanal\n• TV Rehberi ana menüden kaldırıldı\n• Canlı TV önizleme penceresi küçültüldü\n• Ayarların arkasında oynatma varsayılan kapalı\n• Ayarlar sadeleştirildi: güncellemeler sadece ana menüde, yetişkin ayarları Gizlilik'te\n• EPG sadece TR, DE, FR, NL, UK\n• HD/UHD rozetleri bronz\n• Uygulama kapanırsa sebebi bir sonraki açılışta gösterilir",
+  "en": "• Crash fix: no more closing on fast scrolling or channel moving (UI library updated)\n• Channel move limit is 5\n• TV Guide removed from the main menu\n• Smaller Live TV preview window\n• Playback behind settings off by default\n• Simpler settings: updates only in the main menu, adult settings under Privacy\n• EPG only TR, DE, FR, NL, UK\n• Bronze HD/UHD badges\n• If the app closes, the reason is shown on next start"
  }
 }
