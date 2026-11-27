@@ -1,13 +1,13 @@
 {
  "variant": "arm64",
  "package": "com.livinggo.pro.member.debug",
- "versionCode": 235,
- "versionName": "1.0.235",
- "file": "LivingGo-arm64-1.0.235.apk",
- "size": 50247546,
- "sha256": "fec9adf1f915ef152c6aee1c65d2211010e536c630f9d1dbd3247bcb67edaff7",
+ "versionCode": 236,
+ "versionName": "1.0.236",
+ "file": "LivingGo-arm64-1.0.236.apk",
+ "size": 50247953,
+ "sha256": "40b599955ae3044adabf0cd16def2d439d5b3919441aeecea9ad9996576fc97e",
  "notes": {
-  "tr": "Yeni Gizlilik bölümü (Ayarlar): yetişkin içerik, buket ve kanal gizleme, izleme geçmişini temizleme, ana ekran slayt filtresi. Kanal listesi tek satır, program bilgisi Info Bar'da. Ana ekranda 'Önerilen filmler ve diziler' (TMDB 7+, 2024 ve sonrası) afiş slaytıyla. Ayarlar → Güncellemeler'de yazılım güncelleme ve kontrol. Logolar transparan.",
-  "en": "New Privacy section in Settings: hide adult content, bouquets and channels, clear watch history, home slide filter. One-line channel lists, programme info in the Info Bar. Home: 'Recommended films and series' (TMDB 7+, 2024 on) as a poster slideshow. Software update and check in Settings → Updates. Transparent logos."
+  "tr": "Info Bar: çözünürlük, kodek, sinyal ve tampon bilgisi kanal adının sağındaki boş alanda, daha büyük. 1.0.235'teki tüm yenilikler dahil (Gizlilik, önerilen filmler ve diziler, tek satır kanal listesi).",
+  "en": "Info Bar: resolution, codec, signal and buffer info in the free space right of the channel name, larger. Includes everything from 1.0.235."
  }
 }
