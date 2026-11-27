@@ -1,17 +1,17 @@
 {
  "variant": "universal",
  "package": "com.livinggo.pro.member.debug",
- "versionCode": 216,
- "versionName": "1.0.216",
- "file": "LivingGo-universal-1.0.216.apk",
- "size": 134152526,
- "sha256": "1d0a0c04bc9c11530ceb0b629dd8d073ba79886129a3524b1e2323328300bfab",
+ "versionCode": 231,
+ "versionName": "1.0.231",
+ "file": "LivingGo-universal-1.0.231.apk",
+ "size": 118620024,
+ "sha256": "fcab4404e4b1267ac73f865511d2457ea76446a66348ce526215a488504e6428",
  "notes": {
-  "tr": "• Yeni uydu tarzı bilgi çubuğu: canlı TV, radyo, film ve dizide\n• Akıllı düğme sırası: ilk seçim Duraklat\n• INFO tuşu: program, sıradakiler ve yayın bilgisi paneli\n• Kanal listesi: ◀ ▶ ile kategori geçişi, ilerleme çubukları, kalite rozetleri",
-  "en": "• New satellite-style info bar: live TV, radio, films and series\n• Smart button order: Pause is selected first\n• INFO key: programme, up next and broadcast info panel\n• Channel list: ◀ ▶ switches category, progress bars, quality badges"
+  "tr": "TURBO sürüm: kumanda geçişleri, menüler ve listeler eski kutularda çok daha hızlı. Ana ekran: haftanın yeni film ve dizileri sağdan sola kayan afişlerle; TMDB 7+ · 2024 ve sonrası filmler satırı; Keşfet yazıları kesilmiyor. Saat kartında kullanıcı adı ve kalan gün, saatlik hava. Info Bar düğmeleri gruplu (Liste · Oynatma · Dil ve altyazı · Gezinme). Oynatıcı kanal listesinde 10 kanal. Premium uydu kanal ekranı ve yeni Ayarlar.",
+  "en": "TURBO release: remote navigation, menus and lists are much faster on older boxes. Home: this week's new films and series as sliding posters; TMDB 7+ films from 2024 on; Explore labels no longer cut. Clock card with user name and days left, hourly weather. Info Bar buttons in groups. Player channel list shows 10 channels. Premium satellite channel screen and new Settings."
  },
  "parts": [
-  "LivingGo-universal-1.0.216.apk.part1",
-  "LivingGo-universal-1.0.216.apk.part2"
+  "LivingGo-universal-1.0.231.apk.part1",
+  "LivingGo-universal-1.0.231.apk.part2"
  ]
 }
