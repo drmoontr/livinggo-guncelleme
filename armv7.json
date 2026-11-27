@@ -1,13 +1,13 @@
 {
  "variant": "armv7",
  "package": "com.livinggo.pro.member.debug",
- "versionCode": 204,
- "versionName": "1.0.204",
- "file": "LivingGo-armv7-1.0.204.apk",
- "size": 56383985,
- "sha256": "9042a245ba96b37189ff19e948f34626fdc7a28797154f8414f4066b854572b0",
+ "versionCode": 212,
+ "versionName": "1.0.212",
+ "file": "LivingGo-armv7-1.0.212.apk",
+ "size": 56392682,
+ "sha256": "e4835d25e96b2a3ce74d7a6bf75bc9b49e56fc658272d888c77fda7d7366e000",
  "notes": {
-  "tr": "• Yeni sürüm uyarısı ana ekranda pencere olarak (yüzdeli indirme, sürüm bilgisi, ŞİMDİ GÜNCELLE)\n• Arka plandaki canlı yayın ve mini önizleme donmaz\n• Menü yazısı: 10 renk, 3D / 2D\n• Kategori, kanal, radyo ve afiş isimleri renklendirme\n• TRT 4K ve Türk kanallarında EPG düzeltmesi",
-  "en": "• New version notice as a window on the home screen (download with %, version info, UPDATE NOW)\n• Background live picture and mini preview no longer freeze\n• Menu text: 10 colours, 3D / 2D\n• Colours for category, channel, radio and poster names\n• Guide fix for TRT 4K and Turkish channels"
+  "tr": "• Yeni yan menü: sıvı cam ikonlar, turkuaz yazılar\n• EPG: Türkiye (6 kaynak), Almanya, Fransa, Hollanda, server ve lokal varsayılan açık\n• Arka plandaki canlı yayın ve önizleme donmaz\n• Kategori, kanal, radyo ve afiş isimleri renklendirme\n• TRT 4K EPG düzeltmesi",
+  "en": "• New side menu: liquid glass icons, turquoise labels\n• Guide: Türkiye (6 sources), Germany, France, Netherlands, server and local on by default\n• Background live picture and preview no longer freeze\n• Colours for category, channel, radio and poster names\n• TRT 4K guide fix"
  }
 }
