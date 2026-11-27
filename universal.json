@@ -1,13 +1,13 @@
 {
  "variant": "universal",
  "package": "com.livinggo.pro.member.debug",
- "versionCode": 256,
- "versionName": "1.0.256",
- "file": "LivingGo-universal-1.0.256.apk",
- "size": 70803096,
- "sha256": "24fe2419bac29a4b6eac819516cac92bb4f12d59d84157aff496a12b3cdf0aad",
+ "versionCode": 268,
+ "versionName": "1.0.268",
+ "file": "LivingGo-universal-1.0.268.apk",
+ "size": 70823576,
+ "sha256": "f2b66f8c909a2d91374d77c9e1b4be16d628c76934514d34d815fb4ffde55dbc",
  "notes": {
-  "tr": "• Kalite rozeti her kanalda: FHD altın, HD turkuaz, sağda tek sütunda\n• Kanal listesi: isim ve rehber yazıları satıra göre ölçülü; rehber sarı; uzun isim ve program kayan yazı\n• TRT4K rehberi sabit: TR - TRT 4K\n• Filmler ve Diziler: Yeni eklenenler kategorisi\n• Ana ekran: Keşfet daraltıldı; tanıtım ve önerilen filmler eşit ve daha büyük afişli",
-  "en": "• Quality badge on every channel: FHD gold, HD turquoise, in one column\n• Channel list: name and guide sized to the row; guide in yellow; long names and programmes scroll\n• TRT4K guide fixed: TR - TRT 4K\n• Movies and Series: Recently added category\n• Home: tighter Explore; banner and recommended films equal height with bigger posters"
+  "tr": "• Ana ekran Windows düzeninde: bilgi kartı + 4 kayan afiş ve isimleri\n• Yeni Info Bar ve uyumlu düğmeler\n• Fire TV yeşil ve çizgili görüntü düzeltildi\n• Yeni eklenenler kategorisi; Tüm kanallar ayarı (Buketler)\n• İlk kurulumda kanal listesi kendiliğinden gelir\n• Pro Üyelik kartı; radyo düğmeleri kaldırıldı",
+  "en": "• Home in the Windows layout: info card + four sliding posters with names\n• New Info Bar and matching buttons\n• Fire TV green / striped picture fixed\n• Recently added category; All channels setting (Bouquets)\n• Channel list loads by itself on first install\n• Pro membership card; radio slideshow buttons removed"
  }
 }
