@@ -1,13 +1,13 @@
 {
  "variant": "arm64",
  "package": "com.livinggo.pro.member.debug",
- "versionCode": 214,
- "versionName": "1.0.214",
- "file": "LivingGo-arm64-1.0.214.apk",
- "size": 60616257,
- "sha256": "9f0bb0de8d81bb14bd1b33de371d3edf8ed5e5add774363e8477e42d8f1e5294",
+ "versionCode": 216,
+ "versionName": "1.0.216",
+ "file": "LivingGo-arm64-1.0.216.apk",
+ "size": 60688438,
+ "sha256": "302b2b7111b76b7a750ed7b0cf13abfd8d538b38ca8fe22e09462edeaa268c7a",
  "notes": {
-  "tr": "• Manzaralı saat kartı: gerçek doğa fotoğrafı, büyük saat, 3D hava simgeleri, saatlik ve 3 günlük tahmin, üyelik halkası\n• Keşfet: tek sırada canlı kapsüller (Canlı TV, Filmler, Diziler, Tekrar izle, Radyo)\n• Son Eklenen Filmler: seçili film geniş sinema kartına açılır\n• Eski cihazlarda efektler otomatik hafifler",
-  "en": "• Live-sky clock card: real landscape photo, big clock, 3D weather symbols, hourly and 3-day forecast, membership ring\n• Explore: one row of live capsules (Live TV, Movies, Series, Watch again, Radio)\n• Recently added films: the focused film opens into a wide cinematic card\n• Effects are lighter on older devices automatically"
+  "tr": "• Yeni uydu tarzı bilgi çubuğu: canlı TV, radyo, film ve dizide\n• Akıllı düğme sırası: ilk seçim Duraklat\n• INFO tuşu: program, sıradakiler ve yayın bilgisi paneli\n• Kanal listesi: ◀ ▶ ile kategori geçişi, ilerleme çubukları, kalite rozetleri",
+  "en": "• New satellite-style info bar: live TV, radio, films and series\n• Smart button order: Pause is selected first\n• INFO key: programme, up next and broadcast info panel\n• Channel list: ◀ ▶ switches category, progress bars, quality badges"
  }
 }

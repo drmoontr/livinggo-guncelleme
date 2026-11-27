@@ -1,17 +1,17 @@
 {
  "variant": "universal",
  "package": "com.livinggo.pro.member.debug",
- "versionCode": 214,
- "versionName": "1.0.214",
- "file": "LivingGo-universal-1.0.214.apk",
- "size": 134080349,
- "sha256": "027bff302188f6d155df71d0d37b6e3053a1b82f9de9c7c1d02bab64c850dfcb",
+ "versionCode": 216,
+ "versionName": "1.0.216",
+ "file": "LivingGo-universal-1.0.216.apk",
+ "size": 134152526,
+ "sha256": "1d0a0c04bc9c11530ceb0b629dd8d073ba79886129a3524b1e2323328300bfab",
  "notes": {
-  "tr": "• Manzaralı saat kartı: gerçek doğa fotoğrafı, büyük saat, 3D hava simgeleri, saatlik ve 3 günlük tahmin, üyelik halkası\n• Keşfet: tek sırada canlı kapsüller (Canlı TV, Filmler, Diziler, Tekrar izle, Radyo)\n• Son Eklenen Filmler: seçili film geniş sinema kartına açılır\n• Eski cihazlarda efektler otomatik hafifler",
-  "en": "• Live-sky clock card: real landscape photo, big clock, 3D weather symbols, hourly and 3-day forecast, membership ring\n• Explore: one row of live capsules (Live TV, Movies, Series, Watch again, Radio)\n• Recently added films: the focused film opens into a wide cinematic card\n• Effects are lighter on older devices automatically"
+  "tr": "• Yeni uydu tarzı bilgi çubuğu: canlı TV, radyo, film ve dizide\n• Akıllı düğme sırası: ilk seçim Duraklat\n• INFO tuşu: program, sıradakiler ve yayın bilgisi paneli\n• Kanal listesi: ◀ ▶ ile kategori geçişi, ilerleme çubukları, kalite rozetleri",
+  "en": "• New satellite-style info bar: live TV, radio, films and series\n• Smart button order: Pause is selected first\n• INFO key: programme, up next and broadcast info panel\n• Channel list: ◀ ▶ switches category, progress bars, quality badges"
  },
  "parts": [
-  "LivingGo-universal-1.0.214.apk.part1",
-  "LivingGo-universal-1.0.214.apk.part2"
+  "LivingGo-universal-1.0.216.apk.part1",
+  "LivingGo-universal-1.0.216.apk.part2"
  ]
 }
