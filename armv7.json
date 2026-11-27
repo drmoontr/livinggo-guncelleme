@@ -1,13 +1,13 @@
 {
  "variant": "armv7",
  "package": "com.livinggo.pro.member.debug",
- "versionCode": 212,
- "versionName": "1.0.212",
- "file": "LivingGo-armv7-1.0.212.apk",
- "size": 56392682,
- "sha256": "e4835d25e96b2a3ce74d7a6bf75bc9b49e56fc658272d888c77fda7d7366e000",
+ "versionCode": 214,
+ "versionName": "1.0.214",
+ "file": "LivingGo-armv7-1.0.214.apk",
+ "size": 56541264,
+ "sha256": "f3d86fb5ff3744fc68bea1b9d80e3382612ae046620f71800437852ac62e1426",
  "notes": {
-  "tr": "• Yeni yan menü: sıvı cam ikonlar, turkuaz yazılar\n• EPG: Türkiye (6 kaynak), Almanya, Fransa, Hollanda, server ve lokal varsayılan açık\n• Arka plandaki canlı yayın ve önizleme donmaz\n• Kategori, kanal, radyo ve afiş isimleri renklendirme\n• TRT 4K EPG düzeltmesi",
-  "en": "• New side menu: liquid glass icons, turquoise labels\n• Guide: Türkiye (6 sources), Germany, France, Netherlands, server and local on by default\n• Background live picture and preview no longer freeze\n• Colours for category, channel, radio and poster names\n• TRT 4K guide fix"
+  "tr": "• Manzaralı saat kartı: gerçek doğa fotoğrafı, büyük saat, 3D hava simgeleri, saatlik ve 3 günlük tahmin, üyelik halkası\n• Keşfet: tek sırada canlı kapsüller (Canlı TV, Filmler, Diziler, Tekrar izle, Radyo)\n• Son Eklenen Filmler: seçili film geniş sinema kartına açılır\n• Eski cihazlarda efektler otomatik hafifler",
+  "en": "• Live-sky clock card: real landscape photo, big clock, 3D weather symbols, hourly and 3-day forecast, membership ring\n• Explore: one row of live capsules (Live TV, Movies, Series, Watch again, Radio)\n• Recently added films: the focused film opens into a wide cinematic card\n• Effects are lighter on older devices automatically"
  }
 }
