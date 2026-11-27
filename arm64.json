@@ -1,13 +1,13 @@
 {
  "variant": "arm64",
  "package": "com.livinggo.pro.member.debug",
- "versionCode": 232,
- "versionName": "1.0.232",
- "file": "LivingGo-arm64-1.0.232.apk",
- "size": 50194081,
- "sha256": "59423162f2141a4640f138d14b78e3dc27a5840c890738a4d61e15d5969893b1",
+ "versionCode": 235,
+ "versionName": "1.0.235",
+ "file": "LivingGo-arm64-1.0.235.apk",
+ "size": 50247546,
+ "sha256": "fec9adf1f915ef152c6aee1c65d2211010e536c630f9d1dbd3247bcb67edaff7",
  "notes": {
-  "tr": "Kanal listeleri düzeltildi: ekranda tam 10 kanal, tüm satırlar aynı sabit boyda; kanalın üzerine gelince büyüme yok, yazılar kırılmıyor. Canlı TV ekranında ve oynatıcıdaki kanal listesinde. TURBO hız ve 1.0.231'deki tüm yenilikler dahil.",
-  "en": "Channel lists fixed: exactly 10 channels on screen, all rows the same fixed height; nothing grows on focus, no broken text. On the Live TV screen and the player list. Includes TURBO speed and everything from 1.0.231."
+  "tr": "Yeni Gizlilik bölümü (Ayarlar): yetişkin içerik, buket ve kanal gizleme, izleme geçmişini temizleme, ana ekran slayt filtresi. Kanal listesi tek satır, program bilgisi Info Bar'da. Ana ekranda 'Önerilen filmler ve diziler' (TMDB 7+, 2024 ve sonrası) afiş slaytıyla. Ayarlar → Güncellemeler'de yazılım güncelleme ve kontrol. Logolar transparan.",
+  "en": "New Privacy section in Settings: hide adult content, bouquets and channels, clear watch history, home slide filter. One-line channel lists, programme info in the Info Bar. Home: 'Recommended films and series' (TMDB 7+, 2024 on) as a poster slideshow. Software update and check in Settings → Updates. Transparent logos."
  }
 }
