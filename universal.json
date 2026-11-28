@@ -1,13 +1,13 @@
 {
  "variant": "universal",
  "package": "com.livinggo.pro.member.debug",
- "versionCode": 294,
- "versionName": "1.0.294",
- "file": "LivingGo-universal-1.0.294.apk",
+ "versionCode": 295,
+ "versionName": "1.0.295",
+ "file": "LivingGo-universal-1.0.295.apk",
  "size": 70844056,
- "sha256": "9520525e6b936dc7ed2a1b2dae03a0ddb299b4ec6d58277438e628e4b69fd73e",
+ "sha256": "c6689ca7525ffe6fa808a831878b721f4d72fde6a4c4a33bfe434a93c07bb9f8",
  "notes": {
-  "tr": "• Ek çökme düzeltmesi: ayarların arkasındaki video güvenli yapıya alındı (görünüm aynı)\n• Hata kaydı artık sürüm ve ekran bilgisini de gösterir\n• 1.0.293'teki tüm yenilikler: kütüphane çökme düzeltmesi, TV Rehberi kaldırıldı, küçük önizleme, şeffaf oynatma varsayılan kapalı, sade ayarlar",
-  "en": "• Extra crash fix: the video behind settings uses a safer layout (same look)\n• The crash record now shows the app version and screen\n• Everything from 1.0.293: library crash fix, TV Guide removed, smaller preview, playback behind settings off by default, simpler settings"
+  "tr": "• Kanal taşıma: bir seferde 1 kanal\n• Taşıma sırasında çökme düzeltmesi (liste satırları yer değiştirmez)\n• Hata kaydı sürüm ve ekran bilgisini gösterir",
+  "en": "• Channel move: one channel at a time\n• Crash fix while moving (list rows no longer re-attached)\n• Crash record shows version and screen"
  }
 }
