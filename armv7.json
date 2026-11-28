@@ -1,13 +1,13 @@
 {
  "variant": "armv7",
  "package": "com.livinggo.pro.member.debug",
- "versionCode": 304,
- "versionName": "1.0.304",
- "file": "LivingGo-armv7-1.0.304.apk",
- "size": 46627250,
- "sha256": "105dc7e3870fd57710eafffa09b8671a2b4dff4059d26a8030f6b1e068be74f4",
+ "versionCode": 307,
+ "versionName": "1.0.307",
+ "file": "LivingGo-armv7-1.0.307.apk",
+ "size": 46629967,
+ "sha256": "1bcb48d40716425d46115a89520244cb60f2147bef95a7332d213d70f12d11d2",
  "notes": {
-  "tr": "• Eski Fire TV (Fire OS 6 / Android 7): HTTPS sunucular, EPG ve logolar artık açılır\n• Donma (ANR) düzeltmesi dahil",
-  "en": "• Old Fire TV (Fire OS 6 / Android 7): HTTPS servers, EPG and logos now open\n• Includes the freeze (ANR) fix"
+  "tr": "• Yeni üye sunucusu eklendi\n• Kapanma sebebi açılışta hemen gösterilir",
+  "en": "• New member server added\n• The reason of a closing is shown right at start"
  }
 }
