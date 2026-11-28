@@ -1,13 +1,13 @@
 {
  "variant": "universal",
  "package": "com.livinggo.pro.member.debug",
- "versionCode": 303,
- "versionName": "1.0.303",
- "file": "LivingGo-universal-1.0.303.apk",
- "size": 70848152,
- "sha256": "7476bf876a9bae29fbc3a5209cb6890c38335cad6f88dbdf24630810bcdf5131",
+ "versionCode": 304,
+ "versionName": "1.0.304",
+ "file": "LivingGo-universal-1.0.304.apk",
+ "size": 70852360,
+ "sha256": "234e51cf09406f4332c0ac71f0f6ce8720d3815f9ece3ac6916e9156f948f1ae",
  "notes": {
-  "tr": "• Donma (ANR) düzeltmesi: kanal listesinde tuş basılı tutunca uygulama artık donmaz\n• Liste her adımda sadece 1 satır çizer (zayıf kutularda çok daha hafif)",
-  "en": "• Freeze (ANR) fix: holding a key in the channel list no longer freezes the app\n• The list draws only 1 new row per step (much lighter on weak boxes)"
+  "tr": "• Eski Fire TV (Fire OS 6 / Android 7): HTTPS sunucular, EPG ve logolar artık açılır\n• Donma (ANR) düzeltmesi dahil",
+  "en": "• Old Fire TV (Fire OS 6 / Android 7): HTTPS servers, EPG and logos now open\n• Includes the freeze (ANR) fix"
  }
 }
