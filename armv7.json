@@ -1,13 +1,13 @@
 {
  "variant": "armv7",
  "package": "com.livinggo.pro.member.debug",
- "versionCode": 302,
- "versionName": "1.0.302",
- "file": "LivingGo-armv7-1.0.302.apk",
- "size": 46623082,
- "sha256": "c805d9048034a562ba3dc49224d7102588ff58114dd0323e1c52261866432f4b",
+ "versionCode": 303,
+ "versionName": "1.0.303",
+ "file": "LivingGo-armv7-1.0.303.apk",
+ "size": 46623883,
+ "sha256": "08cc54f00a08d999b372d826b8e7455bb86f48db38130a6c8e4fe516d1a90e21",
  "notes": {
-  "tr": "• Kanal listelerinde kapanma için kökten düzeltme: Canlı TV ve oynatıcı kanal listesi yeni yapıda (ekranda 8 satır, kanallar kayar)\n• Kumanda ve görünüm aynı",
-  "en": "• Root fix for closing in channel lists: Live TV and player channel list rebuilt (8 rows on screen, channels scroll)\n• Same remote control and look"
+  "tr": "• Donma (ANR) düzeltmesi: kanal listesinde tuş basılı tutunca uygulama artık donmaz\n• Liste her adımda sadece 1 satır çizer (zayıf kutularda çok daha hafif)",
+  "en": "• Freeze (ANR) fix: holding a key in the channel list no longer freezes the app\n• The list draws only 1 new row per step (much lighter on weak boxes)"
  }
 }
