@@ -1,13 +1,13 @@
 {
  "variant": "universal",
  "package": "com.livinggo.pro.member.debug",
- "versionCode": 298,
- "versionName": "1.0.298",
- "file": "LivingGo-universal-1.0.298.apk",
+ "versionCode": 299,
+ "versionName": "1.0.299",
+ "file": "LivingGo-universal-1.0.299.apk",
  "size": 70844056,
- "sha256": "7d7338747c56e9e56b1e20e70e71152035e6a30183ee4b91d8c13b5eaaad7ff5",
+ "sha256": "1df85d2bed35679f9e49b3ec35c586172b0efff07749e78535689071e6292729",
  "notes": {
-  "tr": "• Canlı TV kanal listesinde kapanma düzeltmesi (kanal logoları, listeler ve Infobar güvenli yapıya alındı)\n• Görünüm aynı kaldı\n• Kanal taşıma: bir seferde 1 kanal",
-  "en": "• Fix for closing in the Live TV channel list (channel logos, lists and Info Bar use a safer layout)\n• Same look\n• Channel move: one channel at a time"
+  "tr": "• Canlı TV kanal listesinde hızlı geçişte kapanma düzeltmesi (liste, önizleme halkası, program şeridi, oynatıcı kanal listesi)\n• Görünüm aynı",
+  "en": "• Fix for closing on fast moves in the Live TV channel list (list, preview ring, schedule strip, player channel list)\n• Same look"
  }
 }
