@@ -1,13 +1,13 @@
 {
  "variant": "armv7",
  "package": "com.livinggo.pro.member.debug",
- "versionCode": 299,
- "versionName": "1.0.299",
- "file": "LivingGo-armv7-1.0.299.apk",
- "size": 46619772,
- "sha256": "d98354f92fc074c5eab171a5657e7ad0d14f387c4415162ea0847874d646bb00",
+ "versionCode": 301,
+ "versionName": "1.0.301",
+ "file": "LivingGo-armv7-1.0.301.apk",
+ "size": 46622320,
+ "sha256": "1279060a1b5c0c8bbe6cd74fb52ddc9eeec518f3b2d2a743bd4dff6b64fb0eea",
  "notes": {
-  "tr": "• Canlı TV kanal listesinde hızlı geçişte kapanma düzeltmesi (liste, önizleme halkası, program şeridi, oynatıcı kanal listesi)\n• Görünüm aynı",
-  "en": "• Fix for closing on fast moves in the Live TV channel list (list, preview ring, schedule strip, player channel list)\n• Same look"
+  "tr": "• Oynatıcıdaki kanal listesinde kanal değiştirirken kapanma düzeltmesi (yeni kayan yazı)\n• Görünüm aynı",
+  "en": "• Fix for closing while changing channels in the player channel list (new scrolling text)\n• Same look"
  }
 }
