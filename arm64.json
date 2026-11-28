@@ -1,13 +1,13 @@
 {
  "variant": "arm64",
  "package": "com.livinggo.pro.member.debug",
- "versionCode": 295,
- "versionName": "1.0.295",
- "file": "LivingGo-arm64-1.0.295.apk",
- "size": 50324859,
- "sha256": "362b43921be466ee59110e8041990fb62c9036673d5a51dc6af642ad1107ceda",
+ "versionCode": 298,
+ "versionName": "1.0.298",
+ "file": "LivingGo-arm64-1.0.298.apk",
+ "size": 50326969,
+ "sha256": "ad6a58a63b98e7b4dd07adb3aeb23606e49a78cda5be72a0d8b104dd7d4c03dd",
  "notes": {
-  "tr": "• Kanal taşıma: bir seferde 1 kanal\n• Taşıma sırasında çökme düzeltmesi (liste satırları yer değiştirmez)\n• Hata kaydı sürüm ve ekran bilgisini gösterir",
-  "en": "• Channel move: one channel at a time\n• Crash fix while moving (list rows no longer re-attached)\n• Crash record shows version and screen"
+  "tr": "• Canlı TV kanal listesinde kapanma düzeltmesi (kanal logoları, listeler ve Infobar güvenli yapıya alındı)\n• Görünüm aynı kaldı\n• Kanal taşıma: bir seferde 1 kanal",
+  "en": "• Fix for closing in the Live TV channel list (channel logos, lists and Info Bar use a safer layout)\n• Same look\n• Channel move: one channel at a time"
  }
 }
