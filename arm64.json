@@ -1,13 +1,13 @@
 {
  "variant": "arm64",
  "package": "com.livinggo.pro.member.debug",
- "versionCode": 301,
- "versionName": "1.0.301",
- "file": "LivingGo-arm64-1.0.301.apk",
- "size": 50329975,
- "sha256": "b28b2bafa71eaddef594795ec2e58ae72b9e52c6116e6a4fe53368482b96d4f8",
+ "versionCode": 302,
+ "versionName": "1.0.302",
+ "file": "LivingGo-arm64-1.0.302.apk",
+ "size": 50330737,
+ "sha256": "5e2bb513dc2360c0e2d4a6b23ad7f719f66ca1e35eac9e9bc801519955389747",
  "notes": {
-  "tr": "• Oynatıcıdaki kanal listesinde kanal değiştirirken kapanma düzeltmesi (yeni kayan yazı)\n• Görünüm aynı",
-  "en": "• Fix for closing while changing channels in the player channel list (new scrolling text)\n• Same look"
+  "tr": "• Kanal listelerinde kapanma için kökten düzeltme: Canlı TV ve oynatıcı kanal listesi yeni yapıda (ekranda 8 satır, kanallar kayar)\n• Kumanda ve görünüm aynı",
+  "en": "• Root fix for closing in channel lists: Live TV and player channel list rebuilt (8 rows on screen, channels scroll)\n• Same remote control and look"
  }
 }
